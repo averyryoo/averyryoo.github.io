@@ -1,4 +1,7 @@
 /* Reset default styles */
+
+a {text-decoration:none;}
+
 body, h1, h2, h3, p, ul, li {
     margin: 0;
     padding: 0;
@@ -14,7 +17,7 @@ body {
 
 /* Header and navigation styles */
 header {
-    background-color: #18125c;
+    background-color: #212E52;
     /* background-color: #333; */
     color: #fff;
     padding: 1rem;
