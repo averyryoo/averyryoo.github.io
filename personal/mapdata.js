@@ -920,7 +920,8 @@ var simplemaps_worldmap_mapdata={
       inactive: "no",
       hide: "no",
       color: "#212e52",
-      hover_color: "#d4af37"
+      hover_color: "#d4af37",
+      url: "#USA"
     },
     UY: {
       name: "Uruguay",
