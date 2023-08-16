@@ -12,6 +12,24 @@ folder_path = os.path.join(
     args.folder_name
 )
 
+def zero(fpath):
+    print("    <div class='vcol'>")
+    print(f"        <img src='{fpath}' alt={args.folder_name}>")
+
+def one(fpath):
+    print(f"        <img src='{fpath}' alt={args.folder_name}>")
+    print("    </div>")
+
+def two(fpath):
+    print(f"    <img src='{fpath}' alt={args.folder_name}>")
+
+options = {
+    0: zero,
+    1: one,
+    2: two
+}
+
+option = 0
 for i, fname in enumerate(os.listdir(folder_path)):
     new_fpath = os.path.join(folder_path,args.folder_name+f"_{i+1}.jpg")
     
@@ -21,11 +39,16 @@ for i, fname in enumerate(os.listdir(folder_path)):
             new_fpath
         )
     if args.generate_output:
-        if i == 0:
+        if i % 9 == 0:
             print("<div class='column'>")
-        elif i % 5 == 0:
-            print("</div>")
-            print("<div class='column'>")
-        print(f"    <img src='{new_fpath}' alt={args.folder_name}>")
-
         
+        
+        options[option](new_fpath)
+
+        if option == 2:
+            option = 0
+        else:
+            option += 1
+        
+        if (i + 1) % 9 == 0:
+            print("</div>")
