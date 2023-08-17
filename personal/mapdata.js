@@ -864,7 +864,7 @@ var simplemaps_worldmap_mapdata={
       hover_color: "#d4af37"
     },
     TJ: {
-      name: "Tadjikistan",
+      name: "Tajikistan",
       hide: "no",
       inactive: "no"
     },
@@ -884,7 +884,7 @@ var simplemaps_worldmap_mapdata={
       inactive: "no"
     },
     TR: {
-      name: "Turkey",
+      name: "Türkiye",
       hide: "no",
       inactive: "no"
     },
