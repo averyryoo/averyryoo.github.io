@@ -103,7 +103,10 @@ var simplemaps_worldmap_mapdata={
     AT: {
       name: "Austria",
       hide: "no",
-      inactive: "no"
+      inactive: "no",
+      color: "#212e52",
+      hover_color: "#d4af37",
+      url: "#Canada"
     },
     AU: {
       name: "Australia",
@@ -221,7 +224,10 @@ var simplemaps_worldmap_mapdata={
     CH: {
       name: "Switzerland",
       hide: "no",
-      inactive: "no"
+      inactive: "no",
+      color: "#212e52",
+      hover_color: "#d4af37",
+      url: "#Canada"
     },
     CI: {
       name: "Ivory Coast",
@@ -271,12 +277,18 @@ var simplemaps_worldmap_mapdata={
     CZ: {
       name: "Czech Republic",
       hide: "no",
-      inactive: "no"
+      inactive: "no",
+      color: "#212e52",
+      hover_color: "#d4af37",
+      url: "#Canada"
     },
     DE: {
       name: "Germany",
       hide: "no",
-      inactive: "no"
+      inactive: "no",
+      color: "#212e52",
+      hover_color: "#d4af37",
+      url: "#Canada"
     },
     DJ: {
       name: "Djibouti",
@@ -441,7 +453,10 @@ var simplemaps_worldmap_mapdata={
     HU: {
       name: "Hungary",
       hide: "no",
-      inactive: "no"
+      inactive: "no",
+      color: "#212e52",
+      hover_color: "#d4af37",
+      url: "#Canada"
     },
     IC: {
       name: "Canary Islands",
@@ -804,7 +819,10 @@ var simplemaps_worldmap_mapdata={
     SK: {
       name: "Slovak Republic",
       hide: "no",
-      inactive: "no"
+      inactive: "no",
+      color: "#212e52",
+      hover_color: "#d4af37",
+      url: "#Canada"
     },
     SL: {
       name: "Sierra Leone",
