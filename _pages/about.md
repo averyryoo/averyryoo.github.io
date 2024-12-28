@@ -39,6 +39,10 @@ In another life, I studied biomedical engineering at the University of Waterloo,
 | AI for medicine                | trivia        |
 
 
+## news
+
+* **2024-12-28:** new site!
+* **2024-12-24:** our submission, "Towards generalizable, real-time decoders for brain-computer interfaces" has been accepted to Cosyne 2025. See you in Montréal!
 <!--   
 Outside of research, I am passionate about travel, coffee, professional sports (NBA, soccer, F1), bouldering, and spicy food. -->
 
