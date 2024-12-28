@@ -30,14 +30,17 @@ In another life, I studied biomedical engineering at the University of Waterloo,
   * bouldering
   * spicy food -->
 
-| research interests   | non-research interests          |
+<!-- | research interests   | non-research interests          |
 |------------------|-----------------|
 | deep generative models         | light-roast coffee        |
 | multimodal learning            | watching sports (NBA, soccer, F1, NFL)        |
 | compositionality and modularity| bouldering       |
 | theoretical neuroscience       | ginger tea        |
-| AI for medicine                | trivia        |
+| AI for medicine                | trivia        | -->
 
+| research interests   | non-research interests          |
+|------------------|-----------------|
+| - deep generative models <br>- multimodal learning <br>- compositionality and modularity <br>- theoretical neuroscience <br>- AI for medicine        | - light-roast coffee <br>- watching sports (NBA, soccer, F1, NFL) <br>- bouldering <br>- ginger tea <br>- trivia        |
 
 ## news
 
