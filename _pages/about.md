@@ -44,7 +44,7 @@ In another life, I studied biomedical engineering at the University of Waterloo,
 
 ## news
 
-* **2025-01-20:** served as a reviewer for [CogSURF 2025][https://www.cogsurf.org]
+* **2025-01-20:** served as a reviewer for [CogSURF 2025](https://www.cogsurf.org)
 * **2024-12-28:** new site!
 * **2024-12-24:** our submission, "Towards generalizable, real-time decoders for brain-computer interfaces" has been accepted to Cosyne 2025. See you in Montréal!
 * **2024-12-11:** our workshop proposal on foundation models for neuroscience has been accepted to Cosyne 2025 -- we hope to see you there!
