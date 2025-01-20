@@ -43,7 +43,7 @@ In another life, I studied biomedical engineering at the University of Waterloo,
 | - deep generative models <br>- multimodal learning <br>- compositionality and modularity <br>- theoretical neuroscience <br>- AI for medicine        | - light-roast coffee <br>- watching sports (NBA, soccer, F1, NFL) <br>- bouldering <br>- ginger tea <br>- trivia        |
 
 ## news
-
+* **2025-01-20:** received the UNIQUE Excellence Scholarship at the master's level. Thank you to UNIQUE for this honour!
 * **2025-01-20:** served as a reviewer for [CogSURF 2025](https://www.cogsurf.org)
 * **2024-12-28:** new site!
 * **2024-12-24:** our submission, "Towards generalizable, real-time decoders for brain-computer interfaces" has been accepted to Cosyne 2025. See you in Montréal!
