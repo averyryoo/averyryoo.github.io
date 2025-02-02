@@ -42,12 +42,25 @@ In another life, I studied biomedical engineering at the University of Waterloo,
 |------------------|-----------------|
 | - deep generative models <br>- multimodal learning <br>- compositionality and modularity <br>- theoretical neuroscience <br>- AI for medicine        | - light-roast coffee <br>- watching sports (NBA, soccer, F1, NFL) <br>- bouldering <br>- ginger tea <br>- trivia        |
 
-## news
-* **2025-01-20:** received the UNIQUE Excellence Scholarship at the master's level. Thank you to UNIQUE for this honour!
+<!-- ## news -->
+<!-- * **2025-01-20:** received the UNIQUE Excellence Scholarship at the master's level. Thank you to UNIQUE for this honour!
 * **2025-01-20:** served as a reviewer for [CogSURF 2025](https://www.cogsurf.org)
 * **2024-12-28:** new site!
 * **2024-12-24:** our submission, "Towards generalizable, real-time decoders for brain-computer interfaces" has been accepted to Cosyne 2025. See you in Montréal!
-* **2024-12-11:** our workshop proposal on foundation models for neuroscience has been accepted to Cosyne 2025 -- we hope to see you there!
+* **2024-12-11:** our workshop proposal on foundation models for neuroscience has been accepted to Cosyne 2025 -- we hope to see you there! -->
+
+## news
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; border-radius: 5px; background: #f9f9f9;">
+  <ul style="padding-left: 20px; margin: 0;">
+    <li><b>2025-01-22:</b> our paper "Expressivity of Neural Networks with Random Weights and Learned Biases" has been accepted to ICLR 2025!
+    <li><b>2025-01-20:</b> received the UNIQUE Excellence Scholarship at the master's level. Thank you to UNIQUE for this honour!</li>
+    <li><b>2025-01-20:</b> served as a reviewer for <a href="https://www.cogsurf.org">CogSURF 2025</a></li>
+    <li><b>2024-12-28:</b> new site!</li>
+    <li><b>2024-12-24:</b> our submission, "Towards generalizable, real-time decoders for brain-computer interfaces" has been accepted to Cosyne 2025. See you in Montréal!</li>
+    <li><b>2024-12-11:</b> our workshop proposal on foundation models for neuroscience has been accepted to Cosyne 2025 -- we hope to see you there!</li>
+  </ul>
+</div>
+
 <!--   
 Outside of research, I am passionate about travel, coffee, professional sports (NBA, soccer, F1), bouldering, and spicy food. -->
 
