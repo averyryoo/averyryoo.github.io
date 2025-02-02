@@ -29,8 +29,8 @@ main:
   #   url: /year-archive/
     
   - title: "cv"
-    url: "https://drive.google.com/file/d/1zXx0Inj_wqfizF7NKg1rEw1SGkbNb9S3/view?usp=share_link"
-
+    # url: "https://drive.google.com/file/d/1zXx0Inj_wqfizF7NKg1rEw1SGkbNb9S3/view?usp=share_link"
+    url: /cv/
   - title: "personal"
     url: /personal/
 
