@@ -54,6 +54,7 @@ In another life, I studied biomedical engineering at the University of Waterloo,
 ## news
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; border-radius: 5px; background: #f9f9f9;">
   <ul style="padding-left: 20px; margin: 0;">
+    <li><b>2025-02-26:</b> presented our work on "A generalizable approach to real-time neural decoding" at the UNIQUE Fellows Get-Together</li>
     <li><b>2025-01-22:</b> our paper "Expressivity of Neural Networks with Random Weights and Learned Biases" has been accepted to ICLR 2025!</li>
     <li><b>2025-01-20:</b> received the UNIQUE Excellence Scholarship at the master's level. Thank you to UNIQUE for this honour!</li>
     <li><b>2025-01-20:</b> served as a reviewer for <a href="https://www.cogsurf.org">CogSURF 2025</a></li>
