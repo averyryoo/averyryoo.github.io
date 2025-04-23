@@ -21,7 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1122.png"
+  # avatar           : "IMG_1122.png"
+  avatar           : "Avery Ryoo-520.jpg"
   name             : "avery ryoo (he/him)"
   pronouns         : # "he/him"
   bio              : "CS MSc at Mila - Quebec AI Institute"
