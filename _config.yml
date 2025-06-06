@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-title                    : "avery (hee-woon) ryoo"
+title                    : ""
 title_separator          : "-"
 name                     : &name "avery hee-woon ryoo"
 description              : &description "personal description"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "hi there（〜^∇^ )〜"
+title: "avery hw ryoo"
 author_profile: true
 redirect_from: 
   - /about/
