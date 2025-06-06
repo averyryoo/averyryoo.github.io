@@ -42,7 +42,7 @@ In another life, I studied biomedical engineering at the University of Waterloo,
 
 | research interests   | non-research interests          |
 |------------------|-----------------|
-| - deep generative models <br>- AI for medicine/science <br>- multimodal learning <br>- dynamical systems <br>- neuroprosthetics         | - light-roast coffee <br>- watching sports (NBA, soccer, F1, NFL) <br>- bouldering <br>- ginger tea <br>- trivia        |
+| - deep generative models <br>- AI for medicine/science <br>- compositionality/modularity <br>- dynamical systems <br>- neuroprosthetics         | - light-roast coffee <br>- watching sports (NBA, soccer, F1, NFL) <br>- bouldering <br>- ginger tea <br>- trivia        |
 
 <!-- ## news -->
 <!-- * **2025-01-20:** received the UNIQUE Excellence Scholarship at the master's level. Thank you to UNIQUE for this honour!
