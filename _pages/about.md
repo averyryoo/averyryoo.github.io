@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-### <span style="color: purple;">***Currently looking for Summer 2025 research internships!!***</span>
-
 I am a graduate student at Mila - Quebec AI Institute and the Université de Montréal, where I study Computer Science with a specialization in Artificial Intelligence. I have the fortune to be advised by Dr. Matthew Perich and Dr. Guillaume Lajoie. Check out their respective labs [here](https://sinthlab.quebec) and [here](https://www.guillaumelajoie.com)!
  
 I am primarily interested in deep generative models -- especially their applications in medicine and science. I aim to use ideas from deep learning, compositionality, and dynamical systems theory to design generative frameworks that are faster and more sample-efficient — a crucial step in mitigating the widening resource disparity in an era of increasingly large models. My other research interests include in-context learning and foundation models for neuroscience.
