@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at Mila - Quebec AI Institute and the Université de Montréal, where I study Computer Science with a specialization in Artificial Intelligence. I have the fortune to be advised by Dr. Matthew Perich and Dr. Guillaume Lajoie. Check out their respective labs [here](https://sinthlab.quebec) and [here](https://www.guillaumelajoie.com)!
+I am a PhD student at Mila - Quebec AI Institute and the Université de Montréal, where I study Computer Science with a specialization in Artificial Intelligence. I have the fortune to be advised by Dr. Matthew Perich and Dr. Guillaume Lajoie. Check out their respective labs [here](https://sinthlab.quebec) and [here](https://www.guillaumelajoie.com)!
  
-I am primarily interested in deep generative models -- especially their applications in medicine and science. I aim to use ideas from deep learning, compositionality, and dynamical systems theory to design generative frameworks that are faster and more sample-efficient — a crucial step in mitigating the widening resource disparity in an era of increasingly large models. My other research interests include in-context learning and foundation models for neuroscience.
+I am primarily interested in deep generative models -- especially their applications in medicine and science. I aim to use ideas from deep learning, compositionality, and dynamical systems theory to design generative frameworks that are faster and more sample-efficient — a crucial step in mitigating the widening resource disparity in an era of increasingly large models.
 
 <!-- Primarily, I am interested in understanding and bridging the gap between natural and artificial intelligence. In particular, I am intrigued by how effortlessly humans use **multimodal perception** and **compositional generalization** to reason and rapidly learn new tasks given little to no information -- abilities that mostly elude our most powerful AI models. Currently, I am working on input-driven continual learning and real-time decoding for brain-computer interfaces. -->
 
 <!-- In particular, I am intrigued by how these systems can rapidly learn and generalize to new tasks given little to no information — an ability that is simultaneously characteristic of natural intelligence and elusive to current AI systems due to the catastrophic forgetting phenomenon. To this end, I aim to mathematically elucidate how different paradigms of task learning (e.g., continual, meta, in-context, etc.) are affected by factors such as learning dynamics, compositional representations, and memory. I believe that these insights can help us build more interpretable and sample-efficient AI frameworks — a crucial step in mitigating the widening resource disparity in an era of increasingly large models. -->
- 
+
 In another life, I studied biomedical engineering at the University of Waterloo, during which I completed several internships in data science, computer vision research, and brain-computer interfaces.
 
 <!-- ### research interests
@@ -52,6 +52,12 @@ In another life, I studied biomedical engineering at the University of Waterloo,
 ## news
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; border-radius: 5px; background: #f9f9f9;">
   <ul style="padding-left: 20px; margin: 0;">
+    <li><b>2025-09-18:</b> our submission, "Towards a generalizable, unified framework for decoding from multimodal neural activity", has been accepted to the BrainBodyFM Workshop at NeurIPS 2025!</li>
+    <li><b>2025-09-18:</b> our submission, "Generalizable, real-time neural decoding with hybrid state-space models", has been accepted to NeurIPS 2025! see you in San Diego 🏖️</li>
+    <li><b>2025-09-01:</b> attended the <a href="https://paiss.inria.fr/">PAISS 2025</a> summer school in Grenoble 🇫🇷</li>
+    <li><b>2025-08-25:</b> officially started my PhD!</li>
+    <li><b>2025-04-21:</b> our submission, "Generalizable, real-time neural decoding with hybrid state-space models", has been accepted to CCN 2025!</li>
+    <li><b>2025-04-11:</b> presented our work on "A generalizable approach to real-time neural decoding" at the Mila Neural-AI Reading Group</li>
     <li><b>2025-02-26:</b> presented our work on "A generalizable approach to real-time neural decoding" at the UNIQUE Fellows Get-Together</li>
     <li><b>2025-01-22:</b> our paper "Expressivity of Neural Networks with Random Weights and Learned Biases" has been accepted to ICLR 2025!</li>
     <li><b>2025-01-20:</b> received the UNIQUE Excellence Scholarship at the master's level. Thank you to UNIQUE for this honour!</li>
