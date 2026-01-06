@@ -1,17 +1,23 @@
+- title: "Towards a generalizable, unified framework for multimodal neural decoding"
+  authors: "NH Krishna, M Loiselle, <strong>AHW Ryoo</strong>, MG Perich, G Lajoie"
+  venue: "BrainBodyFM Workshop at NeurIPS 2025"
+  image: /assets/images/papers/pomme.png
+  link: https://arxiv.org/abs/2506.05320
+
 - title: "Generalizable, real-time neural decoding with hybrid state-space models"
-  authors: "AHW Ryoo, NH Krishna, X Mao, M Azabou, EL Dyer, MG Perich, G Lajoie"
+  authors: "<strong>AHW Ryoo</strong>, NH Krishna, X Mao, M Azabou, EL Dyer, MG Perich, G Lajoie"
   venue: "NeurIPS 2025"
   image: /assets/images/papers/possm.png
   link: https://arxiv.org/abs/2506.05320
 
 - title: "Spatial organization of multisensory convergence in mouse isocortex"
-  authors: "K Patel, AHW Ryoo, S Mihalas, B Tripp"
+  authors: "K Patel, <strong>AHW Ryoo</strong>, S Mihalas, B Tripp"
   venue: "In review"
   image: /assets/images/papers/isocortex.jpg
   link: https://www.biorxiv.org/content/10.1101/2024.12.09.627642v1.abstract
 
 - title: "Expressivity of neural networks with random weights and learned biases"
-  authors: "E Williams, A Payeur, AHW Ryoo, T Jiralerspong, MG Perich, G Lajoie"
+  authors: "E Williams, A Payeur, <strong>AHW Ryoo</strong>, T Jiralerspong, MG Perich, G Lajoie"
   venue: "ICLR 2025"
   image: /assets/images/papers/bias-learning.jpg
   link: https://arxiv.org/abs/2407.00957

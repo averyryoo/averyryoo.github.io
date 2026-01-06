@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: blog
 bg_image: /assets/images/bg-blog.jpg
 ---
 

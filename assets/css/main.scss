@@ -200,6 +200,25 @@ body {
   box-shadow: 0 12px 36px rgba(0, 0, 0, 0.12);
 }
 
+.post {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.post h1 {
+  font-size: 2rem;
+  margin-top: 1.5rem;
+}
+
+.post h2 {
+  font-size: 1.5rem;
+  margin-top: 1.25rem;
+}
+
+.post p {
+  margin-bottom: 1rem;
+}
+
 @media (max-width: 720px) {
   .page-wrapper {
     padding: 2.5rem 1rem;
