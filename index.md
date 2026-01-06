@@ -2,7 +2,6 @@
 layout: default
 title: home
 bg_image: /assets/images/bg-index.jpg
-permalink: /home
 ---
 
 <div class="hero">
