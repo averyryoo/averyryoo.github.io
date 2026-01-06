@@ -2,6 +2,7 @@
 layout: page
 title: research
 bg_image: /assets/images/bg-research.jpg
+permalink: /research
 ---
 
 {% for paper in site.data.papers %}

@@ -2,6 +2,7 @@
 layout: page
 title: cv
 bg_image: /assets/images/bg-cv.jpg
+permalink: /cv
 ---
 
 ## <span style="color: purple;">education</span>

@@ -2,6 +2,7 @@
 layout: page
 title: blog
 bg_image: /assets/images/bg-blog.jpg
+permalink: /blog
 ---
 
 {% for post in site.posts %}

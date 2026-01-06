@@ -2,6 +2,7 @@
 layout: page
 title: here are some of my favourite...
 bg_image: /assets/images/bg-personal.jpg
+permalink: /personal
 ---
 
 ## <span style="color: purple;">films</span>
