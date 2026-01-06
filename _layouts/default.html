@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <style>
+      body {
+      background-image: url('{{ page.bg_image | default: "/assets/images/bg-index.jpg" }}');
+      }
+    </style>
+
+    <div class="page-wrapper">
+      <main class="card">
+        {% include nav.html %}
+        {{ content }}
+      </main>
+    </div>
+  </body>
+</html>

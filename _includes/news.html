@@ -1,0 +1,11 @@
+<section class="news">
+  <h2>News</h2>
+  <div class="news-box">
+    {% for item in site.data.news %}
+      <div class="news-item">
+        <span class="news-date">{{ item.date }}</span>
+        <span>{{ item.text }}</span>
+      </div>
+    {% endfor %}
+  </div>
+</section>

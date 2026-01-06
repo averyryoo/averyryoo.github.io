@@ -1,0 +1,17 @@
+- title: "Generalizable, real-time neural decoding with hybrid state-space models"
+  authors: "AHW Ryoo, NH Krishna, X Mao, M Azabou, EL Dyer, MG Perich, G Lajoie"
+  venue: "NeurIPS 2025"
+  image: /assets/images/papers/possm.png
+  link: https://arxiv.org/abs/2506.05320
+
+- title: "Spatial organization of multisensory convergence in mouse isocortex"
+  authors: "K Patel, AHW Ryoo, S Mihalas, B Tripp"
+  venue: "In review"
+  image: /assets/images/papers/isocortex.jpg
+  link: https://www.biorxiv.org/content/10.1101/2024.12.09.627642v1.abstract
+
+- title: "Expressivity of neural networks with random weights and learned biases"
+  authors: "E Williams, A Payeur, AHW Ryoo, T Jiralerspong, MG Perich, G Lajoie"
+  venue: "ICLR 2025"
+  image: /assets/images/papers/bias-learning.jpg
+  link: https://arxiv.org/abs/2407.00957

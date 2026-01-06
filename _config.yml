@@ -1,0 +1,22 @@
+title: Avery Ryoo 🦖
+description: PhD Student at Mila / Université de Montréal
+url: https://averyryoo.github.io
+markdown: kramdown
+
+kramdown:
+  math_engine: katex
+  input: GFM
+
+plugins:
+  - jekyll-feed
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+social:
+  email: mailto:hee-woon.ryoo@mila.quebec
+  twitter: https://twitter.com/averyryoo
+  bluesky: https://bsky.app/profile/averyryoo.bsky.social
+  scholar: https://scholar.google.com/citations?user=W-kRDPYAAAAJ&hl=en&oi=ao
+  linkedin: https://www.linkedin.com/in/averyryoo/
