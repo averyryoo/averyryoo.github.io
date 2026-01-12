@@ -1,0 +1,42 @@
+// Colors
+$color-text: #111;
+$color-text-secondary: #333;
+$color-text-muted: #444;
+$color-text-light: #555;
+$color-text-lighter: #666;
+$color-accent: purple;
+$color-border: #e5e7eb;
+$color-bg-social: #f8fafc;
+
+// Card & Background
+$card-bg: rgba(255, 255, 255, 0.92);
+$card-bg-paper: rgba(255, 255, 255, 0.85);
+$card-radius: 20px;
+$card-radius-sm: 14px;
+$card-radius-xs: 12px;
+
+// Shadows
+$shadow-sm: 0 6px 18px rgba(0, 0, 0, 0.08);
+$shadow-md: 0 8px 22px rgba(15, 23, 42, 0.08);
+$shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.15);
+$shadow-hover: 0 12px 28px rgba(15, 23, 42, 0.14);
+$shadow-card-hover: 0 12px 36px rgba(0, 0, 0, 0.12);
+
+// Typography
+$font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif;
+
+// Spacing
+$spacing-xs: 0.25rem;
+$spacing-sm: 0.5rem;
+$spacing-md: 0.75rem;
+$spacing-lg: 1rem;
+$spacing-xl: 1.25rem;
+$spacing-2xl: 1.5rem;
+$spacing-3xl: 2rem;
+$spacing-4xl: 2.5rem;
+
+// Breakpoints
+$breakpoint-mobile: 720px;
+
+// Transitions
+$transition-fast: 0.15s ease;

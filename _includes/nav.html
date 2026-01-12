@@ -1,7 +1,7 @@
 <nav class="nav">
-  <a href="/">home</a>
-  <a href="/blog">blog</a>
-  <a href="/research">research</a>
-  <a href="/cv">cv</a>
-  <a href="/personal">personal</a>
+  <a href="/"{% if page.url == '/' %} class="active"{% endif %}>home</a>
+  <a href="/blog"{% if page.url == '/blog' or page.layout == 'post' %} class="active"{% endif %}>blog</a>
+  <a href="/research"{% if page.url == '/research' %} class="active"{% endif %}>research</a>
+  <a href="/cv"{% if page.url == '/cv' %} class="active"{% endif %}>cv</a>
+  <a href="/personal"{% if page.url == '/personal' %} class="active"{% endif %}>personal</a>
 </nav>

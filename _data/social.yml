@@ -1,0 +1,33 @@
+- platform: email
+  url: mailto:hee-woon.ryoo@mila.quebec
+  label: Email
+  icon_type: svg
+  accent: "#111827"
+
+- platform: twitter
+  url: https://twitter.com/averyryoo
+  label: Twitter / X
+  icon_type: img
+  icon_src: /assets/images/icons/twitter.png
+  accent: "#df21d9"
+
+- platform: bluesky
+  url: https://bsky.app/profile/averyryoo.bsky.social
+  label: Bluesky
+  icon_type: img
+  icon_src: /assets/images/icons/bluesky.png
+  accent: "#0284c7"
+
+- platform: scholar
+  url: https://scholar.google.com/citations?user=W-kRDPYAAAAJ&hl=en&oi=ao
+  label: Google Scholar
+  icon_type: img
+  icon_src: /assets/images/icons/scholar.png
+  accent: "#6600f3"
+
+- platform: linkedin
+  url: https://www.linkedin.com/in/averyryoo/
+  label: LinkedIn
+  icon_type: img
+  icon_src: /assets/images/icons/linkedin.png
+  accent: "#0a66c2"

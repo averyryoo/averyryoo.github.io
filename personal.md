@@ -5,7 +5,7 @@ bg_image: /assets/images/bg-personal.jpg
 permalink: /personal
 ---
 
-## <span style="color: purple;">films</span>
+## <span class="section-heading">films</span>
 <div class="media-grid">
   <img src="/assets/images/personal/films/about_time.jpg">
   <img src="/assets/images/personal/films/handmaiden.jpg">
@@ -15,7 +15,7 @@ permalink: /personal
   <img src="/assets/images/personal/films/budapest.jpg">
 </div>
 
-## <span style="color: purple;">albums</span>
+## <span class="section-heading">albums</span>
 <div class="media-grid">
   <img src="/assets/images/personal/albums/atliens.jpg">
   <img src="/assets/images/personal/albums/explorations.jpg">

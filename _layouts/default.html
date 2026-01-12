@@ -3,13 +3,7 @@
   <head>
     {% include head.html %}
   </head>
-  <body>
-    <style>
-      body {
-      background-image: url('{{ page.bg_image | default: "/assets/images/bg-index.jpg" }}');
-      }
-    </style>
-
+  <body style="--bg-image: url('{{ page.bg_image | default: "/assets/images/bg-index.jpg" }}')">
     <div class="page-wrapper">
       <main class="card">
         {% include nav.html %}

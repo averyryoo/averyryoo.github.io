@@ -22,33 +22,6 @@ bg_image: /assets/images/bg-index.jpg
   </div>
 </div>
 
-<div class="social-block">
-  <div class="social-links" aria-label="Social links">
-    <a class="social-link email" href="{{ site.social.email }}" aria-label="Email">
-      <svg class="social-icon" viewBox="0 0 24 24" aria-hidden="true">
-        <rect x="3" y="5" width="18" height="14" rx="2.2" ry="2.2"></rect>
-        <path d="M4 7.5 12 12.5 20 7.5"></path>
-        <path d="M4 17l4.5-3.2"></path>
-        <path d="M20 17 15.5 13.8"></path>
-      </svg>
-    </a>
-
-    <a class="social-link twitter" href="{{ site.social.twitter }}" aria-label="Twitter / X" target="_blank" rel="noreferrer">
-      <img class="social-icon-img" src="/assets/images/icons/twitter.png">
-    </a>
-
-    <a class="social-link bluesky" href="{{ site.social.bluesky }}" aria-label="Bluesky" target="_blank" rel="noreferrer">
-      <img class="social-icon-img" src="/assets/images/icons/bluesky.png">
-    </a>
-
-    <a class="social-link scholar" href="{{ site.social.scholar }}" aria-label="Google Scholar" target="_blank" rel="noreferrer">
-      <img class="social-icon-img" src="/assets/images/icons/scholar.png">
-    </a>
-
-    <a class="social-link linkedin" href="{{ site.social.linkedin }}" aria-label="LinkedIn" target="_blank" rel="noreferrer">
-      <img class="social-icon-img" src="/assets/images/icons/linkedin.png">
-    </a>
-  </div>
-</div>
+{% include social.html %}
 
 {% include news.html %}

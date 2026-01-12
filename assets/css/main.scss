@@ -1,85 +1,119 @@
 ---
 ---
 
+@import "variables";
 
+// Base styles
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", sans-serif;
-  background: url("/assets/images/background.jpg") center / cover fixed no-repeat;
-  color: #111;
+  font-family: $font-family;
+  background-image: var(--bg-image, url("/assets/images/bg-index.jpg"));
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  color: $color-text;
 }
 
+// Layout
 .page-wrapper {
   display: flex;
   justify-content: center;
-  padding: 4rem 1rem;
+  padding: 4rem $spacing-lg;
 }
 
 .card {
-  background: rgba(255, 255, 255, 0.92);
+  background: $card-bg;
   backdrop-filter: blur(6px);
   max-width: 900px;
   width: 100%;
-  padding: 2.5rem;
-  border-radius: 20px;
+  padding: $spacing-4xl;
+  border-radius: $card-radius;
 }
 
+// Navigation
 .nav {
   display: flex;
-  gap: 1.5rem;
-  margin-bottom: 2rem;
+  gap: $spacing-2xl;
+  margin-bottom: $spacing-3xl;
+
+  a {
+    text-decoration: none;
+    color: $color-text-secondary;
+    font-weight: 500;
+
+    &.active {
+      color: $color-accent;
+      font-weight: 600;
+    }
+
+    &:hover {
+      color: $color-accent;
+    }
+  }
 }
 
-.nav a {
-  text-decoration: none;
-  color: #333;
-  font-weight: 500;
-}
-
+// Hero section
 .hero {
   display: flex;
-  gap: 1.5rem;
+  gap: $spacing-2xl;
   align-items: center;
 }
 
+.headshot {
+  width: 240px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: $card-radius-sm;
+  box-shadow: $shadow-lg;
+}
+
+.subtitle {
+  margin-top: -$spacing-sm;
+  color: $color-text-light;
+}
+
+// Social links
 .social-block {
-  margin: 1.25rem 0 1.5rem;
+  margin: $spacing-xl 0 $spacing-2xl;
 }
 
 .social-links {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
+  gap: $spacing-md;
   flex-wrap: wrap;
 }
 
 .social-link {
-  --accent: #111827;
+  --accent: #{$color-text};
   width: 36px;
   height: 36px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border-radius: 14px;
-  border: 1px solid #e5e7eb;
-  background: #f8fafc;
+  border-radius: $card-radius-sm;
+  border: 1px solid $color-border;
+  background: $color-bg-social;
   color: var(--accent);
-  box-shadow: 0 8px 22px rgba(15, 23, 42, 0.08);
-  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
-}
+  box-shadow: $shadow-md;
+  transition: transform $transition-fast, box-shadow $transition-fast,
+              background-color $transition-fast, border-color $transition-fast,
+              color $transition-fast;
 
-.social-link:hover,
-.social-link:focus-visible {
-  transform: translateY(-2px);
-  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.14);
-  background: var(--accent);
-  color: #fff;
-  border-color: var(--accent);
-}
+  &:hover,
+  &:focus-visible {
+    transform: translateY(-2px);
+    box-shadow: $shadow-hover;
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
 
-.social-link:focus-visible {
-  outline: 2px solid var(--accent);
-  outline-offset: 3px;
+  &:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 3px;
+  }
 }
 
 .social-icon {
@@ -97,85 +131,80 @@ body {
   height: 21px;
   object-fit: contain;
   display: block;
-  transition: filter 0.15s ease;
+  transition: filter $transition-fast;
+
+  .social-link:hover &,
+  .social-link:focus-visible & {
+    filter: invert(1) brightness(1.2);
+  }
 }
 
-.social-link:hover .social-icon-img,
-.social-link:focus-visible .social-icon-img {
-  filter: invert(1) brightness(1.2);
-}
-
-.social-link.twitter { --accent: #df21d9; }
-.social-link.bluesky { --accent: #0284c7; }
-.social-link.scholar { --accent: #6600f3; }
-.social-link.linkedin { --accent: #0a66c2; }
-
-.headshot {
-  width: 240px;
-  height: 300px;
-  object-fit: cover;
-  border-radius: 14px; /* rounded rectangle */
-  box-shadow: 0 8px 24px rgba(0,0,0,0.15);
-}
-
-.subtitle {
-  margin-top: -0.5rem;
-  color: #555;
-}
-
+// News section
 .news-box {
   max-height: 220px;
   overflow-y: auto;
-  margin-top: 1rem;
+  margin-top: $spacing-lg;
 }
 
 .news-item {
-  margin-bottom: 0.75rem;
+  margin-bottom: $spacing-md;
 }
 
 .news-date {
   font-weight: 600;
-  margin-right: 0.5rem;
+  margin-right: $spacing-sm;
 }
 
+// Section headings (used in CV, personal pages)
+.section-heading {
+  color: $color-accent;
+}
+
+// Media grid (personal page)
 .media-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   gap: 16px;
+
+  img {
+    width: 100%;
+    border-radius: $card-radius-xs;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+  }
 }
 
-.media-grid img {
-  width: 100%;
-  border-radius: 12px;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.15);
-}
-
+// Paper cards (research page)
 .paper-card {
   display: flex;
   align-items: center;
-  gap: 1.25rem;
-  padding: 1.25rem;
-  margin-bottom: 1.25rem;
+  gap: $spacing-xl;
+  padding: $spacing-xl;
+  margin-bottom: $spacing-xl;
   text-decoration: none;
   color: inherit;
-  border-radius: 14px;
-  background: rgba(255, 255, 255, 0.85);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
-}
+  border-radius: $card-radius-sm;
+  background: $card-bg-paper;
+  box-shadow: $shadow-sm;
+  transition: transform $transition-fast, box-shadow $transition-fast;
 
-.paper-card img {
-  width: 110px;
-  height: 110px;
-  object-fit: cover;
-  border-radius: 12px;
-  flex-shrink: 0;
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: $shadow-card-hover;
+  }
+
+  img {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: $card-radius-xs;
+    flex-shrink: 0;
+  }
 }
 
 .paper-info {
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: $spacing-xs;
   justify-content: center;
   flex-grow: 1;
 }
@@ -187,41 +216,39 @@ body {
 
 .paper-authors,
 .paper-venue {
-  color: #444;
+  color: $color-text-muted;
   font-size: 0.95rem;
 }
 
 .paper-venue {
-  color: #666;
+  color: $color-text-lighter;
   font-size: 0.9rem;
 }
-.paper-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.12);
-}
 
+// Blog post
 .post {
   font-size: 1.2rem;
   line-height: 1.5;
+
+  h1 {
+    font-size: 2rem;
+    margin-top: $spacing-2xl;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    margin-top: $spacing-xl;
+  }
+
+  p {
+    margin-bottom: $spacing-lg;
+  }
 }
 
-.post h1 {
-  font-size: 2rem;
-  margin-top: 1.5rem;
-}
-
-.post h2 {
-  font-size: 1.5rem;
-  margin-top: 1.25rem;
-}
-
-.post p {
-  margin-bottom: 1rem;
-}
-
-@media (max-width: 720px) {
+// Responsive
+@media (max-width: $breakpoint-mobile) {
   .page-wrapper {
-    padding: 2.5rem 1rem;
+    padding: $spacing-4xl $spacing-lg;
   }
 
   .card {
@@ -232,11 +259,11 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    gap: 1rem;
-  }
+    gap: $spacing-lg;
 
-  .hero > div {
-    width: 100%;
+    > div {
+      width: 100%;
+    }
   }
 
   .headshot {
