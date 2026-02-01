@@ -258,6 +258,13 @@ body {
   }
 }
 
+// Hide "Visited" data in map tooltip, show only country name
+.svgMap-tooltip-content-container {
+  .svgMap-tooltip-content {
+    display: none;
+  }
+}
+
 // Travel Modal
 .travel-modal {
   position: fixed;

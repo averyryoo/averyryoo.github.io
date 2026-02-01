@@ -25,14 +25,6 @@ document.addEventListener('DOMContentLoaded', function() {
       },
       applyData: 'visited',
       values: values
-    },
-    onGetTooltip: function(tooltipDiv, countryID, countryValues) {
-      // Only show country name, no data
-      const country = travelData.find(c => c.code === countryID);
-      if (country) {
-        return `<div class="svgMap-tooltip-content-container"><span class="svgMap-tooltip-title">${country.name}</span></div>`;
-      }
-      return tooltipDiv.innerHTML;
     }
   });
 
