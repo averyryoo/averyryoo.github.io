@@ -61,3 +61,11 @@
 - code: FR
   name: France
   photos: []
+
+- code: US
+  name: United States
+  photos: []
+
+- code: KR
+  name: South Korea
+  photos: []
