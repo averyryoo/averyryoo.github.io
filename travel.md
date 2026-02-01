@@ -5,7 +5,7 @@ bg_image: /assets/images/bg-travel.jpg
 permalink: /travel
 ---
 
-<p>Click on a highlighted country to see photos from that trip.</p>
+<p><strong>{{ site.data.travel.size }}</strong> countries visited. Click on a highlighted country to see photos from that trip.</p>
 
 <div id="travel-map" class="travel-map-container"></div>
 
