@@ -1,0 +1,27 @@
+# Travel data - Add your visited countries here
+# Use ISO 3166-1 alpha-2 country codes (US, KR, FR, etc.)
+# Photos should be placed in /assets/images/travel/
+
+- code: KR
+  name: South Korea
+  year: 2023
+  photos:
+    - south-korea-1.jpg
+    - south-korea-2.jpg
+  caption: "Visited Seoul and Busan"
+
+- code: US
+  name: United States
+  year: 2022
+  photos:
+    - usa-1.jpg
+  caption: "Road trip across the west coast"
+
+# Add more countries as needed:
+# - code: JP
+#   name: Japan
+#   year: 2024
+#   photos:
+#     - japan-1.jpg
+#     - japan-2.jpg
+#   caption: "Tokyo and Kyoto adventure"

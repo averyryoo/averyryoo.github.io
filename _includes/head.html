@@ -14,6 +14,13 @@
 
 <link rel="stylesheet" href="/assets/css/main.css">
 
+<!-- svgMap for travel page -->
+{% if page.url == '/travel' or page.url == '/travel/' %}
+<link href="https://cdn.jsdelivr.net/npm/svgmap@2.10.1/dist/svgMap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom@3.6.1/dist/svg-pan-zoom.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/svgmap@2.10.1/dist/svgMap.min.js"></script>
+{% endif %}
+
 <!-- KaTeX -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>

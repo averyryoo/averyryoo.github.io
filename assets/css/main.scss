@@ -245,6 +245,170 @@ body {
   }
 }
 
+// Travel Map
+.travel-map-container {
+  width: 100%;
+  margin: $spacing-xl 0;
+  border-radius: $card-radius-sm;
+  overflow: hidden;
+  box-shadow: $shadow-sm;
+
+  .svgMap-map-wrapper {
+    background: #fafafa;
+  }
+}
+
+// Travel Modal
+.travel-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: $spacing-lg;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.travel-modal__backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(4px);
+}
+
+.travel-modal__content {
+  position: relative;
+  background: $card-bg;
+  backdrop-filter: blur(10px);
+  border-radius: $card-radius;
+  padding: $spacing-3xl;
+  max-width: 700px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  box-shadow: $shadow-lg;
+  animation: modalFadeIn 0.2s ease;
+}
+
+@keyframes modalFadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.travel-modal__close {
+  position: absolute;
+  top: $spacing-lg;
+  right: $spacing-lg;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  color: $color-text-muted;
+  line-height: 1;
+  padding: 0;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background-color $transition-fast, color $transition-fast;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.1);
+    color: $color-text;
+  }
+}
+
+.travel-modal__title {
+  margin: 0 0 $spacing-xs;
+  color: $color-accent;
+  font-size: 1.5rem;
+}
+
+.travel-modal__year {
+  margin: 0 0 $spacing-sm;
+  color: $color-text-light;
+  font-size: 0.9rem;
+}
+
+.travel-modal__caption {
+  margin: 0 0 $spacing-xl;
+  color: $color-text-secondary;
+}
+
+.travel-modal__gallery {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: $spacing-md;
+}
+
+.travel-modal__photo-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  min-height: 200px;
+}
+
+.travel-modal__photo {
+  max-width: 100%;
+  max-height: 400px;
+  object-fit: contain;
+  border-radius: $card-radius-xs;
+  box-shadow: $shadow-md;
+}
+
+.travel-modal__nav {
+  background: rgba(0, 0, 0, 0.1);
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  color: $color-text-muted;
+  padding: $spacing-md;
+  border-radius: 50%;
+  transition: background-color $transition-fast, color $transition-fast;
+  flex-shrink: 0;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.2);
+    color: $color-text;
+  }
+}
+
+.travel-modal__dots {
+  display: flex;
+  justify-content: center;
+  gap: $spacing-sm;
+  margin-top: $spacing-lg;
+}
+
+.travel-modal__dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: $color-border;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  transition: background-color $transition-fast;
+
+  &.active,
+  &:hover {
+    background: $color-accent;
+  }
+}
+
 // Responsive
 @media (max-width: $breakpoint-mobile) {
   .page-wrapper {
@@ -273,5 +437,19 @@ body {
 
   .social-links {
     justify-content: center;
+  }
+
+  // Travel modal mobile
+  .travel-modal__content {
+    padding: $spacing-xl;
+  }
+
+  .travel-modal__nav {
+    padding: $spacing-sm;
+    font-size: 1.5rem;
+  }
+
+  .travel-modal__photo {
+    max-height: 300px;
   }
 }
