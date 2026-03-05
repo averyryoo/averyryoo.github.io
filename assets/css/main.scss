@@ -416,6 +416,124 @@ body {
   }
 }
 
+// Spotify widget
+.spotify-widget {
+  margin: $spacing-xl 0;
+}
+
+.now-playing h3,
+.top-tracks h3 {
+  font-size: 0.9rem;
+  text-transform: lowercase;
+  color: $color-text-muted;
+  margin: 0 0 $spacing-sm;
+}
+
+.playing-indicator {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background: #1db954;
+  border-radius: 50%;
+  margin-right: $spacing-xs;
+  animation: pulse 1.5s ease infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+
+.now-playing-card {
+  display: flex;
+  align-items: center;
+  gap: $spacing-lg;
+  padding: $spacing-lg;
+  background: $card-bg-paper;
+  border-radius: $card-radius-sm;
+  box-shadow: $shadow-sm;
+  text-decoration: none;
+  color: inherit;
+  transition: transform $transition-fast, box-shadow $transition-fast;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: $shadow-hover;
+  }
+}
+
+.album-art {
+  width: 56px;
+  height: 56px;
+  border-radius: $card-radius-xs;
+  box-shadow: $shadow-md;
+}
+
+.track-info {
+  display: flex;
+  flex-direction: column;
+  gap: $spacing-xs;
+}
+
+.track-name {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.artist-name {
+  color: $color-text-light;
+  font-size: 0.85rem;
+}
+
+.top-tracks {
+  margin-top: $spacing-xl;
+}
+
+.track-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  counter-reset: track;
+
+  li {
+    counter-increment: track;
+    padding: $spacing-sm 0;
+    border-bottom: 1px solid $color-border;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    a {
+      display: flex;
+      align-items: baseline;
+      gap: $spacing-sm;
+      text-decoration: none;
+      color: inherit;
+
+      &::before {
+        content: counter(track) ".";
+        color: $color-text-lighter;
+        font-size: 0.85rem;
+        min-width: 1.2em;
+      }
+
+      &:hover .track-name {
+        color: $color-accent;
+      }
+    }
+
+    .track-name {
+      font-size: 0.9rem;
+      transition: color $transition-fast;
+    }
+
+    .artist-name {
+      font-size: 0.8rem;
+    }
+  }
+}
+
 // Responsive
 @media (max-width: $breakpoint-mobile) {
   .page-wrapper {

@@ -22,6 +22,8 @@ bg_image: /assets/images/bg-index.jpg
   </div>
 </div>
 
+{% include spotify.html %}
+
 {% include social.html %}
 
 {% include news.html %}

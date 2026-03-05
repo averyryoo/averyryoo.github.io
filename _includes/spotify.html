@@ -1,0 +1,36 @@
+<section class="spotify-widget">
+  {% if site.data.spotify.now_playing %}
+  <div class="now-playing">
+    <h3>
+      {% if site.data.spotify.now_playing.is_playing %}
+        <span class="playing-indicator"></span> now playing
+      {% else %}
+        recently played
+      {% endif %}
+    </h3>
+    <a href="{{ site.data.spotify.now_playing.url }}" class="now-playing-card" target="_blank" rel="noopener">
+      <img src="{{ site.data.spotify.now_playing.album_art }}" alt="{{ site.data.spotify.now_playing.album }}" class="album-art">
+      <div class="track-info">
+        <span class="track-name">{{ site.data.spotify.now_playing.track }}</span>
+        <span class="artist-name">{{ site.data.spotify.now_playing.artist }}</span>
+      </div>
+    </a>
+  </div>
+  {% endif %}
+
+  {% if site.data.spotify.top_tracks.size > 0 %}
+  <div class="top-tracks">
+    <h3>top tracks</h3>
+    <ol class="track-list">
+      {% for track in site.data.spotify.top_tracks %}
+      <li>
+        <a href="{{ track.url }}" target="_blank" rel="noopener">
+          <span class="track-name">{{ track.track }}</span>
+          <span class="artist-name">{{ track.artist }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+  {% endif %}
+</section>
