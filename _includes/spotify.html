@@ -8,13 +8,8 @@
         recently played
       {% endif %}
     </h3>
-    <a href="{{ site.data.spotify.now_playing.url }}" class="now-playing-card" target="_blank" rel="noopener">
-      <img src="{{ site.data.spotify.now_playing.album_art }}" alt="{{ site.data.spotify.now_playing.album }}" class="album-art">
-      <div class="track-info">
-        <span class="track-name">{{ site.data.spotify.now_playing.track }}</span>
-        <span class="artist-name">{{ site.data.spotify.now_playing.artist }}</span>
-      </div>
-    </a>
+    {% assign embed_url = site.data.spotify.now_playing.url | replace: "open.spotify.com/", "open.spotify.com/embed/" %}
+    <iframe class="spotify-embed" src="{{ embed_url }}?utm_source=generator&theme=0" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   </div>
   {% endif %}
 

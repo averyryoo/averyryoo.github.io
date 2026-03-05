@@ -454,33 +454,10 @@ body {
   50% { opacity: 0.4; }
 }
 
-.now-playing-card {
-  display: flex;
-  align-items: center;
-  gap: $spacing-lg;
-  padding: $spacing-md;
-  background: rgba(0, 0, 0, 0.03);
+.spotify-embed {
+  width: 100%;
+  height: 152px;
   border-radius: $card-radius-xs;
-  text-decoration: none;
-  color: inherit;
-  transition: background $transition-fast;
-
-  &:hover {
-    background: rgba(0, 0, 0, 0.06);
-  }
-}
-
-.album-art {
-  width: 48px;
-  height: 48px;
-  border-radius: 6px;
-  box-shadow: $shadow-md;
-}
-
-.track-info {
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
 }
 
 .track-name {
