@@ -418,7 +418,17 @@ body {
 
 // Spotify widget
 .spotify-widget {
+  display: flex;
+  gap: $spacing-2xl;
   margin: $spacing-xl 0;
+  padding: $spacing-xl;
+  background: $card-bg-paper;
+  border-radius: $card-radius-sm;
+  box-shadow: $shadow-sm;
+}
+
+.now-playing {
+  flex: 1;
 }
 
 .now-playing h3,
@@ -448,45 +458,43 @@ body {
   display: flex;
   align-items: center;
   gap: $spacing-lg;
-  padding: $spacing-lg;
-  background: $card-bg-paper;
-  border-radius: $card-radius-sm;
-  box-shadow: $shadow-sm;
+  padding: $spacing-md;
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: $card-radius-xs;
   text-decoration: none;
   color: inherit;
-  transition: transform $transition-fast, box-shadow $transition-fast;
+  transition: background $transition-fast;
 
   &:hover {
-    transform: translateY(-2px);
-    box-shadow: $shadow-hover;
+    background: rgba(0, 0, 0, 0.06);
   }
 }
 
 .album-art {
-  width: 56px;
-  height: 56px;
-  border-radius: $card-radius-xs;
+  width: 48px;
+  height: 48px;
+  border-radius: 6px;
   box-shadow: $shadow-md;
 }
 
 .track-info {
   display: flex;
   flex-direction: column;
-  gap: $spacing-xs;
+  gap: 2px;
 }
 
 .track-name {
   font-weight: 600;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 .artist-name {
   color: $color-text-light;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
 
 .top-tracks {
-  margin-top: $spacing-xl;
+  flex: 1;
 }
 
 .track-list {
@@ -497,8 +505,8 @@ body {
 
   li {
     counter-increment: track;
-    padding: $spacing-sm 0;
-    border-bottom: 1px solid $color-border;
+    padding: $spacing-xs 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 
     &:last-child {
       border-bottom: none;
@@ -514,7 +522,7 @@ body {
       &::before {
         content: counter(track) ".";
         color: $color-text-lighter;
-        font-size: 0.85rem;
+        font-size: 0.8rem;
         min-width: 1.2em;
       }
 
@@ -524,12 +532,12 @@ body {
     }
 
     .track-name {
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       transition: color $transition-fast;
     }
 
     .artist-name {
-      font-size: 0.8rem;
+      font-size: 0.75rem;
     }
   }
 }
@@ -562,6 +570,10 @@ body {
 
   .social-links {
     justify-content: center;
+  }
+
+  .spotify-widget {
+    flex-direction: column;
   }
 
   // Travel modal mobile
