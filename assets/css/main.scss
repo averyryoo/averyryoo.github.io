@@ -421,14 +421,11 @@ body {
   display: flex;
   gap: $spacing-2xl;
   margin: $spacing-xl 0;
-  padding: $spacing-xl;
-  background: $card-bg-paper;
-  border-radius: $card-radius-sm;
-  box-shadow: $shadow-sm;
+  align-items: flex-start;
 }
 
 .now-playing {
-  flex: 0 0 40%;
+  flex: 0 0 35%;
   display: flex;
   flex-direction: column;
 }
@@ -458,8 +455,7 @@ body {
 
 .spotify-embed {
   width: 100%;
-  flex: 1;
-  min-height: 152px;
+  height: 152px;
   border-radius: $card-radius-xs;
 }
 
