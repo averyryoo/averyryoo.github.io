@@ -362,7 +362,7 @@ body {
 }
 
 .travel-modal__photo-container {
-  flex: 0 0 40%;
+  flex: 1;
   display: flex;
   justify-content: center;
   min-height: 200px;
@@ -471,7 +471,7 @@ body {
 }
 
 .top-tracks {
-  flex: 0 0 40%;
+  flex: 1;
 }
 
 .track-list {
