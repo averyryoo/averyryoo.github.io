@@ -2,9 +2,9 @@ now_playing:
   album: Alfredo 2
   album_art: https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a
   artist: Freddie Gibbs, The Alchemist
-  is_playing: true
-  track: '1995'
-  url: https://open.spotify.com/track/3lGHMz9BIUZWFEx0fhS4VF
+  is_playing: false
+  track: Lemon Pepper Steppers
+  url: https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Pink + White
   url: https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8
-updated_at: 2026-03-05 23:57 UTC
+updated_at: 2026-03-06 03:12 UTC
