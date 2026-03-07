@@ -1,10 +1,10 @@
 now_playing:
   album: Demon Days
   album_art: https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358
-  artist: Gorillaz
+  artist: Gorillaz, Bootie Brown
   is_playing: false
-  track: Last Living Souls
-  url: https://open.spotify.com/track/7JzmCjvB6bk48JghLyrg8N
+  track: Dirty Harry (feat. Bootie Brown)
+  url: https://open.spotify.com/track/2bfGNzdiRa1jXZRdfssSzR
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Tyler Childers
   track: Feathered Indians
   url: https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE
-updated_at: 2026-03-07 15:45 UTC
+updated_at: 2026-03-07 16:25 UTC
