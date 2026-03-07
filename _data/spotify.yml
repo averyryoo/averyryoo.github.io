@@ -1,10 +1,10 @@
 now_playing:
-  album: 'Man On The Moon II: The Legend Of Mr. Rager (Explicit Version)'
-  album_art: https://i.scdn.co/image/ab67616d00001e0218e8fd657c35e7edeacb0468
-  artist: Kid Cudi, Kanye West
+  album: The Anthology
+  album_art: https://i.scdn.co/image/ab67616d00001e02b1ddb9f5f519e0d37bc94a53
+  artist: A Tribe Called Quest, Trugoy The Dove
   is_playing: false
-  track: Erase Me - Main
-  url: https://open.spotify.com/track/2gAYL1AqmCU3oU4w6JFGr4
+  track: Award Tour (feat. Trugoy The Dove)
+  url: https://open.spotify.com/track/0qOcGXEuXu66OQwWRyqFxD
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Tyler Childers
   track: Feathered Indians
   url: https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE
-updated_at: 2026-03-07 20:47 UTC
+updated_at: 2026-03-07 21:19 UTC
