@@ -1,10 +1,10 @@
 now_playing:
-  album: Kiss Land
-  album_art: https://i.scdn.co/image/ab67616d00001e02e4860d5331509e2c9ee4de10
-  artist: The Weeknd
+  album: 'Man On The Moon II: The Legend Of Mr. Rager (Explicit Version)'
+  album_art: https://i.scdn.co/image/ab67616d00001e0218e8fd657c35e7edeacb0468
+  artist: Kid Cudi
   is_playing: true
-  track: Professional
-  url: https://open.spotify.com/track/5ZicFGBDAi9J2YCVesboUp
+  track: Ashin’ Kusher
+  url: https://open.spotify.com/track/4gcMt4z3tN9U7d5eykd45T
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Tyler Childers
   track: Feathered Indians
   url: https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE
-updated_at: 2026-03-07 19:43 UTC
+updated_at: 2026-03-07 20:23 UTC
