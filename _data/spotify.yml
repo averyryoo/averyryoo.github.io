@@ -2,7 +2,7 @@ now_playing:
   album: Demon Days
   album_art: https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358
   artist: Gorillaz
-  is_playing: false
+  is_playing: true
   track: White Light
   url: https://open.spotify.com/track/7hnW9af7GuGH5lyUUTa8UH
 top_tracks:
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Tyler Childers
   track: Feathered Indians
   url: https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE
-updated_at: 2026-03-07 18:31 UTC
+updated_at: 2026-03-07 19:20 UTC
