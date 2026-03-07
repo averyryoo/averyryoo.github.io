@@ -1,10 +1,10 @@
 now_playing:
-  album: Blonde
-  album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
-  artist: Frank Ocean
+  album: Demon Days
+  album_art: https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358
+  artist: Gorillaz
   is_playing: false
-  track: Good Guy
-  url: https://open.spotify.com/track/2JUqYobT8NvARdPmc4ES2x
+  track: Last Living Souls
+  url: https://open.spotify.com/track/7JzmCjvB6bk48JghLyrg8N
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Tyler Childers
   track: Feathered Indians
   url: https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE
-updated_at: 2026-03-07 15:21 UTC
+updated_at: 2026-03-07 15:45 UTC
