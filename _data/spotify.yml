@@ -1,10 +1,10 @@
 now_playing:
-  album: Alfredo 2
-  album_art: https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a
-  artist: Freddie Gibbs, The Alchemist, Anderson .Paak
+  album: Blonde
+  album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
+  artist: Frank Ocean
   is_playing: false
-  track: Ensalada (feat. Anderson .Paak)
-  url: https://open.spotify.com/track/06ZX08uRQDK02emdw9mN28
+  track: Good Guy
+  url: https://open.spotify.com/track/2JUqYobT8NvARdPmc4ES2x
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -21,7 +21,7 @@ top_tracks:
 - artist: Frank Ocean
   track: Nikes
   url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-- artist: Frank Ocean
-  track: Pink + White
-  url: https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8
-updated_at: 2026-03-07 13:37 UTC
+- artist: Tyler Childers
+  track: Feathered Indians
+  url: https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE
+updated_at: 2026-03-07 14:21 UTC
