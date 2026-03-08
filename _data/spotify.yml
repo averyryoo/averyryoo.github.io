@@ -1,10 +1,10 @@
 now_playing:
   album: The Anthology
   album_art: https://i.scdn.co/image/ab67616d00001e02b1ddb9f5f519e0d37bc94a53
-  artist: A Tribe Called Quest, Trugoy The Dove
+  artist: A Tribe Called Quest
   is_playing: false
-  track: Award Tour (feat. Trugoy The Dove)
-  url: https://open.spotify.com/track/0qOcGXEuXu66OQwWRyqFxD
+  track: Can I Kick It?
+  url: https://open.spotify.com/track/7kpeL1x9j7uKgPx6rVz7D7
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Tyler Childers
   track: Feathered Indians
   url: https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE
-updated_at: 2026-03-08 11:43 UTC
+updated_at: 2026-03-08 12:43 UTC
