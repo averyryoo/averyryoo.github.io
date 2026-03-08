@@ -1,10 +1,10 @@
 now_playing:
-  album: The Anthology
-  album_art: https://i.scdn.co/image/ab67616d00001e02b1ddb9f5f519e0d37bc94a53
-  artist: A Tribe Called Quest
+  album: Blonde
+  album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
+  artist: Frank Ocean
   is_playing: false
-  track: Can I Kick It?
-  url: https://open.spotify.com/track/7kpeL1x9j7uKgPx6rVz7D7
+  track: Pink + White
+  url: https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Justin Bieber
   track: Swap It Out
   url: https://open.spotify.com/track/5Gbzz2hICxjkf3JiAykSiL
-updated_at: 2026-03-08 18:31 UTC
+updated_at: 2026-03-08 19:21 UTC
