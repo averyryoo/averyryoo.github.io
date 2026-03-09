@@ -1,10 +1,10 @@
 now_playing:
   album: Alfredo
   album_art: https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651
-  artist: Freddie Gibbs, The Alchemist, Benny The Butcher
-  is_playing: true
-  track: Frank Lucas (feat. Benny the Butcher)
-  url: https://open.spotify.com/track/2pFC6DEdMhxQWUTptwVyS4
+  artist: Freddie Gibbs, The Alchemist
+  is_playing: false
+  track: '1985'
+  url: https://open.spotify.com/track/1p1b9LdLJ0REuFJX9mYtFX
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Keane
   track: Everybody's Changing
   url: https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA
-updated_at: 2026-03-09 22:26 UTC
+updated_at: 2026-03-09 22:55 UTC
