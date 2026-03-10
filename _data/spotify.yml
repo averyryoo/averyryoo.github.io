@@ -1,10 +1,10 @@
 now_playing:
-  album: Submarine - Original Songs From The Film By Alex Turner
-  album_art: https://i.scdn.co/image/ab67616d00001e02672951d44a35cb08092f2c1f
-  artist: Alex Turner
+  album: Fancy Some More?
+  album_art: https://i.scdn.co/image/ab67616d00001e02684ecc5bc1b724d0106ad694
+  artist: PinkPantheress, Zara Larsson
   is_playing: false
-  track: Stuck on the puzzle - intro
-  url: https://open.spotify.com/track/0pFYxmR6JgIXjtzd0fKCUS
+  track: Stateside + Zara Larsson
+  url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Justin Bieber
   track: Swap It Out
   url: https://open.spotify.com/track/5Gbzz2hICxjkf3JiAykSiL
-updated_at: 2026-03-10 19:36 UTC
+updated_at: 2026-03-10 20:31 UTC
