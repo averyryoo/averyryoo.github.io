@@ -1,10 +1,10 @@
 now_playing:
-  album: Fancy Some More?
-  album_art: https://i.scdn.co/image/ab67616d00001e02684ecc5bc1b724d0106ad694
-  artist: PinkPantheress, Zara Larsson
-  is_playing: false
-  track: Stateside + Zara Larsson
-  url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
+  album: The Boy Who Played the Harp
+  album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
+  artist: Dave, James Blake
+  is_playing: true
+  track: History (feat. James Blake)
+  url: https://open.spotify.com/track/6OakIaj4T039vJ8V2AJiWa
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Alex Turner
   track: Stuck on the puzzle
   url: https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY
-updated_at: 2026-03-10 21:30 UTC
+updated_at: 2026-03-10 22:26 UTC
