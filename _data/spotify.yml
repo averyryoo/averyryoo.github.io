@@ -1,10 +1,10 @@
 now_playing:
-  album: Hozier (Expanded Edition)
-  album_art: https://i.scdn.co/image/ab67616d00001e02bd5c6f1a9461fc68c5dc1623
-  artist: Hozier
+  album: Submarine - Original Songs From The Film By Alex Turner
+  album_art: https://i.scdn.co/image/ab67616d00001e02672951d44a35cb08092f2c1f
+  artist: Alex Turner
   is_playing: false
-  track: Like Real People Do
-  url: https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9
+  track: Stuck on the puzzle - intro
+  url: https://open.spotify.com/track/0pFYxmR6JgIXjtzd0fKCUS
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Futura Free
   url: https://open.spotify.com/track/5k8LB57xOq8UUNVaKWSqrf
-updated_at: 2026-03-10 11:31 UTC
+updated_at: 2026-03-10 12:56 UTC
