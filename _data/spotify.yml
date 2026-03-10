@@ -2,7 +2,7 @@ now_playing:
   album: The Boy Who Played the Harp
   album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
   artist: Dave, James Blake
-  is_playing: false
+  is_playing: true
   track: Selfish (feat. James Blake)
   url: https://open.spotify.com/track/4lhOzoYujY5YD3anyw68hp
 top_tracks:
@@ -24,4 +24,4 @@ top_tracks:
 - artist: PinkPantheress, Zara Larsson
   track: Stateside + Zara Larsson
   url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
-updated_at: 2026-03-10 23:25 UTC
+updated_at: 2026-03-10 23:50 UTC
