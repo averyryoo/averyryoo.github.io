@@ -5,23 +5,5 @@ now_playing:
   is_playing: false
   track: Stuck on the puzzle - intro
   url: https://open.spotify.com/track/0pFYxmR6JgIXjtzd0fKCUS
-top_tracks:
-- artist: Frank Ocean
-  track: White Ferrari
-  url: https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV
-- artist: Charlotte Cardin
-  track: 99 Nights
-  url: https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE
-- artist: Frank Ocean
-  track: Ivy
-  url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-- artist: Frank Ocean
-  track: Nikes
-  url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-- artist: Justin Bieber
-  track: Swap It Out
-  url: https://open.spotify.com/track/5Gbzz2hICxjkf3JiAykSiL
-- artist: Frank Ocean
-  track: Futura Free
-  url: https://open.spotify.com/track/5k8LB57xOq8UUNVaKWSqrf
-updated_at: 2026-03-10 12:56 UTC
+top_tracks: []
+updated_at: 2026-03-10 14:02 UTC
