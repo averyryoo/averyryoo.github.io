@@ -1,10 +1,10 @@
 now_playing:
-  album: Fancy Some More?
-  album_art: https://i.scdn.co/image/ab67616d00001e02684ecc5bc1b724d0106ad694
-  artist: PinkPantheress, Zara Larsson
-  is_playing: false
-  track: Stateside + Zara Larsson
-  url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
+  album: Plans
+  album_art: https://i.scdn.co/image/ab67616d00001e02977f49e4a7170bdd03fb429b
+  artist: Death Cab for Cutie
+  is_playing: true
+  track: I Will Follow You into the Dark
+  url: https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Futura Free
   url: https://open.spotify.com/track/5k8LB57xOq8UUNVaKWSqrf
-updated_at: 2026-03-09 23:51 UTC
+updated_at: 2026-03-10 01:51 UTC
