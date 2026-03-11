@@ -1,10 +1,10 @@
 now_playing:
-  album: CASE STUDY 01
-  album_art: https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947
-  artist: Daniel Caesar
+  album: I AM SAM
+  album_art: https://i.scdn.co/image/ab67616d00001e02112e7813184b1bbdc148db89
+  artist: Sam Kim
   is_playing: false
-  track: CYANIDE
-  url: https://open.spotify.com/track/7lmsi1pVDa3HnfeinsL89t
+  track: SEATTLE
+  url: https://open.spotify.com/track/2zQ1c7TT5grIoU6wKMiXdg
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Nikes
   url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-11 04:08 UTC
+updated_at: 2026-03-11 05:31 UTC
