@@ -1,27 +1,27 @@
 now_playing:
-  album: The Boy Who Played the Harp
-  album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
-  artist: Dave, James Blake
-  is_playing: true
-  track: Selfish (feat. James Blake)
-  url: https://open.spotify.com/track/4lhOzoYujY5YD3anyw68hp
+  album: Circles
+  album_art: https://i.scdn.co/image/ab67616d00001e02d9d8f1a08476cd347fbea313
+  artist: Mac Miller
+  is_playing: false
+  track: Good News
+  url: https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
   url: https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV
-- artist: Charlotte Cardin
-  track: 99 Nights
-  url: https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE
 - artist: Alex Turner
   track: Stuck on the puzzle
   url: https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY
+- artist: Charlotte Cardin
+  track: 99 Nights
+  url: https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-- artist: Frank Ocean
-  track: Nikes
-  url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
 - artist: PinkPantheress, Zara Larsson
   track: Stateside + Zara Larsson
   url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
-updated_at: 2026-03-10 23:50 UTC
+- artist: Frank Ocean
+  track: Nikes
+  url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
+updated_at: 2026-03-11 01:51 UTC
