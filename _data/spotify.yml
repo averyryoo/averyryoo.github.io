@@ -1,10 +1,10 @@
 now_playing:
-  album: I AM SAM
-  album_art: https://i.scdn.co/image/ab67616d00001e02112e7813184b1bbdc148db89
-  artist: Sam Kim
+  album: Heaven knows
+  album_art: https://i.scdn.co/image/ab67616d00001e0215a9d5a02103c2d683c07fb4
+  artist: PinkPantheress
   is_playing: false
-  track: SEATTLE
-  url: https://open.spotify.com/track/2zQ1c7TT5grIoU6wKMiXdg
+  track: Capable of love
+  url: https://open.spotify.com/track/52qxHBgcQGVV2JrMwPhYJl
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Nikes
   url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-11 18:09 UTC
+updated_at: 2026-03-11 19:24 UTC
