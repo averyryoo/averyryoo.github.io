@@ -1,10 +1,10 @@
 now_playing:
-  album: Circles
-  album_art: https://i.scdn.co/image/ab67616d00001e02d9d8f1a08476cd347fbea313
-  artist: Mac Miller
+  album: CASE STUDY 01
+  album_art: https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947
+  artist: Daniel Caesar
   is_playing: false
-  track: Good News
-  url: https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY
+  track: CYANIDE
+  url: https://open.spotify.com/track/7lmsi1pVDa3HnfeinsL89t
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Nikes
   url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-11 01:51 UTC
+updated_at: 2026-03-11 04:08 UTC
