@@ -15,13 +15,13 @@ top_tracks:
 - artist: Charlotte Cardin
   track: 99 Nights
   url: https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE
-- artist: Frank Ocean
-  track: Ivy
-  url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
 - artist: PinkPantheress, Zara Larsson
   track: Stateside + Zara Larsson
   url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
 - artist: Frank Ocean
+  track: Ivy
+  url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
+- artist: Frank Ocean
   track: Nikes
   url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-11 19:24 UTC
+updated_at: 2026-03-11 19:57 UTC
