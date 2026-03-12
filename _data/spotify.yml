@@ -1,10 +1,10 @@
 now_playing:
-  album: PSYCHODRAMA
-  album_art: https://i.scdn.co/image/ab67616d00001e02565f69a950084775df6a4e77
+  album: The Boy Who Played the Harp
+  album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
   artist: Dave
   is_playing: false
-  track: Environment
-  url: https://open.spotify.com/track/1yfjDqsnu8yPHWlFFniXtn
+  track: My 27th Birthday
+  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Nikes
   url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-12 01:57 UTC
+updated_at: 2026-03-12 04:17 UTC
