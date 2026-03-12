@@ -1,10 +1,10 @@
 now_playing:
-  album: The Boy Who Played the Harp
-  album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
-  artist: Dave, Nicole Blakk
-  is_playing: false
-  track: Fairchild
-  url: https://open.spotify.com/track/4crUyIrhzkiaBIbM4LjUFX
+  album: Goodbye Lullaby (Expanded Edition)
+  album_art: https://i.scdn.co/image/ab67616d00001e0272c9f7a7c75eba39726106a6
+  artist: Avril Lavigne
+  is_playing: true
+  track: What the Hell
+  url: https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Nikes
   url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-12 21:30 UTC
+updated_at: 2026-03-12 22:24 UTC
