@@ -2,7 +2,7 @@ now_playing:
   album: The Boy Who Played the Harp
   album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
   artist: Dave
-  is_playing: false
+  is_playing: true
   track: My 27th Birthday
   url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 top_tracks:
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Nikes
   url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-12 11:30 UTC
+updated_at: 2026-03-12 12:55 UTC
