@@ -1,10 +1,10 @@
 now_playing:
-  album: Red
-  album_art: https://i.scdn.co/image/ab67616d00001e0296384c98ac4f3e7c2440f5b5
-  artist: Taylor Swift
+  album: PSYCHODRAMA
+  album_art: https://i.scdn.co/image/ab67616d00001e02565f69a950084775df6a4e77
+  artist: Dave
   is_playing: false
-  track: All Too Well
-  url: https://open.spotify.com/track/4XMP3zVxrnr58T0tjIHvpR
+  track: Environment
+  url: https://open.spotify.com/track/1yfjDqsnu8yPHWlFFniXtn
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Nikes
   url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-11 23:48 UTC
+updated_at: 2026-03-12 01:57 UTC
