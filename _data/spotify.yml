@@ -1,10 +1,10 @@
 now_playing:
-  album: black british music (2025)
-  album_art: https://i.scdn.co/image/ab67616d00001e028cdb609c00c371f6a7edc5ef
-  artist: Jim Legxacy, Dave
+  album: Meridian & Special
+  album_art: https://i.scdn.co/image/ab67616d00001e02260d61330db296a0346f2df6
+  artist: Dave, Tiakola
   is_playing: false
-  track: 3x
-  url: https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj
+  track: Meridian
+  url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-13 17:59 UTC
+updated_at: 2026-03-13 18:55 UTC
