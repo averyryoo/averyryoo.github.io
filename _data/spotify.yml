@@ -1,10 +1,10 @@
 now_playing:
-  album: Meridian & Special
-  album_art: https://i.scdn.co/image/ab67616d00001e02260d61330db296a0346f2df6
-  artist: Dave, Tiakola
+  album: Bubblin
+  album_art: https://i.scdn.co/image/ab67616d00001e026357eef63bcab4f5b551b216
+  artist: Anderson .Paak
   is_playing: false
-  track: Meridian
-  url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
+  track: Bubblin
+  url: https://open.spotify.com/track/6BvtitRX5lQC87YlA6rq0n
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-13 19:34 UTC
+updated_at: 2026-03-13 20:32 UTC
