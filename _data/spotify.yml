@@ -1,10 +1,10 @@
 now_playing:
-  album: Culture
-  album_art: https://i.scdn.co/image/ab67616d00001e026275aeac316378b0dd4f31fd
-  artist: Migos, Lil Uzi Vert
+  album: Without Warning
+  album_art: https://i.scdn.co/image/ab67616d00001e020db43130a9aaa7bae56967ed
+  artist: Offset, Metro Boomin
   is_playing: false
-  track: Bad and Boujee (feat. Lil Uzi Vert)
-  url: https://open.spotify.com/track/0M9ydKzuF3oZTfYYPfaGX1
+  track: Ric Flair Drip (with Metro Boomin)
+  url: https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-13 22:52 UTC
+updated_at: 2026-03-13 23:26 UTC
