@@ -1,10 +1,10 @@
 now_playing:
-  album: The Boy Who Played the Harp
-  album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
-  artist: Dave
+  album: black british music (2025)
+  album_art: https://i.scdn.co/image/ab67616d00001e028cdb609c00c371f6a7edc5ef
+  artist: Jim Legxacy
   is_playing: false
-  track: Marvellous
-  url: https://open.spotify.com/track/0BiXEKLDn6bG3OgZcwNYuM
+  track: '''06 wayne rooney'
+  url: https://open.spotify.com/track/7p6LdEcYnSbw68yJDbUjxD
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-13 16:01 UTC
+updated_at: 2026-03-13 17:05 UTC
