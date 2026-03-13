@@ -1,10 +1,10 @@
 now_playing:
-  album: Bubblin
-  album_art: https://i.scdn.co/image/ab67616d00001e026357eef63bcab4f5b551b216
-  artist: Anderson .Paak
+  album: Without Warning
+  album_art: https://i.scdn.co/image/ab67616d00001e020db43130a9aaa7bae56967ed
+  artist: Offset, Metro Boomin
   is_playing: false
-  track: Bubblin
-  url: https://open.spotify.com/track/6BvtitRX5lQC87YlA6rq0n
+  track: Ric Flair Drip (with Metro Boomin)
+  url: https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-13 21:30 UTC
+updated_at: 2026-03-13 22:26 UTC
