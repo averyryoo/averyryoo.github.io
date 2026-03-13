@@ -12,6 +12,9 @@ top_tracks:
 - artist: Alex Turner
   track: Stuck on the puzzle
   url: https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY
+- artist: Dave
+  track: My 27th Birthday
+  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 - artist: Charlotte Cardin
   track: 99 Nights
   url: https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE
@@ -21,7 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-- artist: Frank Ocean
-  track: Nikes
-  url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-13 15:08 UTC
+updated_at: 2026-03-13 16:01 UTC
