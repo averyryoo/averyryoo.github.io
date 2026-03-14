@@ -1,10 +1,10 @@
 now_playing:
-  album: 99 Nights
-  album_art: https://i.scdn.co/image/ab67616d00001e02e2573c998ceb88f93983aa7c
-  artist: Charlotte Cardin
+  album: Un Verano Sin Ti
+  album_art: https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72
+  artist: Bad Bunny
   is_playing: false
-  track: Puppy
-  url: https://open.spotify.com/track/0yKTlrVWVszD7PftN5SEhH
+  track: Tití Me Preguntó
+  url: https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-14 15:51 UTC
+updated_at: 2026-03-14 16:29 UTC
