@@ -1,10 +1,10 @@
 now_playing:
-  album: The Off-Season
-  album_art: https://i.scdn.co/image/ab67616d00001e0210e6745bb2f179dd3616b85f
-  artist: J. Cole, Bas, 6LACK
+  album: good kid, m.A.A.d city
+  album_art: https://i.scdn.co/image/ab67616d00001e02d28d2ebdedb220e479743797
+  artist: Kendrick Lamar, Jay Rock
   is_playing: true
-  track: l e t . g o . m y . h a n d (with Bas & 6LACK)
-  url: https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB
+  track: Money Trees
+  url: https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-14 01:52 UTC
+updated_at: 2026-03-14 04:09 UTC
