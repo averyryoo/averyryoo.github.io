@@ -1,10 +1,10 @@
 now_playing:
-  album: Still Striving
-  album_art: https://i.scdn.co/image/ab67616d00001e027ff3f96423c97dba141c096e
-  artist: A$AP Ferg
-  is_playing: false
-  track: Plain Jane
-  url: https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9
+  album: 99 Nights
+  album_art: https://i.scdn.co/image/ab67616d00001e02e2573c998ceb88f93983aa7c
+  artist: Charlotte Cardin
+  is_playing: true
+  track: Puppy
+  url: https://open.spotify.com/track/0yKTlrVWVszD7PftN5SEhH
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-14 14:27 UTC
+updated_at: 2026-03-14 14:55 UTC
