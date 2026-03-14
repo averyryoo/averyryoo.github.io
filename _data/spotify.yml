@@ -1,10 +1,10 @@
 now_playing:
-  album: good kid, m.A.A.d city
-  album_art: https://i.scdn.co/image/ab67616d00001e02d28d2ebdedb220e479743797
-  artist: Kendrick Lamar, Jay Rock
-  is_playing: true
-  track: Money Trees
-  url: https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4
+  album: Still Striving
+  album_art: https://i.scdn.co/image/ab67616d00001e027ff3f96423c97dba141c096e
+  artist: A$AP Ferg
+  is_playing: false
+  track: Plain Jane
+  url: https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-14 04:09 UTC
+updated_at: 2026-03-14 05:30 UTC
