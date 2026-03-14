@@ -1,10 +1,10 @@
 now_playing:
-  album: Without Warning
-  album_art: https://i.scdn.co/image/ab67616d00001e020db43130a9aaa7bae56967ed
-  artist: Offset, Metro Boomin
-  is_playing: false
-  track: Ric Flair Drip (with Metro Boomin)
-  url: https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR
+  album: The Off-Season
+  album_art: https://i.scdn.co/image/ab67616d00001e0210e6745bb2f179dd3616b85f
+  artist: J. Cole, Bas, 6LACK
+  is_playing: true
+  track: l e t . g o . m y . h a n d (with Bas & 6LACK)
+  url: https://open.spotify.com/track/0GAyuCo975IHGxxiLKDufB
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-13 23:51 UTC
+updated_at: 2026-03-14 01:52 UTC
