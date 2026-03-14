@@ -1,10 +1,10 @@
 now_playing:
-  album: NOT ALL HEROES WEAR CAPES (Deluxe)
-  album_art: https://i.scdn.co/image/ab67616d00001e022887f8c05b5a9f1cb105be29
-  artist: Metro Boomin, Gunna
+  album: Perfect Ten
+  album_art: https://i.scdn.co/image/ab67616d00001e0293b1e96fad758869d0974162
+  artist: Mustard, Migos
   is_playing: false
-  track: Space Cadet (feat. Gunna)
-  url: https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz
+  track: Pure Water (with Migos)
+  url: https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-14 20:26 UTC
+updated_at: 2026-03-14 20:52 UTC
