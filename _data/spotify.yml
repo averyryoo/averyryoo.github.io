@@ -1,10 +1,10 @@
 now_playing:
-  album: Un Verano Sin Ti
-  album_art: https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72
-  artist: Bad Bunny
+  album: NOT ALL HEROES WEAR CAPES (Deluxe)
+  album_art: https://i.scdn.co/image/ab67616d00001e022887f8c05b5a9f1cb105be29
+  artist: Metro Boomin, Gunna
   is_playing: false
-  track: Tití Me Preguntó
-  url: https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ
+  track: Space Cadet (feat. Gunna)
+  url: https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-14 18:35 UTC
+updated_at: 2026-03-14 19:25 UTC
