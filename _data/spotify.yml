@@ -1,10 +1,10 @@
 now_playing:
-  album: Perfect Ten
-  album_art: https://i.scdn.co/image/ab67616d00001e0293b1e96fad758869d0974162
-  artist: Mustard, Migos
+  album: The Boy Who Played the Harp
+  album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
+  artist: Dave
   is_playing: false
-  track: Pure Water (with Migos)
-  url: https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8
+  track: My 27th Birthday
+  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-17 13:55 UTC
+updated_at: 2026-03-17 14:56 UTC
