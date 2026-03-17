@@ -6,15 +6,12 @@ now_playing:
   track: My 27th Birthday
   url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 top_tracks:
-- artist: Frank Ocean
-  track: White Ferrari
-  url: https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV
-- artist: Alex Turner
-  track: Stuck on the puzzle
-  url: https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY
 - artist: Dave
   track: My 27th Birthday
   url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
+- artist: Alex Turner
+  track: Stuck on the puzzle
+  url: https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY
 - artist: Charlotte Cardin
   track: 99 Nights
   url: https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE
@@ -22,6 +19,9 @@ top_tracks:
   track: Stateside + Zara Larsson
   url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
 - artist: Frank Ocean
+  track: White Ferrari
+  url: https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV
+- artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-17 14:56 UTC
+updated_at: 2026-03-17 16:07 UTC
