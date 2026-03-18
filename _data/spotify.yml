@@ -1,10 +1,10 @@
 now_playing:
-  album: Alfredo 2
-  album_art: https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a
-  artist: Freddie Gibbs, The Alchemist
+  album: Piñata
+  album_art: https://i.scdn.co/image/ab67616d00001e02d844f6b7311a69b9a08e7a0f
+  artist: Freddie Gibbs, Madlib
   is_playing: false
-  track: Empanadas
-  url: https://open.spotify.com/track/60VOmWCHNsIIRZQ7zVezYB
+  track: Harold’s
+  url: https://open.spotify.com/track/7udJESHhtJ6k2TW9XfiwES
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-18 14:46 UTC
+updated_at: 2026-03-18 16:06 UTC
