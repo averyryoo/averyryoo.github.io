@@ -1,10 +1,10 @@
 now_playing:
-  album: The Boy Who Played the Harp
-  album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
-  artist: Dave
+  album: Alfredo 2
+  album_art: https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a
+  artist: Freddie Gibbs, The Alchemist
   is_playing: false
-  track: The Boy Who Played the Harp
-  url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
+  track: Empanadas
+  url: https://open.spotify.com/track/60VOmWCHNsIIRZQ7zVezYB
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-17 23:30 UTC
+updated_at: 2026-03-18 02:02 UTC
