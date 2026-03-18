@@ -1,10 +1,10 @@
 now_playing:
   album: Piñata
   album_art: https://i.scdn.co/image/ab67616d00001e02d844f6b7311a69b9a08e7a0f
-  artist: Freddie Gibbs, Madlib, Raekwon
-  is_playing: false
-  track: Bomb (feat. Raekwon)
-  url: https://open.spotify.com/track/2NnuTprLJBfiBZEHkQ666a
+  artist: Freddie Gibbs, Madlib, Domo Genesis, Earl Sweatshirt
+  is_playing: true
+  track: Robes (feat. Domo Genesis, Earl Sweatshirt)
+  url: https://open.spotify.com/track/7gDuP7JHRP6A9zwbTIA5gF
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-18 22:30 UTC
+updated_at: 2026-03-18 23:28 UTC
