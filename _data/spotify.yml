@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e024b6b1547455bbecb9f6bba64
   artist: Bon Iver
   is_playing: false
-  track: Wash.
-  url: https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT
+  track: Towers
+  url: https://open.spotify.com/track/7CIKMtUUz31yX6MNX2nGbB
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-19 14:27 UTC
+updated_at: 2026-03-19 15:24 UTC
