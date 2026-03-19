@@ -12,9 +12,6 @@ top_tracks:
 - artist: Alex Turner
   track: Stuck on the puzzle
   url: https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY
-- artist: Charlotte Cardin
-  track: 99 Nights
-  url: https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE
 - artist: PinkPantheress, Zara Larsson
   track: Stateside + Zara Larsson
   url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
@@ -24,4 +21,7 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-03-19 17:33 UTC
+- artist: Charlotte Cardin
+  track: 99 Nights
+  url: https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE
+updated_at: 2026-03-19 18:56 UTC
