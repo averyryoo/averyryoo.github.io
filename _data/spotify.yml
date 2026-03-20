@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e024b6b1547455bbecb9f6bba64
   artist: Bon Iver
   is_playing: false
-  track: Michicant
-  url: https://open.spotify.com/track/43d83eCd7GzmVOKsLwV3QN
+  track: Lisbon, OH
+  url: https://open.spotify.com/track/4mm2qeRlk8Y6IuiXPEPrkK
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Charlotte Cardin
   track: 99 Nights
   url: https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE
-updated_at: 2026-03-20 01:57 UTC
+updated_at: 2026-03-20 04:17 UTC
