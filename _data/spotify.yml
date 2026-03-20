@@ -2,9 +2,9 @@ now_playing:
   album: Ca$ino
   album_art: https://i.scdn.co/image/ab67616d00001e0208a27a15cf37664f0dab6ab7
   artist: Baby Keem
-  is_playing: true
-  track: Birds & the Bees
-  url: https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V
+  is_playing: false
+  track: House Money
+  url: https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Minnesota, WI
   url: https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT
-updated_at: 2026-03-20 15:12 UTC
+updated_at: 2026-03-20 16:04 UTC
