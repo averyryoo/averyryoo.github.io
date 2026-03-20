@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5
   artist: Taylor Swift
   is_playing: false
-  track: Anti-Hero
-  url: https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu
+  track: Maroon
+  url: https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Minnesota, WI
   url: https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT
-updated_at: 2026-03-20 19:54 UTC
+updated_at: 2026-03-20 20:29 UTC
