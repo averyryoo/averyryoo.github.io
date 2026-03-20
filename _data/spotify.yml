@@ -1,10 +1,10 @@
 now_playing:
-  album: Ca$ino
-  album_art: https://i.scdn.co/image/ab67616d00001e0208a27a15cf37664f0dab6ab7
-  artist: Baby Keem
-  is_playing: false
-  track: House Money
-  url: https://open.spotify.com/track/5Th1SPySWgYlkXXC6wLMwL
+  album: The Life of a Showgirl
+  album_art: https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902
+  artist: Taylor Swift
+  is_playing: true
+  track: Father Figure
+  url: https://open.spotify.com/track/03bTIHJElXZ0O0jqOQvAbY
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Minnesota, WI
   url: https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT
-updated_at: 2026-03-20 17:08 UTC
+updated_at: 2026-03-20 17:59 UTC
