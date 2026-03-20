@@ -1,10 +1,10 @@
 now_playing:
-  album: Bon Iver, Bon Iver
-  album_art: https://i.scdn.co/image/ab67616d00001e024b6b1547455bbecb9f6bba64
-  artist: Bon Iver
-  is_playing: false
-  track: Lisbon, OH
-  url: https://open.spotify.com/track/4mm2qeRlk8Y6IuiXPEPrkK
+  album: Nobody New
+  album_art: https://i.scdn.co/image/ab67616d00001e024076c62eeace86cc7bde7aef
+  artist: The Marías
+  is_playing: true
+  track: Nobody New
+  url: https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Nikes
   url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-20 11:56 UTC
+updated_at: 2026-03-20 13:02 UTC
