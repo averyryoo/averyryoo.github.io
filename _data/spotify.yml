@@ -1,10 +1,10 @@
 now_playing:
-  album: Nobody New
-  album_art: https://i.scdn.co/image/ab67616d00001e024076c62eeace86cc7bde7aef
-  artist: The Marías
-  is_playing: false
-  track: Nobody New
-  url: https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt
+  album: Ca$ino
+  album_art: https://i.scdn.co/image/ab67616d00001e0208a27a15cf37664f0dab6ab7
+  artist: Baby Keem
+  is_playing: true
+  track: Birds & the Bees
+  url: https://open.spotify.com/track/7bwLHhqhRu0fVTM3aaeK9V
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Minnesota, WI
   url: https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT
-updated_at: 2026-03-20 14:11 UTC
+updated_at: 2026-03-20 15:12 UTC
