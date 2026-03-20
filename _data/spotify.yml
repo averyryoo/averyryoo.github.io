@@ -2,7 +2,7 @@ now_playing:
   album: Nobody New
   album_art: https://i.scdn.co/image/ab67616d00001e024076c62eeace86cc7bde7aef
   artist: The Marías
-  is_playing: true
+  is_playing: false
   track: Nobody New
   url: https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt
 top_tracks:
@@ -18,10 +18,10 @@ top_tracks:
 - artist: Frank Ocean
   track: White Ferrari
   url: https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV
-- artist: Frank Ocean
-  track: Ivy
-  url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-- artist: Frank Ocean
-  track: Nikes
-  url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
-updated_at: 2026-03-20 13:02 UTC
+- artist: Dave
+  track: The Boy Who Played the Harp
+  url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
+- artist: Bon Iver
+  track: Minnesota, WI
+  url: https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT
+updated_at: 2026-03-20 14:11 UTC
