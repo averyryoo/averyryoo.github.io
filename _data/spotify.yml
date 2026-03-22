@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5
   artist: Taylor Swift
   is_playing: false
-  track: Karma
-  url: https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf
+  track: Sweet Nothing
+  url: https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Beth/Rest
   url: https://open.spotify.com/track/2Eh12jPXjq0DKVQmFy3675
-updated_at: 2026-03-22 21:23 UTC
+updated_at: 2026-03-22 21:49 UTC
