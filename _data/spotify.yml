@@ -1,10 +1,10 @@
 now_playing:
-  album: GNX
-  album_art: https://i.scdn.co/image/ab67616d00001e0209d6ed214f03fbb663e46531
-  artist: Kendrick Lamar, SZA
+  album: Submarine
+  album_art: https://i.scdn.co/image/ab67616d00001e028aa339341a0b0c813909c831
+  artist: The Marías
   is_playing: false
-  track: luther (with sza)
-  url: https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd
+  track: No One Noticed
+  url: https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Beth/Rest
   url: https://open.spotify.com/track/2Eh12jPXjq0DKVQmFy3675
-updated_at: 2026-03-23 13:54 UTC
+updated_at: 2026-03-23 14:53 UTC
