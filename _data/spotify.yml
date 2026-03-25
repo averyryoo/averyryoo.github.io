@@ -1,10 +1,10 @@
 now_playing:
-  album: Submarine
-  album_art: https://i.scdn.co/image/ab67616d00001e028aa339341a0b0c813909c831
-  artist: The Marías
+  album: Alfredo
+  album_art: https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651
+  artist: Freddie Gibbs, The Alchemist
   is_playing: false
-  track: No One Noticed
-  url: https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5
+  track: God Is Perfect
+  url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Beth/Rest
   url: https://open.spotify.com/track/2Eh12jPXjq0DKVQmFy3675
-updated_at: 2026-03-25 14:57 UTC
+updated_at: 2026-03-25 16:13 UTC
