@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e0235a8a0c8b82b525679eceda6
   artist: Baby Keem
   is_playing: false
-  track: gorgeous
-  url: https://open.spotify.com/track/2fAxMyvNvu6wqVpoqsFiw9
+  track: lost souls
+  url: https://open.spotify.com/track/1h2IHrBJcZxB0XboJQpVWa
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Minnesota, WI
   url: https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT
-updated_at: 2026-03-26 14:04 UTC
+updated_at: 2026-03-26 15:50 UTC
