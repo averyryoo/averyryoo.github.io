@@ -1,10 +1,10 @@
 now_playing:
-  album: The Melodic Blue
-  album_art: https://i.scdn.co/image/ab67616d00001e0235a8a0c8b82b525679eceda6
-  artist: Baby Keem, Don Toliver
-  is_playing: false
-  track: cocoa (with Don Toliver)
-  url: https://open.spotify.com/track/3OEjvmEBRrdTYbbrkiXG8a
+  album: Man’s Best Friend
+  album_art: https://i.scdn.co/image/ab67616d00001e02b1863bf95557ea7f357c4947
+  artist: Sabrina Carpenter
+  is_playing: true
+  track: Never Getting Laid
+  url: https://open.spotify.com/track/1PdUyYYw9sGU0yhLrpeHKt
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Minnesota, WI
   url: https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT
-updated_at: 2026-03-27 15:51 UTC
+updated_at: 2026-03-27 16:53 UTC
