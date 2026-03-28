@@ -1,10 +1,10 @@
 now_playing:
-  album: five seconds flat
-  album_art: https://i.scdn.co/image/ab67616d00001e02d370fdc4dbc47778b9b667c3
+  album: Older
+  album_art: https://i.scdn.co/image/ab67616d00001e021cc66d4df4e792d14dd2297b
   artist: Lizzy McAlpine
   is_playing: false
-  track: ceilings
-  url: https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI
+  track: March
+  url: https://open.spotify.com/track/4u1cRUVmE8jGI36hht6nRl
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Minnesota, WI
   url: https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT
-updated_at: 2026-03-27 23:52 UTC
+updated_at: 2026-03-28 02:00 UTC
