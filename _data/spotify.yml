@@ -1,10 +1,10 @@
 now_playing:
-  album: Older
-  album_art: https://i.scdn.co/image/ab67616d00001e021cc66d4df4e792d14dd2297b
-  artist: Lizzy McAlpine
+  album: WHATMORE
+  album_art: https://i.scdn.co/image/ab67616d00001e0242449dc8d72faa3e65b147d0
+  artist: WHATMORE
   is_playing: false
-  track: March
-  url: https://open.spotify.com/track/4u1cRUVmE8jGI36hht6nRl
+  track: emptyy
+  url: https://open.spotify.com/track/4L9CEZqT2AbzZqaxSK5mIW
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bon Iver
   track: Minnesota, WI
   url: https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT
-updated_at: 2026-03-28 18:37 UTC
+updated_at: 2026-03-28 19:28 UTC
