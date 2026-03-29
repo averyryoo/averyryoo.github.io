@@ -1,10 +1,10 @@
 now_playing:
-  album: WHATMORE
-  album_art: https://i.scdn.co/image/ab67616d00001e0242449dc8d72faa3e65b147d0
-  artist: WHATMORE
+  album: The Melodic Blue
+  album_art: https://i.scdn.co/image/ab67616d00001e0235a8a0c8b82b525679eceda6
+  artist: Baby Keem, Kendrick Lamar
   is_playing: false
-  track: emptyy
-  url: https://open.spotify.com/track/4L9CEZqT2AbzZqaxSK5mIW
+  track: range brothers (with Kendrick Lamar)
+  url: https://open.spotify.com/track/0UTyLmkQgPOEIz95OVAJTR
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-03-29 19:30 UTC
+updated_at: 2026-03-29 20:29 UTC
