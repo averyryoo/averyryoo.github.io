@@ -1,10 +1,10 @@
 now_playing:
-  album: The Melodic Blue
-  album_art: https://i.scdn.co/image/ab67616d00001e0235a8a0c8b82b525679eceda6
-  artist: Baby Keem, Kendrick Lamar
-  is_playing: false
-  track: family ties (with Kendrick Lamar)
-  url: https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN
+  album: i was mature for my age, but i was still a child
+  album_art: https://i.scdn.co/image/ab67616d00001e0267a769f80c86a83a250226ba
+  artist: PARTYOF2, Jadagrace, SWIM, TJOnline
+  is_playing: true
+  track: American Psycho
+  url: https://open.spotify.com/track/7cZlY5e0hIuE4rHmuaFZu3
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Freddie Gibbs, The Alchemist
   track: '1995'
   url: https://open.spotify.com/track/3lGHMz9BIUZWFEx0fhS4VF
-updated_at: 2026-03-30 21:40 UTC
+updated_at: 2026-03-30 22:33 UTC
