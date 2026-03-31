@@ -1,10 +1,10 @@
 now_playing:
-  album: Dark Lane Demo Tapes
-  album_art: https://i.scdn.co/image/ab67616d00001e02bba7cfaf7c59ff0898acba1f
-  artist: Drake, GIVĒON
-  is_playing: true
-  track: Chicago Freestyle (feat. Giveon)
-  url: https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B
+  album: Alfredo
+  album_art: https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651
+  artist: Freddie Gibbs, The Alchemist
+  is_playing: false
+  track: God Is Perfect
+  url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -15,13 +15,13 @@ top_tracks:
 - artist: PinkPantheress, Zara Larsson
   track: Stateside + Zara Larsson
   url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
+- artist: Freddie Gibbs, The Alchemist
+  track: God Is Perfect
+  url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
+- artist: Baby Keem
+  track: trademark usa
+  url: https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-- artist: Taylor Swift
-  track: Opalite
-  url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-- artist: Freddie Gibbs, The Alchemist
-  track: '1995'
-  url: https://open.spotify.com/track/3lGHMz9BIUZWFEx0fhS4VF
-updated_at: 2026-03-31 02:09 UTC
+updated_at: 2026-03-31 04:57 UTC
