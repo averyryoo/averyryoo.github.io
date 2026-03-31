@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
   artist: Frank Ocean
   is_playing: false
-  track: Be Yourself
-  url: https://open.spotify.com/track/1IdZvb2XK8NmsovQlV6CPn
+  track: Solo
+  url: https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-03-31 19:57 UTC
+updated_at: 2026-03-31 20:49 UTC
