@@ -1,10 +1,10 @@
 now_playing:
-  album: Alfredo
-  album_art: https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651
-  artist: Freddie Gibbs, The Alchemist
+  album: Blonde
+  album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
+  artist: Frank Ocean
   is_playing: false
-  track: God Is Perfect
-  url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
+  track: Pink + White
+  url: https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-03-31 12:06 UTC
+updated_at: 2026-03-31 14:07 UTC
