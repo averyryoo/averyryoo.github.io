@@ -1,10 +1,10 @@
 now_playing:
-  album: Reflektor
-  album_art: https://i.scdn.co/image/ab67616d00001e022b0c88ad3d7be225c955e08c
-  artist: Arcade Fire
+  album: Blonde
+  album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
+  artist: Frank Ocean
   is_playing: false
-  track: Reflektor
-  url: https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks
+  track: Self Control
+  url: https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-01 20:40 UTC
+updated_at: 2026-04-01 21:39 UTC
