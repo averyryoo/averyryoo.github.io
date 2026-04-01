@@ -2,9 +2,9 @@ now_playing:
   album: Reflektor
   album_art: https://i.scdn.co/image/ab67616d00001e022b0c88ad3d7be225c955e08c
   artist: Arcade Fire
-  is_playing: false
-  track: Here Comes the Night Time
-  url: https://open.spotify.com/track/4OZyVAbGOcrv4BYv5xDjet
+  is_playing: true
+  track: Porno
+  url: https://open.spotify.com/track/48PWHnhCWgPGArCo0rvdm1
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-01 22:35 UTC
+updated_at: 2026-04-01 23:34 UTC
