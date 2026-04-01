@@ -1,10 +1,10 @@
 now_playing:
-  album: Blonde
-  album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
-  artist: Frank Ocean
+  album: Reflektor
+  album_art: https://i.scdn.co/image/ab67616d00001e022b0c88ad3d7be225c955e08c
+  artist: Arcade Fire
   is_playing: false
-  track: Skyline To
-  url: https://open.spotify.com/track/4xR3MAscflQ262kMeiKshQ
+  track: Reflektor
+  url: https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-01 18:10 UTC
+updated_at: 2026-04-01 19:36 UTC
