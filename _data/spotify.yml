@@ -1,10 +1,10 @@
 now_playing:
-  album: Reflektor
-  album_art: https://i.scdn.co/image/ab67616d00001e022b0c88ad3d7be225c955e08c
-  artist: Arcade Fire
+  album: Graduation
+  album_art: https://i.scdn.co/image/ab67616d00001e0226f7f19c7f0381e56156c94a
+  artist: Kanye West
   is_playing: true
-  track: Porno
-  url: https://open.spotify.com/track/48PWHnhCWgPGArCo0rvdm1
+  track: I Wonder
+  url: https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-01 23:34 UTC
+updated_at: 2026-04-02 02:06 UTC
