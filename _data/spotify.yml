@@ -1,10 +1,10 @@
 now_playing:
-  album: 'Good Girl Gone Bad: Reloaded'
-  album_art: https://i.scdn.co/image/ab67616d00001e02f9f27162ab1ed45b8d7a7e98
-  artist: Rihanna, JAŸ-Z
+  album: Swimming
+  album_art: https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534
+  artist: Mac Miller
   is_playing: false
-  track: Umbrella
-  url: https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux
+  track: Ladders
+  url: https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-02 17:48 UTC
+updated_at: 2026-04-02 18:54 UTC
