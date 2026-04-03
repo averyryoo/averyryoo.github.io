@@ -1,10 +1,10 @@
 now_playing:
-  album: Swimming
-  album_art: https://i.scdn.co/image/ab67616d00001e02175c577a61aa13d4fb4b6534
-  artist: Mac Miller
+  album: Blonde
+  album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
+  artist: Frank Ocean
   is_playing: false
-  track: Ladders
-  url: https://open.spotify.com/track/39NDBdU5Xkm5pCFGa5kZtI
+  track: White Ferrari
+  url: https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-03 11:58 UTC
+updated_at: 2026-04-03 13:22 UTC
