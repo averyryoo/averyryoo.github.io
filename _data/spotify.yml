@@ -1,10 +1,10 @@
 now_playing:
-  album: 追梦痴子心
-  album_art: https://i.scdn.co/image/ab67616d00001e0228d39e1df6cc7c6dd97aaf9b
-  artist: GALA
+  album: Pray for Paris
+  album_art: https://i.scdn.co/image/ab67616d00001e02a29bd588f4caf84bd4cd6f8b
+  artist: Westside Gunn, Cartier William
   is_playing: false
-  track: 追梦赤子心
-  url: https://open.spotify.com/track/0BqJyEqlCTtLU9OKnhJFXO
+  track: LE Djoliba (feat. Cartier William)
+  url: https://open.spotify.com/track/0biLdTuAgLM40pKX4BN3GH
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-05 02:13 UTC
+updated_at: 2026-04-05 04:59 UTC
