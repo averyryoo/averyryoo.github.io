@@ -1,10 +1,10 @@
 now_playing:
   album: Pray for Paris
   album_art: https://i.scdn.co/image/ab67616d00001e02a29bd588f4caf84bd4cd6f8b
-  artist: Westside Gunn, Cartier William
+  artist: Westside Gunn
   is_playing: false
-  track: LE Djoliba (feat. Cartier William)
-  url: https://open.spotify.com/track/0biLdTuAgLM40pKX4BN3GH
+  track: No Vacancy
+  url: https://open.spotify.com/track/2MZFUhF9RZeCdUSR2wGEuQ
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-05 17:58 UTC
+updated_at: 2026-04-05 18:56 UTC
