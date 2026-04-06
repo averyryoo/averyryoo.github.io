@@ -1,10 +1,10 @@
 now_playing:
-  album: Playtime
-  album_art: https://i.scdn.co/image/ab67616d00001e026f57ac8cf5685f65c479170a
-  artist: L'Indécis
-  is_playing: true
-  track: Soulful
-  url: https://open.spotify.com/track/6CKMbke67ujzy1R7xYdQz2
+  album: Black Classical Music
+  album_art: https://i.scdn.co/image/ab67616d00001e02a48a83dbca69315055069a0c
+  artist: Yussef Dayes, Jamilah Barry
+  is_playing: false
+  track: Woman's Touch (feat. Jamilah Barry)
+  url: https://open.spotify.com/track/3uOYf3l9i8TL8vzDUFfxgN
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -21,7 +21,7 @@ top_tracks:
 - artist: Baby Keem
   track: trademark usa
   url: https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF
-- artist: Dave
-  track: The Boy Who Played the Harp
-  url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-06 21:36 UTC
+- artist: Freddie Gibbs, The Alchemist
+  track: Mar-a-Lago
+  url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
+updated_at: 2026-04-06 22:34 UTC
