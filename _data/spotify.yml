@@ -1,10 +1,10 @@
 now_playing:
-  album: Pray for Paris
-  album_art: https://i.scdn.co/image/ab67616d00001e02a29bd588f4caf84bd4cd6f8b
-  artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
+  album: Alfredo 2
+  album_art: https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a
+  artist: Freddie Gibbs, The Alchemist
   is_playing: true
-  track: 327 (feat. Tyler, The Creator & Billie Essco)
-  url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
+  track: Lemon Pepper Steppers
+  url: https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-06 18:56 UTC
+updated_at: 2026-04-06 19:52 UTC
