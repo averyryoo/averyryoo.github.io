@@ -1,10 +1,10 @@
 now_playing:
-  album: Alfredo 2
-  album_art: https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a
-  artist: Freddie Gibbs, The Alchemist
-  is_playing: false
-  track: Mar-a-Lago
-  url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
+  album: Playtime
+  album_art: https://i.scdn.co/image/ab67616d00001e026f57ac8cf5685f65c479170a
+  artist: L'Indécis
+  is_playing: true
+  track: Soulful
+  url: https://open.spotify.com/track/6CKMbke67ujzy1R7xYdQz2
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-06 20:35 UTC
+updated_at: 2026-04-06 21:36 UTC
