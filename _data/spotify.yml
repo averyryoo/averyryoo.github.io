@@ -2,9 +2,9 @@ now_playing:
   album: Alfredo 2
   album_art: https://i.scdn.co/image/ab67616d00001e02e098f51a1a2ebb827dc6099a
   artist: Freddie Gibbs, The Alchemist
-  is_playing: true
-  track: Lemon Pepper Steppers
-  url: https://open.spotify.com/track/0JoGpxGXpz5vuam5Fopc4C
+  is_playing: false
+  track: Mar-a-Lago
+  url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave
   track: The Boy Who Played the Harp
   url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-06 19:52 UTC
+updated_at: 2026-04-06 20:35 UTC
