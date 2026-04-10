@@ -1,10 +1,10 @@
 now_playing:
-  album: channel ORANGE
-  album_art: https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5
-  artist: Frank Ocean
-  is_playing: false
-  track: Forrest Gump
-  url: https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx
+  album: GUTS
+  album_art: https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d
+  artist: Olivia Rodrigo
+  is_playing: true
+  track: making the bed
+  url: https://open.spotify.com/track/5CscrLqFBgPfZR8fGtikov
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-10 13:05 UTC
+updated_at: 2026-04-10 14:33 UTC
