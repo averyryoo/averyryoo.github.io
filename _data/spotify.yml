@@ -1,27 +1,27 @@
 now_playing:
-  album: Orange Wine
-  album_art: https://i.scdn.co/image/ab67616d00001e023e6090547a4f06056836b3dd
-  artist: Okvsho
+  album: channel ORANGE
+  album_art: https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5
+  artist: Frank Ocean
   is_playing: false
-  track: Jusqu'ici tout va bien
-  url: https://open.spotify.com/track/0SLUNiULPVKvgudaIV8xhB
+  track: Forrest Gump
+  url: https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx
 top_tracks:
-- artist: Dave
-  track: My 27th Birthday
-  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
-- artist: Alex Turner
-  track: Stuck on the puzzle
-  url: https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY
 - artist: Baby Keem
   track: trademark usa
   url: https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF
-- artist: PinkPantheress, Zara Larsson
-  track: Stateside + Zara Larsson
-  url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
 - artist: Freddie Gibbs, The Alchemist
   track: Mar-a-Lago
   url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
+- artist: Freddie Gibbs, The Alchemist
+  track: God Is Perfect
+  url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
+- artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
+  track: 327 (feat. Tyler, The Creator & Billie Essco)
+  url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
 - artist: Dave
-  track: The Boy Who Played the Harp
-  url: https://open.spotify.com/track/3qpbRVi19oJw1jMRSaNFPN
-updated_at: 2026-04-10 00:00 UTC
+  track: My 27th Birthday
+  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
+- artist: Taylor Swift
+  track: Opalite
+  url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
+updated_at: 2026-04-10 03:46 UTC
