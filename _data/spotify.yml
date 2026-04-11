@@ -1,11 +1,14 @@
 now_playing:
-  album: Either/Or
-  album_art: https://i.scdn.co/image/ab67616d00001e022f3552dc6f9e4e2748c5b8ba
-  artist: Elliott Smith
+  album: The Boy Who Played the Harp
+  album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
+  artist: Dave
   is_playing: false
-  track: Between the Bars
-  url: https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm
+  track: My 27th Birthday
+  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 top_tracks:
+- artist: Dave
+  track: My 27th Birthday
+  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 - artist: Baby Keem
   track: trademark usa
   url: https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF
@@ -18,10 +21,7 @@ top_tracks:
 - artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
   track: 327 (feat. Tyler, The Creator & Billie Essco)
   url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
-- artist: Dave
-  track: My 27th Birthday
-  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-11 02:04 UTC
+updated_at: 2026-04-11 04:32 UTC
