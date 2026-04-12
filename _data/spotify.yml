@@ -1,10 +1,10 @@
 now_playing:
-  album: The Beatles (Remastered)
-  album_art: https://i.scdn.co/image/ab67616d00001e024ce8b4e42588bf18182a1ad2
-  artist: The Beatles
-  is_playing: false
-  track: Blackbird - Remastered 2009
-  url: https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr
+  album: Purpose (Deluxe)
+  album_art: https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de
+  artist: Justin Bieber
+  is_playing: true
+  track: Company
+  url: https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-12 18:43 UTC
+updated_at: 2026-04-12 19:37 UTC
