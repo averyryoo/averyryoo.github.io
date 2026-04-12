@@ -1,10 +1,10 @@
 now_playing:
-  album: Journals
-  album_art: https://i.scdn.co/image/ab67616d00001e0258ae8fddecbd2630005409c9
-  artist: Justin Bieber
+  album: Purpose (Deluxe)
+  album_art: https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de
+  artist: Justin Bieber, Travis Scott
   is_playing: false
-  track: Flatline
-  url: https://open.spotify.com/track/2GBgiuXwY1KzJMA0gSAr9J
+  track: No Sense
+  url: https://open.spotify.com/track/5L9WFUodzACitS1TiGm7Mi
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-12 20:33 UTC
+updated_at: 2026-04-12 21:32 UTC
