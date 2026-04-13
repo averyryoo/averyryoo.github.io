@@ -1,10 +1,10 @@
 now_playing:
-  album: Purpose (Deluxe)
-  album_art: https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de
-  artist: Justin Bieber, Travis Scott
+  album: Hurry Up Tomorrow
+  album_art: https://i.scdn.co/image/ab67616d00001e02982320da137d0de34410df61
+  artist: The Weeknd, Playboi Carti
   is_playing: false
-  track: No Sense
-  url: https://open.spotify.com/track/5L9WFUodzACitS1TiGm7Mi
+  track: Timeless (feat Playboi Carti)
+  url: https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-13 16:20 UTC
+updated_at: 2026-04-13 17:37 UTC
