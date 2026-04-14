@@ -6,9 +6,6 @@ now_playing:
   track: Clash (feat. Stormzy)
   url: https://open.spotify.com/track/0hE6By0vNRrRZzhtqoKZzJ
 top_tracks:
-- artist: Dave
-  track: My 27th Birthday
-  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 - artist: Baby Keem
   track: trademark usa
   url: https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF
@@ -21,7 +18,10 @@ top_tracks:
 - artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
   track: 327 (feat. Tyler, The Creator & Billie Essco)
   url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
+- artist: Dave
+  track: My 27th Birthday
+  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-14 15:01 UTC
+updated_at: 2026-04-14 16:39 UTC
