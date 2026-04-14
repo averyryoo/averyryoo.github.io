@@ -1,10 +1,10 @@
 now_playing:
-  album: The Fourth World
-  album_art: https://i.scdn.co/image/ab67616d00001e02cd4c9beaf1d6936aff03fce1
-  artist: Kara's Flowers
+  album: The Boy Who Played the Harp
+  album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
+  artist: Dave, Jim Legxacy
   is_playing: false
-  track: Soap Disco
-  url: https://open.spotify.com/track/5lPHUBxXdMriWSfg9V1dge
+  track: No Weapons (feat. Jim Legxacy)
+  url: https://open.spotify.com/track/064NMVv1SUTN1e2fbG4MKt
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-14 11:55 UTC
+updated_at: 2026-04-14 13:26 UTC
