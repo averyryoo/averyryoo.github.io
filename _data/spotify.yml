@@ -1,10 +1,10 @@
 now_playing:
   album: Hurry Up Tomorrow
   album_art: https://i.scdn.co/image/ab67616d00001e02982320da137d0de34410df61
-  artist: The Weeknd, Playboi Carti
+  artist: The Weeknd, Justice
   is_playing: false
-  track: Timeless (feat Playboi Carti)
-  url: https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS
+  track: Wake Me Up (feat. Justice)
+  url: https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-14 02:25 UTC
+updated_at: 2026-04-14 05:09 UTC
