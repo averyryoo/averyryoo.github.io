@@ -1,10 +1,10 @@
 now_playing:
-  album: Hurry Up Tomorrow
-  album_art: https://i.scdn.co/image/ab67616d00001e02982320da137d0de34410df61
-  artist: The Weeknd, Justice
+  album: The Fourth World
+  album_art: https://i.scdn.co/image/ab67616d00001e02cd4c9beaf1d6936aff03fce1
+  artist: Kara's Flowers
   is_playing: false
-  track: Wake Me Up (feat. Justice)
-  url: https://open.spotify.com/track/5673WA8EEUSPx1ir26lhGW
+  track: Soap Disco
+  url: https://open.spotify.com/track/5lPHUBxXdMriWSfg9V1dge
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-14 09:00 UTC
+updated_at: 2026-04-14 10:44 UTC
