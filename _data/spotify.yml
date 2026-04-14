@@ -1,10 +1,10 @@
 now_playing:
-  album: The Boy Who Played the Harp
-  album_art: https://i.scdn.co/image/ab67616d00001e02fecaa7826bb0cbe139a8cb83
-  artist: Dave, Jim Legxacy
+  album: We're All Alone In This Together
+  album_art: https://i.scdn.co/image/ab67616d00001e021c9f7d8a332ac375ea17a58e
+  artist: Dave, Stormzy
   is_playing: false
-  track: No Weapons (feat. Jim Legxacy)
-  url: https://open.spotify.com/track/064NMVv1SUTN1e2fbG4MKt
+  track: Clash (feat. Stormzy)
+  url: https://open.spotify.com/track/0hE6By0vNRrRZzhtqoKZzJ
 top_tracks:
 - artist: Dave
   track: My 27th Birthday
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-14 13:26 UTC
+updated_at: 2026-04-14 15:01 UTC
