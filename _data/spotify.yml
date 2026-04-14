@@ -1,10 +1,10 @@
 now_playing:
-  album: We're All Alone In This Together
-  album_art: https://i.scdn.co/image/ab67616d00001e021c9f7d8a332ac375ea17a58e
-  artist: Dave, Stormzy
+  album: Hurry Up Tomorrow
+  album_art: https://i.scdn.co/image/ab67616d00001e02982320da137d0de34410df61
+  artist: The Weeknd, Anitta
   is_playing: false
-  track: Clash (feat. Stormzy)
-  url: https://open.spotify.com/track/0hE6By0vNRrRZzhtqoKZzJ
+  track: São Paulo (feat. Anitta)
+  url: https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-14 18:03 UTC
+updated_at: 2026-04-14 19:48 UTC
