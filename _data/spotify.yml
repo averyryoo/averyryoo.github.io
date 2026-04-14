@@ -1,10 +1,10 @@
 now_playing:
-  album: Hurry Up Tomorrow
-  album_art: https://i.scdn.co/image/ab67616d00001e02982320da137d0de34410df61
-  artist: The Weeknd, Anitta
-  is_playing: false
-  track: São Paulo (feat. Anitta)
-  url: https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC
+  album: Let The Games Begin
+  album_art: https://i.scdn.co/image/ab67616d00001e02e12f1e42de021eb6dfa68a78
+  artist: BigJadaa, Lil Noonie
+  is_playing: true
+  track: Let The Games Begin
+  url: https://open.spotify.com/track/00sV91iskJoyHk9tLPtZgT
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-14 21:50 UTC
+updated_at: 2026-04-14 22:42 UTC
