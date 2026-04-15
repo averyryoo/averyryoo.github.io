@@ -1,27 +1,27 @@
 now_playing:
-  album: Game Over
-  album_art: https://i.scdn.co/image/ab67616d00001e029ae93c82da7937dfea03ffe2
-  artist: Dave, MoStack
+  album: Venting
+  album_art: https://i.scdn.co/image/ab67616d00001e02d3f7644631cd183f73cd4d2f
+  artist: NoMates, ReniGAD
   is_playing: false
-  track: No Words
-  url: https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs
+  track: Venting
+  url: https://open.spotify.com/track/4Yh9CdqS8CCe68YyWz9Js7
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
   url: https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF
-- artist: Freddie Gibbs, The Alchemist
-  track: Mar-a-Lago
-  url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
 - artist: Freddie Gibbs, The Alchemist
   track: God Is Perfect
   url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
 - artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
   track: 327 (feat. Tyler, The Creator & Billie Essco)
   url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
-- artist: Dave
-  track: My 27th Birthday
-  url: https://open.spotify.com/track/7AXHZylhc2mgBKchDEJ1XL
 - artist: Taylor Swift
   track: Opalite
   url: https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa
-updated_at: 2026-04-15 02:22 UTC
+- artist: Freddie Gibbs, The Alchemist
+  track: Mar-a-Lago
+  url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
+- artist: PARTYOF2, Jadagrace, SWIM, TJOnline
+  track: track 1
+  url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
+updated_at: 2026-04-15 05:10 UTC
