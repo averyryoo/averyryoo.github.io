@@ -1,10 +1,10 @@
 now_playing:
-  album: Multiply (feat. Juicy J)
-  album_art: https://i.scdn.co/image/ab67616d00001e021126119b7261b944cc9bb50a
-  artist: A$AP Rocky, Juicy J
+  album: LIVE.LOVE.A$AP
+  album_art: https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd
+  artist: A$AP Rocky
   is_playing: false
-  track: Multiply (feat. Juicy J)
-  url: https://open.spotify.com/track/21tQ61tNj6qbXbDwmSIPt9
+  track: Peso
+  url: https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
@@ -24,4 +24,4 @@ top_tracks:
 - artist: PARTYOF2, Jadagrace, SWIM, TJOnline
   track: track 1
   url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
-updated_at: 2026-04-16 20:09 UTC
+updated_at: 2026-04-16 21:08 UTC
