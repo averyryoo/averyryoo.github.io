@@ -1,10 +1,10 @@
 now_playing:
-  album: Starboy
-  album_art: https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452
-  artist: The Weeknd, Kendrick Lamar
+  album: Heavy Is The Head
+  album_art: https://i.scdn.co/image/ab67616d00001e0203bf634fe9526dfcc79f8526
+  artist: Stormzy
   is_playing: false
-  track: Sidewalks
-  url: https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko
+  track: Vossi Bop
+  url: https://open.spotify.com/track/5DXKtoZLm31msT7tNGNHLG
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-04-17 22:36 UTC
+updated_at: 2026-04-17 23:36 UTC
