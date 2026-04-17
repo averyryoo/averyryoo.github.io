@@ -1,10 +1,10 @@
 now_playing:
-  album: Famous Cryp
-  album_art: https://i.scdn.co/image/ab67616d00001e0209e3d83c690146fa8b006a9d
-  artist: Blueface
-  is_playing: false
-  track: Thotiana
-  url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
+  album: Starboy
+  album_art: https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452
+  artist: The Weeknd
+  is_playing: true
+  track: True Colors
+  url: https://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
@@ -24,4 +24,4 @@ top_tracks:
 - artist: PARTYOF2, Jadagrace, SWIM, TJOnline
   track: track 1
   url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
-updated_at: 2026-04-17 14:39 UTC
+updated_at: 2026-04-17 15:58 UTC
