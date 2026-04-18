@@ -1,10 +1,10 @@
 now_playing:
-  album: Show Me How
-  album_art: https://i.scdn.co/image/ab67616d00001e02deeb617204bc14f4ee87b057
-  artist: Men I Trust
+  album: channel ORANGE
+  album_art: https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5
+  artist: Frank Ocean
   is_playing: false
-  track: Show Me How
-  url: https://open.spotify.com/track/75IQVo8hqI1iwVZyvkN2VT
+  track: Thinkin Bout You
+  url: https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Frank Ocean
   track: Ivy
   url: https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a
-updated_at: 2026-04-18 19:13 UTC
+updated_at: 2026-04-18 19:58 UTC
