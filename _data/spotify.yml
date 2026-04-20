@@ -1,10 +1,10 @@
 now_playing:
-  album: channel ORANGE
-  album_art: https://i.scdn.co/image/ab67616d00001e027aede4855f6d0d738012e2e5
-  artist: Frank Ocean
-  is_playing: false
-  track: Fertilizer
-  url: https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl
+  album: Unapologetic (Deluxe)
+  album_art: https://i.scdn.co/image/ab67616d00001e020e6cedee56e37a9a65f2164d
+  artist: Rihanna, Mikky Ekko
+  is_playing: true
+  track: Stay
+  url: https://open.spotify.com/track/1dEy9Pl81QopSxNsPxXQxv
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
@@ -24,4 +24,4 @@ top_tracks:
 - artist: PARTYOF2, Jadagrace, SWIM, TJOnline
   track: track 1
   url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
-updated_at: 2026-04-19 23:33 UTC
+updated_at: 2026-04-20 02:31 UTC
