@@ -1,10 +1,10 @@
 now_playing:
-  album: Yeezus
-  album_art: https://i.scdn.co/image/ab67616d00001e021dacfbc31cc873d132958af9
-  artist: Kanye West
+  album: Journals
+  album_art: https://i.scdn.co/image/ab67616d00001e02aac2a4189ed89b369c539df6
+  artist: Justin Bieber, Chance the Rapper
   is_playing: false
-  track: Guilt Trip
-  url: https://open.spotify.com/track/5nPOM0nFRAJ3XI8xCxNAzO
+  track: Confident
+  url: https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
@@ -18,10 +18,10 @@ top_tracks:
 - artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
   track: 327 (feat. Tyler, The Creator & Billie Essco)
   url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
+- artist: Baby Keem
+  track: pink panties
+  url: https://open.spotify.com/track/4Af4H9x1RwADB9XizalvUM
 - artist: Freddie Gibbs, The Alchemist
   track: Mar-a-Lago
   url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
-- artist: PARTYOF2, Jadagrace, SWIM, TJOnline
-  track: track 1
-  url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
-updated_at: 2026-04-21 00:05 UTC
+updated_at: 2026-04-21 03:50 UTC
