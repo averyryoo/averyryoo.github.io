@@ -1,20 +1,20 @@
 now_playing:
-  album: Man’s Best Friend
-  album_art: https://i.scdn.co/image/ab67616d00001e02b1863bf95557ea7f357c4947
-  artist: Sabrina Carpenter
+  album: Alfredo
+  album_art: https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651
+  artist: Freddie Gibbs, The Alchemist
   is_playing: false
-  track: When Did You Get Hot?
-  url: https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl
+  track: God Is Perfect
+  url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
 top_tracks:
+- artist: Freddie Gibbs, The Alchemist
+  track: God Is Perfect
+  url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
 - artist: Baby Keem
   track: trademark usa
   url: https://open.spotify.com/track/15hJmqqEtASVXl6sM7i4UF
 - artist: Frank Ocean
   track: Thinkin Bout You
   url: https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau
-- artist: Freddie Gibbs, The Alchemist
-  track: God Is Perfect
-  url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
 - artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
   track: 327 (feat. Tyler, The Creator & Billie Essco)
   url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Freddie Gibbs, The Alchemist
   track: Mar-a-Lago
   url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
-updated_at: 2026-04-21 14:14 UTC
+updated_at: 2026-04-21 15:51 UTC
