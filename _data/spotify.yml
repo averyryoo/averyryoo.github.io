@@ -1,10 +1,10 @@
 now_playing:
-  album: Journals
-  album_art: https://i.scdn.co/image/ab67616d00001e02aac2a4189ed89b369c539df6
-  artist: Justin Bieber, Chance the Rapper
+  album: Man’s Best Friend
+  album_art: https://i.scdn.co/image/ab67616d00001e02b1863bf95557ea7f357c4947
+  artist: Sabrina Carpenter
   is_playing: false
-  track: Confident
-  url: https://open.spotify.com/track/5Isz0twJeFdduOQEFQLezv
+  track: When Did You Get Hot?
+  url: https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl
 top_tracks:
 - artist: Baby Keem
   track: trademark usa
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Freddie Gibbs, The Alchemist
   track: Mar-a-Lago
   url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
-updated_at: 2026-04-21 12:12 UTC
+updated_at: 2026-04-21 14:14 UTC
