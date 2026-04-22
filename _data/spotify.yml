@@ -1,10 +1,10 @@
 now_playing:
-  album: Alfredo
-  album_art: https://i.scdn.co/image/ab67616d00001e0252c24049a16d59e98a638651
-  artist: Freddie Gibbs, The Alchemist
+  album: Harvest (2009 Remaster)
+  album_art: https://i.scdn.co/image/ab67616d00001e0240007250b3b5624f2c63d050
+  artist: Neil Young
   is_playing: false
-  track: God Is Perfect
-  url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
+  track: Old Man - 2009 Remaster
+  url: https://open.spotify.com/track/16XeptMdlJTWWeIrwEAOvv
 top_tracks:
 - artist: Freddie Gibbs, The Alchemist
   track: God Is Perfect
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Freddie Gibbs, The Alchemist
   track: Mar-a-Lago
   url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
-updated_at: 2026-04-22 11:58 UTC
+updated_at: 2026-04-22 13:58 UTC
