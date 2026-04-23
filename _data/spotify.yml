@@ -1,10 +1,10 @@
 now_playing:
-  album: Harvest (2009 Remaster)
-  album_art: https://i.scdn.co/image/ab67616d00001e0240007250b3b5624f2c63d050
+  album: Harvest Moon
+  album_art: https://i.scdn.co/image/ab67616d00001e0249b5b0e43ad82f8b6d0379e4
   artist: Neil Young
   is_playing: false
-  track: Old Man - 2009 Remaster
-  url: https://open.spotify.com/track/16XeptMdlJTWWeIrwEAOvv
+  track: Harvest Moon
+  url: https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk
 top_tracks:
 - artist: Freddie Gibbs, The Alchemist
   track: God Is Perfect
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Freddie Gibbs, The Alchemist
   track: Mar-a-Lago
   url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
-updated_at: 2026-04-23 00:08 UTC
+updated_at: 2026-04-23 03:53 UTC
