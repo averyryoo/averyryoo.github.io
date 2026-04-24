@@ -1,10 +1,10 @@
 now_playing:
-  album: Harvest Moon
-  album_art: https://i.scdn.co/image/ab67616d00001e0249b5b0e43ad82f8b6d0379e4
-  artist: Neil Young
+  album: Gang Signs & Prayer
+  album_art: https://i.scdn.co/image/ab67616d00001e025d5e3052c47ff5a3e261195c
+  artist: Stormzy
   is_playing: false
-  track: Harvest Moon
-  url: https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk
+  track: 100 Bags
+  url: https://open.spotify.com/track/3XkWWCZ8THAe3MD4PVafjw
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: PARTYOF2, Jadagrace, SWIM, TJOnline
   track: track 1
   url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
-updated_at: 2026-04-24 13:20 UTC
+updated_at: 2026-04-24 14:52 UTC
