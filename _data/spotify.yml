@@ -1,10 +1,10 @@
 now_playing:
-  album: Either/Or
-  album_art: https://i.scdn.co/image/ab67616d00001e022f3552dc6f9e4e2748c5b8ba
-  artist: Elliott Smith
-  is_playing: false
-  track: Say Yes
-  url: https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK
+  album: Kid A
+  album_art: https://i.scdn.co/image/ab67616d00001e026c7112082b63beefffe40151
+  artist: Radiohead
+  is_playing: true
+  track: Everything In Its Right Place
+  url: https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: PARTYOF2, Jadagrace, SWIM, TJOnline
   track: track 1
   url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
-updated_at: 2026-04-26 15:39 UTC
+updated_at: 2026-04-26 16:40 UTC
