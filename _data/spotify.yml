@@ -2,9 +2,9 @@ now_playing:
   album: Kid A
   album_art: https://i.scdn.co/image/ab67616d00001e026c7112082b63beefffe40151
   artist: Radiohead
-  is_playing: true
-  track: Everything In Its Right Place
-  url: https://open.spotify.com/track/2kRFrWaLWiKq48YYVdGcm8
+  is_playing: false
+  track: Kid A
+  url: https://open.spotify.com/track/3QDahKSqLwYJYQRbILdzS6
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: PARTYOF2, Jadagrace, SWIM, TJOnline
   track: track 1
   url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
-updated_at: 2026-04-26 16:40 UTC
+updated_at: 2026-04-26 17:36 UTC
