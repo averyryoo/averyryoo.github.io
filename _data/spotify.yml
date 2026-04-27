@@ -1,10 +1,10 @@
 now_playing:
-  album: Kid A
-  album_art: https://i.scdn.co/image/ab67616d00001e026c7112082b63beefffe40151
-  artist: Radiohead
+  album: Stick Season
+  album_art: https://i.scdn.co/image/ab67616d00001e026ee35072df1af802cca09918
+  artist: Noah Kahan
   is_playing: false
-  track: Idioteque
-  url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
+  track: Come Over
+  url: https://open.spotify.com/track/2NmaDAnnP9zspaHLc5aSjb
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: PARTYOF2, Jadagrace, SWIM, TJOnline
   track: track 1
   url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
-updated_at: 2026-04-27 12:09 UTC
+updated_at: 2026-04-27 14:33 UTC
