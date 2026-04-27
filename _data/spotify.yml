@@ -1,10 +1,10 @@
 now_playing:
-  album: Stick Season
-  album_art: https://i.scdn.co/image/ab67616d00001e026ee35072df1af802cca09918
-  artist: Noah Kahan
+  album: Homework (25th Anniversary Edition)
+  album_art: https://i.scdn.co/image/ab67616d00001e0287aa91b6ba6b4fded7bf3293
+  artist: Daft Punk
   is_playing: false
-  track: Come Over
-  url: https://open.spotify.com/track/2NmaDAnnP9zspaHLc5aSjb
+  track: Revolution 909
+  url: https://open.spotify.com/track/1GLVS763ScItK1BRzbpYcs
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: PARTYOF2, Jadagrace, SWIM, TJOnline
   track: track 1
   url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
-updated_at: 2026-04-27 14:33 UTC
+updated_at: 2026-04-27 16:24 UTC
