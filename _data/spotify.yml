@@ -1,10 +1,10 @@
 now_playing:
-  album: So Much Fun
-  album_art: https://i.scdn.co/image/ab67616d00001e028da62aa4aa86bb58f67196e9
-  artist: Young Thug, J. Cole, Travis Scott
+  album: Kehlani
+  album_art: https://i.scdn.co/image/ab67616d00001e02d4ffe3d4cddee37b9fd6ffcd
+  artist: Kehlani, Lil Wayne
   is_playing: false
-  track: The London (feat. J. Cole & Travis Scott)
-  url: https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n
+  track: Anotha Luva (feat. Lil Wayne)
+  url: https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-04-28 17:44 UTC
+updated_at: 2026-04-28 19:38 UTC
