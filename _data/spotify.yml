@@ -1,17 +1,14 @@
 now_playing:
-  album: Homework (25th Anniversary Edition)
-  album_art: https://i.scdn.co/image/ab67616d00001e0287aa91b6ba6b4fded7bf3293
-  artist: Daft Punk
+  album: So Much Fun
+  album_art: https://i.scdn.co/image/ab67616d00001e028da62aa4aa86bb58f67196e9
+  artist: Young Thug, J. Cole, Travis Scott
   is_playing: false
-  track: Revolution 909
-  url: https://open.spotify.com/track/1GLVS763ScItK1BRzbpYcs
+  track: The London (feat. J. Cole & Travis Scott)
+  url: https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
   url: https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau
-- artist: Freddie Gibbs, The Alchemist
-  track: God Is Perfect
-  url: https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl
 - artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
   track: 327 (feat. Tyler, The Creator & Billie Essco)
   url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
@@ -21,7 +18,10 @@ top_tracks:
 - artist: Freddie Gibbs, The Alchemist
   track: Mar-a-Lago
   url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
-- artist: PARTYOF2, Jadagrace, SWIM, TJOnline
-  track: track 1
-  url: https://open.spotify.com/track/2KWh7eH1TMRWR0bajsTrVB
-updated_at: 2026-04-28 13:10 UTC
+- artist: Elliott Smith
+  track: Between The Bars
+  url: https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE
+- artist: Blueface
+  track: Thotiana
+  url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
+updated_at: 2026-04-28 15:42 UTC
