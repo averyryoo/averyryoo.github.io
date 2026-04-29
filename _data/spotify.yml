@@ -1,10 +1,10 @@
 now_playing:
-  album: Kehlani
-  album_art: https://i.scdn.co/image/ab67616d00001e02d4ffe3d4cddee37b9fd6ffcd
-  artist: Kehlani, Lil Wayne
+  album: Homework (25th Anniversary Edition)
+  album_art: https://i.scdn.co/image/ab67616d00001e0287aa91b6ba6b4fded7bf3293
+  artist: Daft Punk
   is_playing: false
-  track: Anotha Luva (feat. Lil Wayne)
-  url: https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN
+  track: Around the World
+  url: https://open.spotify.com/track/1q4poN5PaGvY1RbEC5gl5s
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-04-29 14:23 UTC
+updated_at: 2026-04-29 16:12 UTC
