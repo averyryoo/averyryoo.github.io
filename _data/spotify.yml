@@ -1,10 +1,10 @@
 now_playing:
-  album: Not Waving, But Drowning
-  album_art: https://i.scdn.co/image/ab67616d00001e02b8fc4ee31953f1133106d64a
-  artist: Loyle Carner, Jordan Rakei
+  album: Let It Go
+  album_art: https://i.scdn.co/image/ab67616d00001e02f04680d7119c4fea3e23cc95
+  artist: Erick the Architect, Loyle Carner, FARR
   is_playing: false
-  track: Ottolenghi
-  url: https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW
+  track: Let It Go
+  url: https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-04-30 13:05 UTC
+updated_at: 2026-04-30 15:26 UTC
