@@ -1,17 +1,14 @@
 now_playing:
-  album: Drops Of Jupiter
-  album_art: https://i.scdn.co/image/ab67616d00001e021a0278d4109c0f974821aa33
-  artist: Train
-  is_playing: true
-  track: Drops of Jupiter (Tell Me)
-  url: https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA
+  album: In A Perfect World (Expanded Edition)
+  album_art: https://i.scdn.co/image/ab67616d00001e023e42854096da9a3b1ca901c9
+  artist: Kodaline
+  is_playing: false
+  track: All I Want
+  url: https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
   url: https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau
-- artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
-  track: 327 (feat. Tyler, The Creator & Billie Essco)
-  url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
 - artist: Elliott Smith
   track: Say Yes
   url: https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx
@@ -21,7 +18,10 @@ top_tracks:
 - artist: Elliott Smith
   track: Between The Bars
   url: https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE
+- artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
+  track: 327 (feat. Tyler, The Creator & Billie Essco)
+  url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-05-04 02:40 UTC
+updated_at: 2026-05-04 06:10 UTC
