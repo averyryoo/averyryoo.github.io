@@ -1,10 +1,10 @@
 now_playing:
-  album: Let It Go
-  album_art: https://i.scdn.co/image/ab67616d00001e02f04680d7119c4fea3e23cc95
-  artist: Erick the Architect, Loyle Carner, FARR
-  is_playing: false
-  track: Let It Go
-  url: https://open.spotify.com/track/7c9T1m1RrtAWopKQVvFC3D
+  album: Drops Of Jupiter
+  album_art: https://i.scdn.co/image/ab67616d00001e021a0278d4109c0f974821aa33
+  artist: Train
+  is_playing: true
+  track: Drops of Jupiter (Tell Me)
+  url: https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-05-03 23:42 UTC
+updated_at: 2026-05-04 02:40 UTC
