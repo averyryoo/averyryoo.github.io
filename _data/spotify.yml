@@ -1,10 +1,10 @@
 now_playing:
-  album: Strange Desire
-  album_art: https://i.scdn.co/image/ab67616d00001e024849278ce9876ebea7353d66
-  artist: Bleachers
-  is_playing: true
-  track: I Wanna Get Better
-  url: https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb
+  album: Money
+  album_art: https://i.scdn.co/image/ab67616d00001e020c4baba96825b9d9bbc7ea6c
+  artist: Arkells, Portugal. The Man
+  is_playing: false
+  track: Money
+  url: https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-05-04 13:06 UTC
+updated_at: 2026-05-04 15:28 UTC
