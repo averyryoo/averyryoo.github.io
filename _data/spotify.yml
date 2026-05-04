@@ -1,10 +1,10 @@
 now_playing:
-  album: In A Perfect World (Expanded Edition)
-  album_art: https://i.scdn.co/image/ab67616d00001e023e42854096da9a3b1ca901c9
-  artist: Kodaline
-  is_playing: false
-  track: All I Want
-  url: https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs
+  album: Strange Desire
+  album_art: https://i.scdn.co/image/ab67616d00001e024849278ce9876ebea7353d66
+  artist: Bleachers
+  is_playing: true
+  track: I Wanna Get Better
+  url: https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-05-04 11:20 UTC
+updated_at: 2026-05-04 13:06 UTC
