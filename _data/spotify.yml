@@ -1,10 +1,10 @@
 now_playing:
-  album: Not Waving, But Drowning
-  album_art: https://i.scdn.co/image/ab67616d00001e02b8fc4ee31953f1133106d64a
-  artist: Loyle Carner, Jordan Rakei
+  album: Revolver (Remastered)
+  album_art: https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a
+  artist: The Beatles
   is_playing: false
-  track: Ottolenghi
-  url: https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW
+  track: Here, There And Everywhere - Remastered 2009
+  url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Radiohead
   track: Idioteque
   url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
-updated_at: 2026-05-05 11:59 UTC
+updated_at: 2026-05-05 16:09 UTC
