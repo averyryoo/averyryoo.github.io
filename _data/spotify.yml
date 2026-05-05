@@ -1,10 +1,10 @@
 now_playing:
-  album: Money
-  album_art: https://i.scdn.co/image/ab67616d00001e020c4baba96825b9d9bbc7ea6c
-  artist: Arkells, Portugal. The Man
+  album: Not Waving, But Drowning
+  album_art: https://i.scdn.co/image/ab67616d00001e02b8fc4ee31953f1133106d64a
+  artist: Loyle Carner, Jordan Rakei
   is_playing: false
-  track: Money
-  url: https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw
+  track: Ottolenghi
+  url: https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -12,16 +12,16 @@ top_tracks:
 - artist: Elliott Smith
   track: Say Yes
   url: https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx
-- artist: Freddie Gibbs, The Alchemist
-  track: Mar-a-Lago
-  url: https://open.spotify.com/track/1b9cpyNQnzlmMDd7vs3NT9
 - artist: Elliott Smith
   track: Between The Bars
   url: https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE
-- artist: Westside Gunn, Joey Bada$$, Tyler, The Creator, Billie Essco
-  track: 327 (feat. Tyler, The Creator & Billie Essco)
-  url: https://open.spotify.com/track/5sxRbu2Oi9lgmLO8taA3Rf
+- artist: Loyle Carner, Jordan Rakei
+  track: Ottolenghi
+  url: https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-05-05 00:01 UTC
+- artist: Radiohead
+  track: Idioteque
+  url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
+updated_at: 2026-05-05 03:55 UTC
