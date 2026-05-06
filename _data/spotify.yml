@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a
   artist: The Beatles
   is_playing: false
-  track: Here, There And Everywhere - Remastered 2009
-  url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
+  track: For No One - Remastered 2009
+  url: https://open.spotify.com/track/1kDkaFlmkdEZiVUogaP9OZ
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Radiohead
   track: Idioteque
   url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
-updated_at: 2026-05-06 14:04 UTC
+updated_at: 2026-05-06 16:13 UTC
