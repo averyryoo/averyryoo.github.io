@@ -1,14 +1,17 @@
 now_playing:
-  album: Revolver (Remastered)
-  album_art: https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a
-  artist: The Beatles
-  is_playing: false
-  track: For No One - Remastered 2009
-  url: https://open.spotify.com/track/1kDkaFlmkdEZiVUogaP9OZ
+  album: Harvest (50th Anniversary Edition)
+  album_art: https://i.scdn.co/image/ab67616d00001e02dd19d44cf651a37e3532a945
+  artist: Neil Young
+  is_playing: true
+  track: Old Man
+  url: https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8
 top_tracks:
 - artist: Frank Ocean
   track: Thinkin Bout You
   url: https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau
+- artist: The Beatles
+  track: Here, There And Everywhere - Remastered 2009
+  url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
 - artist: Elliott Smith
   track: Say Yes
   url: https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx
@@ -21,7 +24,4 @@ top_tracks:
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-- artist: Radiohead
-  track: Idioteque
-  url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
-updated_at: 2026-05-06 16:13 UTC
+updated_at: 2026-05-06 17:58 UTC
