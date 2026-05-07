@@ -1,10 +1,10 @@
 now_playing:
-  album: Fleetwood Mac
-  album_art: https://i.scdn.co/image/ab67616d00001e024fb043195e8d07e72edc7226
-  artist: Fleetwood Mac
+  album: Magical Mystery Tour (Remastered)
+  album_art: https://i.scdn.co/image/ab67616d00001e02692d9189b2bd75525893f0c1
+  artist: The Beatles
   is_playing: false
-  track: Rhiannon
-  url: https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR
+  track: Penny Lane - Remastered 2009
+  url: https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-05-07 11:56 UTC
+updated_at: 2026-05-07 14:11 UTC
