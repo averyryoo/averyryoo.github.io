@@ -1,10 +1,10 @@
 now_playing:
-  album: Either/Or
-  album_art: https://i.scdn.co/image/ab67616d00001e022f3552dc6f9e4e2748c5b8ba
-  artist: Elliott Smith
+  album: Fleetwood Mac
+  album_art: https://i.scdn.co/image/ab67616d00001e024fb043195e8d07e72edc7226
+  artist: Fleetwood Mac
   is_playing: false
-  track: Between the Bars
-  url: https://open.spotify.com/track/1JbUMtVkQuaAPdHOvncVTm
+  track: Rhiannon
+  url: https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-05-06 23:12 UTC
+updated_at: 2026-05-07 00:10 UTC
