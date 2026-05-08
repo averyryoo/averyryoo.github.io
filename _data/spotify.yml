@@ -9,9 +9,6 @@ top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
   url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
-- artist: Frank Ocean
-  track: Thinkin Bout You
-  url: https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau
 - artist: Elliott Smith
   track: Say Yes
   url: https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx
@@ -24,4 +21,7 @@ top_tracks:
 - artist: Blueface
   track: Thotiana
   url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
-updated_at: 2026-05-08 13:28 UTC
+- artist: Radiohead
+  track: Idioteque
+  url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
+updated_at: 2026-05-08 15:08 UTC
