@@ -1,10 +1,10 @@
 now_playing:
-  album: Minutes to Midnight
-  album_art: https://i.scdn.co/image/ab67616d00001e028145b51d1cdca483aff64358
-  artist: Linkin Park
-  is_playing: false
-  track: Shadow of the Day
-  url: https://open.spotify.com/track/4Sxx1wd4nnB8ob8Zsujwrs
+  album: Revolver (Remastered)
+  album_art: https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a
+  artist: The Beatles
+  is_playing: true
+  track: Here, There And Everywhere - Remastered 2009
+  url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Eleanor Rigby - Remastered 2009
   url: https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q
-updated_at: 2026-05-11 19:16 UTC
+updated_at: 2026-05-11 20:59 UTC
