@@ -1,10 +1,10 @@
 now_playing:
-  album: Doll Domination - The Mini Collection
-  album_art: https://i.scdn.co/image/ab67616d00001e02fe1cfe141d0c2fdb31314f65
-  artist: A.R. Rahman, The Pussycat Dolls, Nicole Scherzinger
+  album: Minutes to Midnight
+  album_art: https://i.scdn.co/image/ab67616d00001e028145b51d1cdca483aff64358
+  artist: Linkin Park
   is_playing: false
-  track: Jai Ho! (You Are My Destiny)
-  url: https://open.spotify.com/track/4HYtv84jEdG0ZLIEMwQdgJ
+  track: Shadow of the Day
+  url: https://open.spotify.com/track/4Sxx1wd4nnB8ob8Zsujwrs
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Eleanor Rigby - Remastered 2009
   url: https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q
-updated_at: 2026-05-11 14:45 UTC
+updated_at: 2026-05-11 17:22 UTC
