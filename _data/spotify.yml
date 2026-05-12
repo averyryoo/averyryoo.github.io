@@ -1,10 +1,10 @@
 now_playing:
-  album: Rubber Soul (Remastered 2009)
-  album_art: https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4
-  artist: The Beatles
+  album: Me 4 U
+  album_art: https://i.scdn.co/image/ab67616d00001e0285ca00029c70d6b5b8372e96
+  artist: OMI, Felix Jaehn
   is_playing: false
-  track: Norwegian Wood (This Bird Has Flown) - Remastered 2009
-  url: https://open.spotify.com/track/1H7gMYGykdtwZOV6s1N0by
+  track: Cheerleader (Felix Jaehn Remix) - Radio Edit
+  url: https://open.spotify.com/track/7vFoFDWqTX0mHzLfrF1Cfy
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Eleanor Rigby - Remastered 2009
   url: https://open.spotify.com/track/5GjPQ0eI7AgmOnADn1EO6Q
-updated_at: 2026-05-12 01:17 UTC
+updated_at: 2026-05-12 04:59 UTC
