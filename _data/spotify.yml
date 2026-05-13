@@ -1,10 +1,10 @@
 now_playing:
-  album: Harvest (50th Anniversary Edition)
-  album_art: https://i.scdn.co/image/ab67616d00001e02dd19d44cf651a37e3532a945
-  artist: Neil Young
+  album: HIT ME HARD AND SOFT
+  album_art: https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62
+  artist: Billie Eilish
   is_playing: false
-  track: Old Man
-  url: https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8
+  track: BIRDS OF A FEATHER
+  url: https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Radiohead
   track: Idioteque
   url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
-updated_at: 2026-05-13 17:33 UTC
+updated_at: 2026-05-13 19:51 UTC
