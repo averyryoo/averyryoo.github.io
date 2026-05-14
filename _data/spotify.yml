@@ -1,10 +1,10 @@
 now_playing:
-  album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
-  album_art: https://i.scdn.co/image/ab67616d00001e0250a3147b4edd7701a876c6ce
+  album: my future
+  album_art: https://i.scdn.co/image/ab67616d00001e02954fe13f7c5f4b2f18d066b8
   artist: Billie Eilish
   is_playing: false
-  track: when the party's over
-  url: https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I
+  track: my future
+  url: https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Radiohead
   track: Idioteque
   url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
-updated_at: 2026-05-14 11:50 UTC
+updated_at: 2026-05-14 14:05 UTC
