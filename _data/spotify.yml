@@ -1,10 +1,10 @@
 now_playing:
-  album: Bridge Over Troubled Water
-  album_art: https://i.scdn.co/image/ab67616d00001e028453b853c2cc9c077828eefb
-  artist: Simon & Garfunkel
-  is_playing: true
-  track: The Boxer
-  url: https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0
+  album: Let It Be (Remastered)
+  album_art: https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1
+  artist: The Beatles
+  is_playing: false
+  track: Let It Be - Remastered 2009
+  url: https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Radiohead
   track: Idioteque
   url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
-updated_at: 2026-05-14 22:54 UTC
+updated_at: 2026-05-14 23:55 UTC
