@@ -1,10 +1,10 @@
 now_playing:
-  album: my future
-  album_art: https://i.scdn.co/image/ab67616d00001e02954fe13f7c5f4b2f18d066b8
-  artist: Billie Eilish
-  is_playing: false
-  track: my future
-  url: https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C
+  album: Bridge Over Troubled Water
+  album_art: https://i.scdn.co/image/ab67616d00001e028453b853c2cc9c077828eefb
+  artist: Simon & Garfunkel
+  is_playing: true
+  track: The Boxer
+  url: https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Radiohead
   track: Idioteque
   url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
-updated_at: 2026-05-14 21:42 UTC
+updated_at: 2026-05-14 22:54 UTC
