@@ -18,10 +18,10 @@ top_tracks:
 - artist: Neil Young
   track: Old Man
   url: https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8
-- artist: Blueface
-  track: Thotiana
-  url: https://open.spotify.com/track/1rBjexQsgqXpsS2BrCxaDX
 - artist: Radiohead
   track: Idioteque
   url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
-updated_at: 2026-05-15 16:18 UTC
+- artist: The Beatles
+  track: Penny Lane - Remastered 2009
+  url: https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA
+updated_at: 2026-05-15 18:01 UTC
