@@ -1,10 +1,10 @@
 now_playing:
-  album: Bon Iver, Bon Iver
-  album_art: https://i.scdn.co/image/ab67616d00001e024b6b1547455bbecb9f6bba64
-  artist: Bon Iver
+  album: Hotel California (2013 Remaster)
+  album_art: https://i.scdn.co/image/ab67616d00001e024637341b9f507521afa9a778
+  artist: Eagles
   is_playing: false
-  track: Holocene
-  url: https://open.spotify.com/track/35KiiILklye1JRRctaLUb4
+  track: Wasted Time - 2013 Remaster
+  url: https://open.spotify.com/track/0Q5YtY85lz5n7rQkeMNpoe
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -12,16 +12,16 @@ top_tracks:
 - artist: Elliott Smith
   track: Say Yes
   url: https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx
-- artist: Loyle Carner, Jordan Rakei
-  track: Ottolenghi
-  url: https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW
 - artist: Neil Young
   track: Old Man
   url: https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8
+- artist: Loyle Carner, Jordan Rakei
+  track: Ottolenghi
+  url: https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW
 - artist: Radiohead
   track: Idioteque
   url: https://open.spotify.com/track/1W5XugQJGhnSATMI5n002M
 - artist: The Beatles
   track: Penny Lane - Remastered 2009
   url: https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA
-updated_at: 2026-05-15 22:29 UTC
+updated_at: 2026-05-15 23:30 UTC
