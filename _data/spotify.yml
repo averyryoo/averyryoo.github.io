@@ -1,10 +1,10 @@
 now_playing:
-  album: It Was Written
-  album_art: https://i.scdn.co/image/ab67616d00001e02886d823ecbfcbe661a6b0ab9
-  artist: Nas, Ms. Lauryn Hill
+  album: ICEMAN
+  album_art: https://i.scdn.co/image/ab67616d00001e028e76f09489ebfa31ac920f08
+  artist: Drake
   is_playing: false
-  track: If I Ruled the World (Imagine That) (feat. Lauryn Hill)
-  url: https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2
+  track: Make Them Cry
+  url: https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Penny Lane - Remastered 2009
   url: https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA
-updated_at: 2026-05-16 20:10 UTC
+updated_at: 2026-05-16 21:10 UTC
