@@ -1,10 +1,10 @@
 now_playing:
-  album: Blood Sugar Sex Magik (Deluxe Edition)
-  album_art: https://i.scdn.co/image/ab67616d00001e02153d79816d853f2694b2cc70
-  artist: Red Hot Chili Peppers
+  album: It Was Written
+  album_art: https://i.scdn.co/image/ab67616d00001e02886d823ecbfcbe661a6b0ab9
+  artist: Nas, Ms. Lauryn Hill
   is_playing: false
-  track: I Could Have Lied
-  url: https://open.spotify.com/track/0NSbiBKXoODbsPwjSivfBr
+  track: If I Ruled the World (Imagine That) (feat. Lauryn Hill)
+  url: https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Penny Lane - Remastered 2009
   url: https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA
-updated_at: 2026-05-16 19:18 UTC
+updated_at: 2026-05-16 20:10 UTC
