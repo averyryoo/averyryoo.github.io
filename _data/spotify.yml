@@ -1,10 +1,10 @@
 now_playing:
-  album: In My Room
-  album_art: https://i.scdn.co/image/ab67616d00001e02db974f9533dd9b362891b5db
-  artist: Frank Ocean
+  album: Speak Now (Taylor's Version)
+  album_art: https://i.scdn.co/image/ab67616d00001e020b04da4f224b51ff86e0a481
+  artist: Taylor Swift
   is_playing: false
-  track: In My Room
-  url: https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL
+  track: Haunted (Taylor's Version)
+  url: https://open.spotify.com/track/4tMzIAFTFdqGBQLdfbPces
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Anderson .Paak, Nate Dogg
   track: What Can We Do? (feat. Nate Dogg)
   url: https://open.spotify.com/track/0kOxmoYqRXjAnc5ZfQ6TIs
-updated_at: 2026-05-18 09:58 UTC
+updated_at: 2026-05-18 13:51 UTC
