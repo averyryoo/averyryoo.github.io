@@ -2,9 +2,9 @@ now_playing:
   album: Speak Now (Taylor's Version)
   album_art: https://i.scdn.co/image/ab67616d00001e020b04da4f224b51ff86e0a481
   artist: Taylor Swift
-  is_playing: true
-  track: Dear John (Taylor's Version)
-  url: https://open.spotify.com/track/1zU8j1x3yi9xalMF96pzKp
+  is_playing: false
+  track: Mean (Taylor's Version)
+  url: https://open.spotify.com/track/30Y4CV7A6YqtQtTTo7Ue4j
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Anderson .Paak, Nate Dogg
   track: What Can We Do? (feat. Nate Dogg)
   url: https://open.spotify.com/track/0kOxmoYqRXjAnc5ZfQ6TIs
-updated_at: 2026-05-19 14:56 UTC
+updated_at: 2026-05-19 17:38 UTC
