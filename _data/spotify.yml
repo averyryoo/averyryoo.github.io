@@ -1,10 +1,10 @@
 now_playing:
-  album: Rubber Soul (Remastered 2009)
-  album_art: https://i.scdn.co/image/ab67616d00001e02ed801e58a9ababdea6ac7ce4
-  artist: The Beatles
+  album: Funk Wav Bounces Vol.1
+  album_art: https://i.scdn.co/image/ab67616d00001e024d3fa5ce7ba599f4fd7803ef
+  artist: Calvin Harris, Frank Ocean, Migos, Funk Wav
   is_playing: false
-  track: In My Life - Remastered 2009
-  url: https://open.spotify.com/track/3KfbEIOC7YIv90FIfNSZpo
+  track: Slide (feat. Frank Ocean & Migos)
+  url: https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Last Kiss (Taylor's Version)
   url: https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
-updated_at: 2026-05-23 00:07 UTC
+updated_at: 2026-05-23 04:23 UTC
