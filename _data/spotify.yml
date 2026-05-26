@@ -1,10 +1,10 @@
 now_playing:
-  album: Funk Wav Bounces Vol.1
-  album_art: https://i.scdn.co/image/ab67616d00001e024d3fa5ce7ba599f4fd7803ef
-  artist: Calvin Harris, Frank Ocean, Migos, Funk Wav
+  album: LIVE.LOVE.A$AP
+  album_art: https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd
+  artist: A$AP Rocky
   is_playing: false
-  track: Slide (feat. Frank Ocean & Migos)
-  url: https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl
+  track: Peso
+  url: https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Band
   track: The Weight - Remastered 2000
   url: https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC
-updated_at: 2026-05-26 13:52 UTC
+updated_at: 2026-05-26 19:32 UTC
