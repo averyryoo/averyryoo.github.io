@@ -1,10 +1,10 @@
 now_playing:
-  album: LIVE.LOVE.A$AP
-  album_art: https://i.scdn.co/image/ab67616d00001e02c8ced8a4d6b6b61eb592f3dd
-  artist: A$AP Rocky
+  album: Certified Lover Boy
+  album_art: https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f
+  artist: Drake, Travis Scott
   is_playing: false
-  track: Peso
-  url: https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3
+  track: Fair Trade (with Travis Scott)
+  url: https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Band
   track: The Weight - Remastered 2000
   url: https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC
-updated_at: 2026-05-26 23:07 UTC
+updated_at: 2026-05-27 01:33 UTC
