@@ -1,10 +1,10 @@
 now_playing:
-  album: Certified Lover Boy
-  album_art: https://i.scdn.co/image/ab67616d00001e02cd945b4e3de57edd28481a3f
-  artist: Drake, Travis Scott
+  album: Funk Wav Bounces Vol.1
+  album_art: https://i.scdn.co/image/ab67616d00001e024d3fa5ce7ba599f4fd7803ef
+  artist: Calvin Harris, Kehlani, Lil Yachty, Funk Wav
   is_playing: false
-  track: Fair Trade (with Travis Scott)
-  url: https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS
+  track: Faking It (feat. Kehlani & Lil Yachty)
+  url: https://open.spotify.com/track/0pJPdSVti6cTM1Q6xYGmcf
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Band
   track: The Weight - Remastered 2000
   url: https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC
-updated_at: 2026-05-27 17:40 UTC
+updated_at: 2026-05-27 20:12 UTC
