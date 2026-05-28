@@ -9,9 +9,6 @@ top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
   url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
-- artist: Loyle Carner, Jordan Rakei
-  track: Ottolenghi
-  url: https://open.spotify.com/track/64I9byMYBlS1ARsC3vtpgW
 - artist: Dave, Tiakola
   track: Meridian
   url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
@@ -24,4 +21,7 @@ top_tracks:
 - artist: The Band
   track: The Weight - Remastered 2000
   url: https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC
-updated_at: 2026-05-28 14:36 UTC
+- artist: The Beatles
+  track: Penny Lane - Remastered 2009
+  url: https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA
+updated_at: 2026-05-28 18:09 UTC
