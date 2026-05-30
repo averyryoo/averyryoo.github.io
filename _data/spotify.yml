@@ -1,10 +1,10 @@
 now_playing:
-  album: the cure
-  album_art: https://i.scdn.co/image/ab67616d00001e0279e480cbab8c7b86d277841a
-  artist: Olivia Rodrigo
+  album: Manning Fireworks
+  album_art: https://i.scdn.co/image/ab67616d00001e02b18fae872e1700b83e72a15b
+  artist: MJ Lenderman
   is_playing: false
-  track: the cure
-  url: https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96
+  track: She's Leaving You
+  url: https://open.spotify.com/track/4hJ5jWbqstdYt555NhdtNk
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -18,10 +18,10 @@ top_tracks:
 - artist: Taylor Swift
   track: Last Kiss (Taylor's Version)
   url: https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
+- artist: Olivia Rodrigo
+  track: drop dead
+  url: https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U
 - artist: The Band
   track: The Weight - Remastered 2000
   url: https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC
-- artist: The Beatles
-  track: Penny Lane - Remastered 2009
-  url: https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA
-updated_at: 2026-05-30 04:32 UTC
+updated_at: 2026-05-30 07:39 UTC
