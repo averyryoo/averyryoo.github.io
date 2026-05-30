@@ -1,10 +1,10 @@
 now_playing:
-  album: Funk Wav Bounces Vol.1
-  album_art: https://i.scdn.co/image/ab67616d00001e024d3fa5ce7ba599f4fd7803ef
-  artist: Calvin Harris, Kehlani, Lil Yachty, Funk Wav
+  album: the cure
+  album_art: https://i.scdn.co/image/ab67616d00001e0279e480cbab8c7b86d277841a
+  artist: Olivia Rodrigo
   is_playing: false
-  track: Faking It (feat. Kehlani & Lil Yachty)
-  url: https://open.spotify.com/track/0pJPdSVti6cTM1Q6xYGmcf
+  track: the cure
+  url: https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Penny Lane - Remastered 2009
   url: https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA
-updated_at: 2026-05-30 00:07 UTC
+updated_at: 2026-05-30 04:32 UTC
