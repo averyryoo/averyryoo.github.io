@@ -1,10 +1,10 @@
 now_playing:
-  album: Honestly, Nevermind
-  album_art: https://i.scdn.co/image/ab67616d00001e028dc0d801766a5aa6a33cbe37
-  artist: Drake, 21 Savage
-  is_playing: false
-  track: Jimmy Cooks (feat. 21 Savage)
-  url: https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe
+  album: The Lamb Lies Down on Broadway (2007 Stereo Mix)
+  album_art: https://i.scdn.co/image/ab67616d00001e0202cb21292aeb764d270b85c0
+  artist: Genesis
+  is_playing: true
+  track: Fly on a Windshield - 2007 Stereo Mix
+  url: https://open.spotify.com/track/4Wl6lSRFLEdJTaAtzgrNsp
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Band
   track: The Weight - Remastered 2000
   url: https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC
-updated_at: 2026-05-31 17:04 UTC
+updated_at: 2026-05-31 18:42 UTC
