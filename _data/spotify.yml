@@ -1,10 +1,10 @@
 now_playing:
-  album: More Life
-  album_art: https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700
+  album: Care Package
+  album_art: https://i.scdn.co/image/ab67616d00001e029c1e02d4becb7c5bbca01e2a
   artist: Drake
   is_playing: false
-  track: Lose You
-  url: https://open.spotify.com/track/2Na0z2gfN67Rzf0vp74Wi3
+  track: Trust Issues
+  url: https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -15,13 +15,13 @@ top_tracks:
 - artist: Anderson .Paak, Nate Dogg
   track: What Can We Do? (feat. Nate Dogg)
   url: https://open.spotify.com/track/0kOxmoYqRXjAnc5ZfQ6TIs
+- artist: Drake
+  track: Trust Issues
+  url: https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq
 - artist: Taylor Swift
   track: Last Kiss (Taylor's Version)
   url: https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
 - artist: Olivia Rodrigo
   track: drop dead
   url: https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U
-- artist: The Band
-  track: The Weight - Remastered 2000
-  url: https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC
-updated_at: 2026-06-01 10:36 UTC
+updated_at: 2026-06-01 16:35 UTC
