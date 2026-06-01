@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e029c1e02d4becb7c5bbca01e2a
   artist: Drake
   is_playing: false
-  track: Trust Issues
-  url: https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq
+  track: Days in The East
+  url: https://open.spotify.com/track/4czcw3NVLY0of5hTD7OufN
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Olivia Rodrigo
   track: drop dead
   url: https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U
-updated_at: 2026-06-01 16:35 UTC
+updated_at: 2026-06-01 20:53 UTC
