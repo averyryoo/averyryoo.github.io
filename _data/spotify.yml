@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e02244aed7ce852aedf2097fed9
   artist: I.O.I
   is_playing: false
-  track: Suddenly
-  url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
+  track: SPF 100+ (Summer Pop Fantasy)
+  url: https://open.spotify.com/track/6ODLCVPd7O0qbmdjOqd0I7
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Olivia Rodrigo
   track: drop dead
   url: https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U
-updated_at: 2026-06-02 22:20 UTC
+updated_at: 2026-06-03 00:09 UTC
