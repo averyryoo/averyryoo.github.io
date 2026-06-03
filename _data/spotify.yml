@@ -1,10 +1,10 @@
 now_playing:
-  album: 'I.O.I 3rd MINI ALBUM [I.O.I : LOOP]'
-  album_art: https://i.scdn.co/image/ab67616d00001e02244aed7ce852aedf2097fed9
-  artist: I.O.I
+  album: Tigers Blood
+  album_art: https://i.scdn.co/image/ab67616d00001e020bc584e8e6aefded5b054117
+  artist: Waxahatchee, MJ Lenderman
   is_playing: false
-  track: SPF 100+ (Summer Pop Fantasy)
-  url: https://open.spotify.com/track/6ODLCVPd7O0qbmdjOqd0I7
+  track: Right Back to It
+  url: https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo
 top_tracks:
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Last Kiss (Taylor's Version)
   url: https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
-updated_at: 2026-06-03 15:12 UTC
+updated_at: 2026-06-03 19:04 UTC
