@@ -1,17 +1,17 @@
 now_playing:
-  album: Tigers Blood
-  album_art: https://i.scdn.co/image/ab67616d00001e020bc584e8e6aefded5b054117
-  artist: Waxahatchee, MJ Lenderman
+  album: Right Back!
+  album_art: https://i.scdn.co/image/ab67616d00001e029bd8263fc556aad5793afc0f
+  artist: KARLEE GIRL
   is_playing: false
-  track: Right Back to It
-  url: https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo
+  track: Right Back!
+  url: https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n
 top_tracks:
-- artist: The Beatles
-  track: Here, There And Everywhere - Remastered 2009
-  url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
 - artist: I.O.I
   track: Suddenly
   url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
+- artist: The Beatles
+  track: Here, There And Everywhere - Remastered 2009
+  url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
 - artist: Drake
   track: Trust Issues
   url: https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Last Kiss (Taylor's Version)
   url: https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
-updated_at: 2026-06-03 19:04 UTC
+updated_at: 2026-06-03 22:09 UTC
