@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e02244aed7ce852aedf2097fed9
   artist: I.O.I
   is_playing: false
-  track: Suddenly
-  url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
+  track: SPF 100+ (Summer Pop Fantasy)
+  url: https://open.spotify.com/track/6ODLCVPd7O0qbmdjOqd0I7
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Last Kiss (Taylor's Version)
   url: https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
-updated_at: 2026-06-04 20:31 UTC
+updated_at: 2026-06-04 22:19 UTC
