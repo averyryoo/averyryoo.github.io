@@ -1,10 +1,10 @@
 now_playing:
-  album: Speak Now (Deluxe Edition)
-  album_art: https://i.scdn.co/image/ab67616d00001e022e4ec3175d848eca7b76b07f
-  artist: Taylor Swift
+  album: Doe Or Die
+  album_art: https://i.scdn.co/image/ab67616d00001e02c04fefa8d26c027f5f52c84c
+  artist: AZ
   is_playing: false
-  track: Speak Now
-  url: https://open.spotify.com/track/1nYWTzy5zu3zEPNgB1sItW
+  track: I Feel For You
+  url: https://open.spotify.com/track/6Va17l1nUCtCD36uctlZUs
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Last Kiss (Taylor's Version)
   url: https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
-updated_at: 2026-06-05 19:16 UTC
+updated_at: 2026-06-05 21:06 UTC
