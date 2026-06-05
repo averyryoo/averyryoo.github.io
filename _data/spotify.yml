@@ -1,10 +1,10 @@
 now_playing:
-  album: 'I.O.I 3rd MINI ALBUM [I.O.I : LOOP]'
-  album_art: https://i.scdn.co/image/ab67616d00001e02244aed7ce852aedf2097fed9
-  artist: I.O.I
+  album: Speak Now (Deluxe Edition)
+  album_art: https://i.scdn.co/image/ab67616d00001e022e4ec3175d848eca7b76b07f
+  artist: Taylor Swift
   is_playing: false
-  track: SPF 100+ (Summer Pop Fantasy)
-  url: https://open.spotify.com/track/6ODLCVPd7O0qbmdjOqd0I7
+  track: Speak Now
+  url: https://open.spotify.com/track/1nYWTzy5zu3zEPNgB1sItW
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Taylor Swift
   track: Last Kiss (Taylor's Version)
   url: https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
-updated_at: 2026-06-05 17:13 UTC
+updated_at: 2026-06-05 19:16 UTC
