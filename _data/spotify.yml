@@ -1,27 +1,27 @@
 now_playing:
   album: Illmatic
   album_art: https://i.scdn.co/image/ab67616d00001e0271d840defb002ed3b180f7cd
-  artist: Nas, AZ, Olu Dara
+  artist: Nas
   is_playing: false
-  track: Life's a Bitch (feat. AZ & Olu Dara)
-  url: https://open.spotify.com/track/2LhhnqrHPWvXYveZVHLKrd
+  track: The World Is Yours
+  url: https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC
 top_tracks:
 - artist: I.O.I
   track: Suddenly
   url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
+- artist: AZ
+  track: Rather Unique
+  url: https://open.spotify.com/track/5vxII6AxXbPsAJE5dAdBo9
 - artist: The Beatles
   track: Here, There And Everywhere - Remastered 2009
   url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
 - artist: Drake
   track: Trust Issues
   url: https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq
+- artist: KARLEE GIRL
+  track: Right Back!
+  url: https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n
 - artist: Dave, Tiakola
   track: Meridian
   url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
-- artist: Anderson .Paak, Nate Dogg
-  track: What Can We Do? (feat. Nate Dogg)
-  url: https://open.spotify.com/track/0kOxmoYqRXjAnc5ZfQ6TIs
-- artist: Taylor Swift
-  track: Last Kiss (Taylor's Version)
-  url: https://open.spotify.com/track/59KOoHFcw5XfICnO57holu
-updated_at: 2026-06-05 22:40 UTC
+updated_at: 2026-06-06 00:04 UTC
