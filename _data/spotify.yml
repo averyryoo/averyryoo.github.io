@@ -1,10 +1,10 @@
 now_playing:
-  album: Issa Album
-  album_art: https://i.scdn.co/image/ab67616d00001e02e83b061a735d3851dc27f745
-  artist: 21 Savage
-  is_playing: true
-  track: FaceTime
-  url: https://open.spotify.com/track/55GLc4nywcX4aIlOcx1u06
+  album: Malibu
+  album_art: https://i.scdn.co/image/ab67616d00001e02f8e77075414234fd77fce32b
+  artist: Anderson .Paak, ScHoolboy Q
+  is_playing: false
+  track: Am I Wrong (feat. ScHoolboy Q)
+  url: https://open.spotify.com/track/1UjyF6okUHhnVxaLV8ojsA
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: KARLEE GIRL
   track: Right Back!
   url: https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n
-updated_at: 2026-06-07 15:50 UTC
+updated_at: 2026-06-07 17:14 UTC
