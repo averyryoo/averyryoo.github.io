@@ -1,10 +1,4 @@
-now_playing:
-  album: How Can You Mend A Broken Heart
-  album_art: https://i.scdn.co/image/ab67616d00001e02bdcea025a483b9642f17a9f8
-  artist: Bee Gees
-  is_playing: false
-  track: More Than A Woman - From "Saturday Night Fever" Soundtrack
-  url: https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE
+now_playing: null
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +18,4 @@ top_tracks:
 - artist: KARLEE GIRL
   track: Right Back!
   url: https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n
-updated_at: 2026-06-06 23:34 UTC
+updated_at: 2026-06-07 03:40 UTC
