@@ -1,10 +1,10 @@
 now_playing:
-  album: That's The Way Of The World
-  album_art: https://i.scdn.co/image/ab67616d00001e023e716266190c38e929f209cf
-  artist: Earth, Wind & Fire
+  album: If You're Reading This It's Too Late
+  album_art: https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733
+  artist: Drake
   is_playing: false
-  track: That's the Way of the World
-  url: https://open.spotify.com/track/4BNhasx75KbS10jHq3VZTz
+  track: 6 Man
+  url: https://open.spotify.com/track/4kdfjhj9xNkYU0R8xlDy8k
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: KARLEE GIRL
   track: Right Back!
   url: https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n
-updated_at: 2026-06-08 20:38 UTC
+updated_at: 2026-06-08 22:24 UTC
