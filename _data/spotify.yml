@@ -1,10 +1,10 @@
 now_playing:
-  album: More Life
-  album_art: https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700
-  artist: Drake, Quavo, Travis Scott
-  is_playing: true
-  track: Portland
-  url: https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h
+  album: The Bigger Artist
+  album_art: https://i.scdn.co/image/ab67616d00001e02cdba7ee22968991250725ce1
+  artist: A Boogie Wit da Hoodie, Kodak Black
+  is_playing: false
+  track: Drowning (feat. Kodak Black)
+  url: https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave, Tiakola
   track: Meridian
   url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
-updated_at: 2026-06-08 23:45 UTC
+updated_at: 2026-06-09 02:53 UTC
