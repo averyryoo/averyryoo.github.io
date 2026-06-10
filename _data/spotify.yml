@@ -1,10 +1,10 @@
 now_playing:
-  album: The Bigger Artist
-  album_art: https://i.scdn.co/image/ab67616d00001e02cdba7ee22968991250725ce1
-  artist: A Boogie Wit da Hoodie, Kodak Black
+  album: The Bends
+  album_art: https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12
+  artist: Radiohead
   is_playing: false
-  track: Drowning (feat. Kodak Black)
-  url: https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI
+  track: Fake Plastic Trees
+  url: https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave, Tiakola
   track: Meridian
   url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
-updated_at: 2026-06-10 21:06 UTC
+updated_at: 2026-06-10 23:06 UTC
