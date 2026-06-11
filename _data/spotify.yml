@@ -1,10 +1,10 @@
 now_playing:
-  album: Funeral
-  album_art: https://i.scdn.co/image/ab67616d00001e027870762a58313ad6f981d664
-  artist: Arcade Fire
+  album: Hollywood's Bleeding
+  album_art: https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02
+  artist: Post Malone
   is_playing: false
-  track: Rebellion (Lies)
-  url: https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT
+  track: Circles
+  url: https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave, Tiakola
   track: Meridian
   url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
-updated_at: 2026-06-11 11:24 UTC
+updated_at: 2026-06-11 15:02 UTC
