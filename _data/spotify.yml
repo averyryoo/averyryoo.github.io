@@ -1,10 +1,10 @@
 now_playing:
-  album: The Bends
-  album_art: https://i.scdn.co/image/ab67616d00001e029293c743fa542094336c5e12
-  artist: Radiohead
+  album: Funeral
+  album_art: https://i.scdn.co/image/ab67616d00001e027870762a58313ad6f981d664
+  artist: Arcade Fire
   is_playing: false
-  track: Fake Plastic Trees
-  url: https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F
+  track: Rebellion (Lies)
+  url: https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave, Tiakola
   track: Meridian
   url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
-updated_at: 2026-06-10 23:06 UTC
+updated_at: 2026-06-11 01:58 UTC
