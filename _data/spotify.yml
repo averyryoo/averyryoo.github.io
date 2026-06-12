@@ -1,10 +1,10 @@
 now_playing:
-  album: Potato Salad
-  album_art: https://i.scdn.co/image/ab67616d00001e02215cac8c30b47bb1bfb9d2d1
-  artist: Tyler, The Creator, A$AP Rocky
+  album: Faces
+  album_art: https://i.scdn.co/image/ab67616d00001e02470bc019add62f15243bc644
+  artist: Mac Miller
   is_playing: false
-  track: Potato Salad
-  url: https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF
+  track: Diablo
+  url: https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave, Tiakola
   track: Meridian
   url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
-updated_at: 2026-06-12 19:28 UTC
+updated_at: 2026-06-12 21:14 UTC
