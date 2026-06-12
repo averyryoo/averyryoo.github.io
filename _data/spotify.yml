@@ -1,10 +1,10 @@
 now_playing:
-  album: The Marshall Mathers LP
-  album_art: https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42
-  artist: Eminem, Dido
+  album: Potato Salad
+  album_art: https://i.scdn.co/image/ab67616d00001e02215cac8c30b47bb1bfb9d2d1
+  artist: Tyler, The Creator, A$AP Rocky
   is_playing: false
-  track: Stan
-  url: https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz
+  track: Potato Salad
+  url: https://open.spotify.com/track/1jzIJcHCXneHw7ojC6LXiF
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave, Tiakola
   track: Meridian
   url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
-updated_at: 2026-06-12 14:12 UTC
+updated_at: 2026-06-12 17:20 UTC
