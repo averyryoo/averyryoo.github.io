@@ -1,10 +1,10 @@
 now_playing:
-  album: you seem pretty sad for a girl so in love
-  album_art: https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46
-  artist: Olivia Rodrigo
-  is_playing: false
-  track: honeybee
-  url: https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a
+  album: beerbongs & bentleys
+  album_art: https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268
+  artist: Post Malone
+  is_playing: true
+  track: Otherside
+  url: https://open.spotify.com/track/4qWCFTuNnmGNdY4egtb4ZY
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
-updated_at: 2026-06-13 19:21 UTC
+updated_at: 2026-06-13 20:47 UTC
