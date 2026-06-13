@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46
   artist: Olivia Rodrigo
   is_playing: false
-  track: stupid song
-  url: https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4
+  track: honeybee
+  url: https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -12,16 +12,16 @@ top_tracks:
 - artist: AZ
   track: Rather Unique
   url: https://open.spotify.com/track/5vxII6AxXbPsAJE5dAdBo9
+- artist: KARLEE GIRL
+  track: Right Back!
+  url: https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n
+- artist: Olivia Rodrigo
+  track: drop dead
+  url: https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U
 - artist: Drake
   track: Trust Issues
   url: https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
-- artist: KARLEE GIRL
-  track: Right Back!
-  url: https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n
-- artist: Dave, Tiakola
-  track: Meridian
-  url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
-updated_at: 2026-06-13 17:52 UTC
+updated_at: 2026-06-13 19:21 UTC
