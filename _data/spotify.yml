@@ -1,10 +1,10 @@
 now_playing:
-  album: Faces
-  album_art: https://i.scdn.co/image/ab67616d00001e02470bc019add62f15243bc644
-  artist: Mac Miller
+  album: you seem pretty sad for a girl so in love
+  album_art: https://i.scdn.co/image/ab67616d00001e025cf234eeb7a2edf44bf64a46
+  artist: Olivia Rodrigo
   is_playing: false
-  track: Diablo
-  url: https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr
+  track: stupid song
+  url: https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Dave, Tiakola
   track: Meridian
   url: https://open.spotify.com/track/7uilb01TiHfrsk1HGCB98V
-updated_at: 2026-06-13 16:20 UTC
+updated_at: 2026-06-13 17:52 UTC
