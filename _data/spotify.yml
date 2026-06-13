@@ -1,10 +1,10 @@
 now_playing:
-  album: beerbongs & bentleys
-  album_art: https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268
-  artist: Post Malone
-  is_playing: true
-  track: Otherside
-  url: https://open.spotify.com/track/4qWCFTuNnmGNdY4egtb4ZY
+  album: Thrill of the Arts
+  album_art: https://i.scdn.co/image/ab67616d00001e02ba94b5ac9a0771550fe81682
+  artist: Vulfpeck, Antwaun Stanley
+  is_playing: false
+  track: Funky Duck
+  url: https://open.spotify.com/track/5hDmcalviWAfa8uymtrvn6
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
-updated_at: 2026-06-13 20:47 UTC
+updated_at: 2026-06-13 22:01 UTC
