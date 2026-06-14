@@ -1,10 +1,10 @@
 now_playing:
-  album: Magical Mystery Tour (Remastered)
-  album_art: https://i.scdn.co/image/ab67616d00001e02692d9189b2bd75525893f0c1
-  artist: The Beatles
+  album: A Night At The Symphony
+  album_art: https://i.scdn.co/image/ab67616d00001e020c14cc34bc3be11bccbad85f
+  artist: Laufey, Iceland Symphony Orchestra
   is_playing: false
-  track: Penny Lane - Remastered 2009
-  url: https://open.spotify.com/track/1h04XMpzGzmAudoI6VHBgA
+  track: The Nearness of You - Live at The Symphony
+  url: https://open.spotify.com/track/4vjFL3VnYcaJqX1HmQEBRa
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
-updated_at: 2026-06-13 23:39 UTC
+updated_at: 2026-06-14 03:50 UTC
