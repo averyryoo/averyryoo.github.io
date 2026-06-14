@@ -1,10 +1,10 @@
 now_playing:
-  album: Back At One
-  album_art: https://i.scdn.co/image/ab67616d00001e02e9da8645c59d76e7f35dff6e
-  artist: Brian McKnight
+  album: The Score (Expanded Edition)
+  album_art: https://i.scdn.co/image/ab67616d00001e025b7865be7f7fcc05faec6137
+  artist: Fugees, Ms. Lauryn Hill, Wyclef Jean, Pras
   is_playing: false
-  track: Back At One
-  url: https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh
+  track: How Many Mics
+  url: https://open.spotify.com/track/2lOnbK3gm1N6keYkUD3mis
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
-updated_at: 2026-06-14 18:10 UTC
+updated_at: 2026-06-14 20:05 UTC
