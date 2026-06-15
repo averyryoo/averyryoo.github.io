@@ -1,10 +1,10 @@
 now_playing:
-  album: MTV Unplugged In New York (25th Anniversary – Live)
-  album_art: https://i.scdn.co/image/ab67616d00001e02227f708373c1587bdd803ea6
-  artist: Nirvana
-  is_playing: true
-  track: Come As You Are - Live Version
-  url: https://open.spotify.com/track/28uszKBGl7y8Lvo0W6XRET
+  album: More Life
+  album_art: https://i.scdn.co/image/ab67616d00001e024f0fd9dad63977146e685700
+  artist: Drake
+  is_playing: false
+  track: Fake Love
+  url: https://open.spotify.com/track/343YBumqHu19cGoGARUTsd
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -17,11 +17,11 @@ top_tracks:
   url: https://open.spotify.com/track/6FKL8Ub6YqOYsRZQtVs28n
 - artist: Olivia Rodrigo
   track: drop dead
-  url: https://open.spotify.com/track/7Hc6qcJG4NtyZgbNvQyd8U
+  url: https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD
 - artist: Drake
   track: Trust Issues
   url: https://open.spotify.com/track/4Wjhj0WjkyECccfHVIgaTq
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
-updated_at: 2026-06-15 13:32 UTC
+updated_at: 2026-06-15 18:23 UTC
