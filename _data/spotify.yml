@@ -1,10 +1,10 @@
 now_playing:
-  album: David Bowie (aka Space Oddity) [2015 Remaster]
-  album_art: https://i.scdn.co/image/ab67616d00001e023395f3e809dfbc2b1101d464
-  artist: David Bowie
-  is_playing: false
-  track: Space Oddity - 2015 Remaster
-  url: https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG
+  album: MTV Unplugged In New York (25th Anniversary – Live)
+  album_art: https://i.scdn.co/image/ab67616d00001e02227f708373c1587bdd803ea6
+  artist: Nirvana
+  is_playing: true
+  track: Come As You Are - Live Version
+  url: https://open.spotify.com/track/28uszKBGl7y8Lvo0W6XRET
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
-updated_at: 2026-06-15 07:29 UTC
+updated_at: 2026-06-15 13:32 UTC
