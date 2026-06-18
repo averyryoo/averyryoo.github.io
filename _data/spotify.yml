@@ -1,10 +1,10 @@
 now_playing:
-  album: Oxnard
-  album_art: https://i.scdn.co/image/ab67616d00001e02524aa1b58c9b19480d8ee703
-  artist: Anderson .Paak, BJ The Chicago Kid
+  album: Taylor Swift
+  album_art: https://i.scdn.co/image/ab67616d00001e022f8c0fd72a80a93f8c53b96c
+  artist: Taylor Swift
   is_playing: false
-  track: Sweet Chick (feat. BJ The Chicago Kid)
-  url: https://open.spotify.com/track/1eMWxSLN7rDSDSrvKSj8gS
+  track: Tim McGraw
+  url: https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
-updated_at: 2026-06-18 05:15 UTC
+updated_at: 2026-06-18 09:52 UTC
