@@ -1,10 +1,10 @@
 now_playing:
-  album: Queen Of The Clouds
-  album_art: https://i.scdn.co/image/ab67616d00001e02d73966976fd29781c3a8dde0
-  artist: Tove Lo
+  album: Fearless (Taylor's Version)
+  album_art: https://i.scdn.co/image/ab67616d00001e02a48964b5d9a3d6968ae3e0de
+  artist: Taylor Swift
   is_playing: false
-  track: Talking Body
-  url: https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA
+  track: Today Was A Fairytale (Taylor’s Version)
+  url: https://open.spotify.com/track/2JoJrsEV15OzbijS47lids
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
-updated_at: 2026-06-25 04:44 UTC
+updated_at: 2026-06-25 08:20 UTC
