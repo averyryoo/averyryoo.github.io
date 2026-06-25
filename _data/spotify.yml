@@ -1,10 +1,10 @@
 now_playing:
-  album: Fearless (Taylor's Version)
-  album_art: https://i.scdn.co/image/ab67616d00001e02a48964b5d9a3d6968ae3e0de
-  artist: Taylor Swift
+  album: Use Your Illusion I
+  album_art: https://i.scdn.co/image/ab67616d00001e02e44963b8bb127552ac761873
+  artist: Guns N' Roses
   is_playing: false
-  track: Today Was A Fairytale (Taylor’s Version)
-  url: https://open.spotify.com/track/2JoJrsEV15OzbijS47lids
+  track: November Rain
+  url: https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
-updated_at: 2026-06-25 08:20 UTC
+updated_at: 2026-06-25 11:13 UTC
