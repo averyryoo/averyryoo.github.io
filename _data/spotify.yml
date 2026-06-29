@@ -1,10 +1,10 @@
 now_playing:
-  album: Fleetwood Mac
-  album_art: https://i.scdn.co/image/ab67616d00001e024fb043195e8d07e72edc7226
-  artist: Fleetwood Mac
+  album: Fancy Some More?
+  album_art: https://i.scdn.co/image/ab67616d00001e02684ecc5bc1b724d0106ad694
+  artist: PinkPantheress, Zara Larsson
   is_playing: false
-  track: Landslide
-  url: https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ
+  track: Stateside + Zara Larsson
+  url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
 top_tracks:
 - artist: I.O.I
   track: Suddenly
@@ -24,4 +24,4 @@ top_tracks:
 - artist: AZ
   track: Uncut Raw
   url: https://open.spotify.com/track/4NEdSoLu3M9pEEZM7vO8uq
-updated_at: 2026-06-29 10:07 UTC
+updated_at: 2026-06-29 14:33 UTC
