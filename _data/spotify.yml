@@ -1,17 +1,17 @@
 now_playing:
-  album: Fancy Some More?
-  album_art: https://i.scdn.co/image/ab67616d00001e02684ecc5bc1b724d0106ad694
-  artist: PinkPantheress, Zara Larsson
-  is_playing: false
-  track: Stateside + Zara Larsson
-  url: https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt
+  album: Deulgukhwa
+  album_art: https://i.scdn.co/image/ab67616d00001e02e3c47e6ec391ff1e681857c1
+  artist: Deul Guk Hwa
+  is_playing: true
+  track: After the Love Has Gone
+  url: https://open.spotify.com/track/6jLsFCpdkrdy0iqu4m9AWW
 top_tracks:
-- artist: I.O.I
-  track: Suddenly
-  url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
 - artist: AZ
   track: Rather Unique
   url: https://open.spotify.com/track/5vxII6AxXbPsAJE5dAdBo9
+- artist: I.O.I
+  track: Suddenly
+  url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
 - artist: KARLEE GIRL
   track: Right Back!
   url: https://open.spotify.com/track/2Y9ePPtUErwR4lDBXPpqEr
@@ -24,4 +24,4 @@ top_tracks:
 - artist: AZ
   track: Uncut Raw
   url: https://open.spotify.com/track/4NEdSoLu3M9pEEZM7vO8uq
-updated_at: 2026-07-01 10:28 UTC
+updated_at: 2026-07-01 13:17 UTC
