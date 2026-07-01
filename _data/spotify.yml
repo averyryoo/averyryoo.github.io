@@ -1,20 +1,20 @@
 now_playing:
-  album: Deulgukhwa
-  album_art: https://i.scdn.co/image/ab67616d00001e02e3c47e6ec391ff1e681857c1
-  artist: Deul Guk Hwa
-  is_playing: true
-  track: After the Love Has Gone
-  url: https://open.spotify.com/track/6jLsFCpdkrdy0iqu4m9AWW
+  album: Principle Of My Soul
+  album_art: https://i.scdn.co/image/ab67616d00001e02224f9c785a796b7fe00007f5
+  artist: Naul
+  is_playing: false
+  track: Memory Of The Wind
+  url: https://open.spotify.com/track/1Mt5bRtfZXBRt56L1NWRLY
 top_tracks:
 - artist: AZ
   track: Rather Unique
   url: https://open.spotify.com/track/5vxII6AxXbPsAJE5dAdBo9
-- artist: I.O.I
-  track: Suddenly
-  url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
 - artist: KARLEE GIRL
   track: Right Back!
   url: https://open.spotify.com/track/2Y9ePPtUErwR4lDBXPpqEr
+- artist: I.O.I
+  track: Suddenly
+  url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
@@ -24,4 +24,4 @@ top_tracks:
 - artist: AZ
   track: Uncut Raw
   url: https://open.spotify.com/track/4NEdSoLu3M9pEEZM7vO8uq
-updated_at: 2026-07-01 13:17 UTC
+updated_at: 2026-07-01 16:04 UTC
