@@ -1,10 +1,10 @@
 now_playing:
-  album: Cold Heart (PNAU Remix)
-  album_art: https://i.scdn.co/image/ab67616d00001e029f5cce8304c42d3a5463fd23
-  artist: Elton John, Dua Lipa, PNAU
+  album: The Game (Deluxe Remastered Version)
+  album_art: https://i.scdn.co/image/ab67616d00001e0207744e2ed983efa3e6620a47
+  artist: Queen
   is_playing: false
-  track: Cold Heart - PNAU Remix
-  url: https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz
+  track: Another One Bites The Dust - Remastered 2011
+  url: https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J
 top_tracks:
 - artist: AZ
   track: Rather Unique
@@ -24,4 +24,4 @@ top_tracks:
 - artist: AZ
   track: Uncut Raw
   url: https://open.spotify.com/track/4NEdSoLu3M9pEEZM7vO8uq
-updated_at: 2026-07-02 05:57 UTC
+updated_at: 2026-07-02 09:16 UTC
