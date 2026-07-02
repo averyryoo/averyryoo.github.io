@@ -1,27 +1,27 @@
 now_playing:
-  album: Principle Of My Soul
-  album_art: https://i.scdn.co/image/ab67616d00001e02224f9c785a796b7fe00007f5
-  artist: Naul
+  album: Cold Heart (PNAU Remix)
+  album_art: https://i.scdn.co/image/ab67616d00001e029f5cce8304c42d3a5463fd23
+  artist: Elton John, Dua Lipa, PNAU
   is_playing: false
-  track: Memory Of The Wind
-  url: https://open.spotify.com/track/1Mt5bRtfZXBRt56L1NWRLY
+  track: Cold Heart - PNAU Remix
+  url: https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz
 top_tracks:
 - artist: AZ
   track: Rather Unique
   url: https://open.spotify.com/track/5vxII6AxXbPsAJE5dAdBo9
-- artist: KARLEE GIRL
-  track: Right Back!
-  url: https://open.spotify.com/track/2Y9ePPtUErwR4lDBXPpqEr
-- artist: I.O.I
-  track: Suddenly
-  url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
 - artist: Nas
   track: N.Y. State of Mind
   url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
 - artist: Kendrick Lamar
   track: Backseat Freestyle
   url: https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K
+- artist: I.O.I
+  track: Suddenly
+  url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
+- artist: KARLEE GIRL
+  track: Right Back!
+  url: https://open.spotify.com/track/2Y9ePPtUErwR4lDBXPpqEr
 - artist: AZ
   track: Uncut Raw
   url: https://open.spotify.com/track/4NEdSoLu3M9pEEZM7vO8uq
-updated_at: 2026-07-02 01:31 UTC
+updated_at: 2026-07-02 05:57 UTC
