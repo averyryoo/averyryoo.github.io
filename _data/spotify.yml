@@ -1,10 +1,10 @@
 now_playing:
-  album: The Game (Deluxe Remastered Version)
-  album_art: https://i.scdn.co/image/ab67616d00001e0207744e2ed983efa3e6620a47
-  artist: Queen
+  album: DAMN.
+  album_art: https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699
+  artist: Kendrick Lamar
   is_playing: false
-  track: Another One Bites The Dust - Remastered 2011
-  url: https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J
+  track: DNA.
+  url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
 top_tracks:
 - artist: AZ
   track: Rather Unique
@@ -15,13 +15,13 @@ top_tracks:
 - artist: Kendrick Lamar
   track: Backseat Freestyle
   url: https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K
-- artist: I.O.I
-  track: Suddenly
-  url: https://open.spotify.com/track/7u0yW2XPSJozIGdUSRET19
 - artist: KARLEE GIRL
   track: Right Back!
   url: https://open.spotify.com/track/2Y9ePPtUErwR4lDBXPpqEr
 - artist: AZ
   track: Uncut Raw
   url: https://open.spotify.com/track/4NEdSoLu3M9pEEZM7vO8uq
-updated_at: 2026-07-02 16:04 UTC
+- artist: Michael Jackson
+  track: Human Nature
+  url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
+updated_at: 2026-07-02 18:12 UTC
