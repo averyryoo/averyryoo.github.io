@@ -1,10 +1,10 @@
 now_playing:
   album: To Pimp A Butterfly
   album_art: https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1
-  artist: Kendrick Lamar, George Clinton, Thundercat
-  is_playing: true
-  track: Wesley's Theory
-  url: https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6
+  artist: Kendrick Lamar
+  is_playing: false
+  track: Alright
+  url: https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs
 top_tracks:
 - artist: AZ
   track: Rather Unique
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-03 08:33 UTC
+updated_at: 2026-07-03 11:30 UTC
