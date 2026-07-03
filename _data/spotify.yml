@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699
   artist: Kendrick Lamar
   is_playing: false
-  track: DNA.
-  url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
+  track: YAH.
+  url: https://open.spotify.com/track/4BHSjbYylfOH5WAGusDyni
 top_tracks:
 - artist: AZ
   track: Rather Unique
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-03 01:08 UTC
+updated_at: 2026-07-03 05:12 UTC
