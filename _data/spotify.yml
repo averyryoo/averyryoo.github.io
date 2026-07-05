@@ -1,27 +1,27 @@
 now_playing:
-  album: Red (Taylor's Version)
-  album_art: https://i.scdn.co/image/ab67616d00001e02318443aab3531a0558e79a4d
-  artist: Taylor Swift
-  is_playing: true
-  track: Holy Ground (Taylor's Version)
-  url: https://open.spotify.com/track/7J4b3LVCIGO4CMBDFLPoP6
+  album: Mr. A-Z
+  album_art: https://i.scdn.co/image/ab67616d00001e02aea5f17bbea18d74b711f169
+  artist: Jason Mraz
+  is_playing: false
+  track: Mr. Curiosity
+  url: https://open.spotify.com/track/7MxhtoiYMmro4VyBzUFm0P
 top_tracks:
-- artist: AZ
-  track: Rather Unique
-  url: https://open.spotify.com/track/5vxII6AxXbPsAJE5dAdBo9
-- artist: Nas
-  track: N.Y. State of Mind
-  url: https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo
 - artist: Kendrick Lamar
   track: Backseat Freestyle
   url: https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K
-- artist: KARLEE GIRL
-  track: Right Back!
-  url: https://open.spotify.com/track/2Y9ePPtUErwR4lDBXPpqEr
-- artist: AZ
-  track: Uncut Raw
-  url: https://open.spotify.com/track/4NEdSoLu3M9pEEZM7vO8uq
+- artist: Thee Sacred Souls
+  track: Can I Call You Rose?
+  url: https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-05 06:38 UTC
+- artist: Kendrick Lamar
+  track: DNA.
+  url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
+- artist: Radiohead
+  track: Fake Plastic Trees
+  url: https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F
+- artist: Kanye West, Pusha T
+  track: Runaway
+  url: https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds
+updated_at: 2026-07-05 09:39 UTC
