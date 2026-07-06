@@ -1,10 +1,10 @@
 now_playing:
-  album: Mr. A-Z
-  album_art: https://i.scdn.co/image/ab67616d00001e02aea5f17bbea18d74b711f169
-  artist: Jason Mraz
+  album: The Dark Side of the Moon
+  album_art: https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6
+  artist: Pink Floyd
   is_playing: false
-  track: Mr. Curiosity
-  url: https://open.spotify.com/track/7MxhtoiYMmro4VyBzUFm0P
+  track: Brain Damage
+  url: https://open.spotify.com/track/05uGBKRCuePsf43Hfm0JwX
 top_tracks:
 - artist: Kendrick Lamar
   track: Backseat Freestyle
@@ -21,7 +21,7 @@ top_tracks:
 - artist: Radiohead
   track: Fake Plastic Trees
   url: https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F
-- artist: Kanye West, Pusha T
-  track: Runaway
-  url: https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds
-updated_at: 2026-07-06 01:13 UTC
+- artist: Travis Scott
+  track: R.I.P. SCREW
+  url: https://open.spotify.com/track/4SZepBIPDRwPaHIjAKwRDb
+updated_at: 2026-07-06 05:53 UTC
