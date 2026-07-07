@@ -12,6 +12,9 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
+- artist: Keane
+  track: Everybody's Changing
+  url: https://open.spotify.com/track/5hkdfA87RZvNaxl6XiveOA
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
@@ -21,7 +24,4 @@ top_tracks:
 - artist: Travis Scott
   track: R.I.P. SCREW
   url: https://open.spotify.com/track/4SZepBIPDRwPaHIjAKwRDb
-- artist: Taylor Swift
-  track: A Place in this World
-  url: https://open.spotify.com/track/0be2GMLqyJKvlMVimVRl9z
-updated_at: 2026-07-07 08:20 UTC
+updated_at: 2026-07-07 11:23 UTC
