@@ -1,11 +1,14 @@
 now_playing:
-  album: To Pimp A Butterfly
-  album_art: https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1
-  artist: Kendrick Lamar
+  album: Heavier Things
+  album_art: https://i.scdn.co/image/ab67616d00001e025ce3a30ee6d86659603a9536
+  artist: John Mayer
   is_playing: false
-  track: Mortal Man
-  url: https://open.spotify.com/track/1WT11QmhZutciEv1NsHt1R
+  track: Daughters
+  url: https://open.spotify.com/track/5FPnjikbwlDMULCCCa6ZCJ
 top_tracks:
+- artist: AZ
+  track: Sugar Hill
+  url: https://open.spotify.com/track/0lZWjBImx6kNe3WtOA09Xu
 - artist: Thee Sacred Souls
   track: Can I Call You Rose?
   url: https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS
@@ -21,7 +24,4 @@ top_tracks:
 - artist: Radiohead
   track: Fake Plastic Trees
   url: https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F
-- artist: Travis Scott
-  track: R.I.P. SCREW
-  url: https://open.spotify.com/track/4SZepBIPDRwPaHIjAKwRDb
-updated_at: 2026-07-08 01:01 UTC
+updated_at: 2026-07-08 04:43 UTC
