@@ -1,10 +1,4 @@
-now_playing:
-  album: Red (Deluxe Edition)
-  album_art: https://i.scdn.co/image/ab67616d00001e02a7613d346501b828b56a0bc3
-  artist: Taylor Swift
-  is_playing: false
-  track: The Lucky One
-  url: https://open.spotify.com/track/2wtHlpYSgC7xEdD3DrSHNL
+now_playing: null
 top_tracks:
 - artist: AZ
   track: Sugar Hill
@@ -24,4 +18,4 @@ top_tracks:
 - artist: Taylor Swift
   track: A Place in this World
   url: https://open.spotify.com/track/0be2GMLqyJKvlMVimVRl9z
-updated_at: 2026-07-10 13:25 UTC
+updated_at: 2026-07-10 15:53 UTC
