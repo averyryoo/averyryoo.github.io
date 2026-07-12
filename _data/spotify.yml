@@ -1,10 +1,10 @@
 now_playing:
-  album: By the Way
-  album_art: https://i.scdn.co/image/ab67616d00001e02fdbcee40748537ff80a7af70
-  artist: Red Hot Chili Peppers
-  is_playing: false
-  track: Midnight
-  url: https://open.spotify.com/track/6mSkYcnyvntZVVb3uOVt9W
+  album: DAMN.
+  album_art: https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699
+  artist: Kendrick Lamar, Rihanna
+  is_playing: true
+  track: LOYALTY. FEAT. RIHANNA.
+  url: https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Travis Scott
   track: R.I.P. SCREW
   url: https://open.spotify.com/track/4SZepBIPDRwPaHIjAKwRDb
-updated_at: 2026-07-12 04:50 UTC
+updated_at: 2026-07-12 07:26 UTC
