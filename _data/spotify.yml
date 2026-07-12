@@ -1,10 +1,10 @@
 now_playing:
-  album: Jazz (Deluxe Remastered Version)
-  album_art: https://i.scdn.co/image/ab67616d00001e02008b06ec71019afd70153889
-  artist: Queen
+  album: By the Way
+  album_art: https://i.scdn.co/image/ab67616d00001e02fdbcee40748537ff80a7af70
+  artist: Red Hot Chili Peppers
   is_playing: false
-  track: Don't Stop Me Now - Remastered 2011
-  url: https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i
+  track: Midnight
+  url: https://open.spotify.com/track/6mSkYcnyvntZVVb3uOVt9W
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Travis Scott
   track: R.I.P. SCREW
   url: https://open.spotify.com/track/4SZepBIPDRwPaHIjAKwRDb
-updated_at: 2026-07-12 01:02 UTC
+updated_at: 2026-07-12 04:50 UTC
