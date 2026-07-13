@@ -1,27 +1,27 @@
 now_playing:
-  album: Lover
-  album_art: https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647
-  artist: Taylor Swift
+  album: Toys In The Attic
+  album_art: https://i.scdn.co/image/ab67616d00001e028cffbbb7fe8645a486a85ea9
+  artist: Aerosmith
   is_playing: false
-  track: Death By A Thousand Cuts
-  url: https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D
+  track: Walk This Way
+  url: https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
   url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
-- artist: AZ
-  track: Sugar Hill
-  url: https://open.spotify.com/track/0lZWjBImx6kNe3WtOA09Xu
+- artist: Bruno Mars, R Kelly And Pharrell
+  track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
+  url: https://open.spotify.com/track/7uVKvaDWDpss7Ldj9kypLX
 - artist: Thee Sacred Souls
   track: Can I Call You Rose?
   url: https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS
+- artist: AZ
+  track: Sugar Hill
+  url: https://open.spotify.com/track/0lZWjBImx6kNe3WtOA09Xu
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-- artist: Travis Scott
-  track: R.I.P. SCREW
-  url: https://open.spotify.com/track/4SZepBIPDRwPaHIjAKwRDb
-updated_at: 2026-07-13 09:52 UTC
+updated_at: 2026-07-13 12:28 UTC
