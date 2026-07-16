@@ -1,10 +1,12 @@
 now_playing:
-  album: 'Man On The Moon III: The Chosen'
-  album_art: https://i.scdn.co/image/ab67616d00001e026ff25c2481eeaf6e7284d461
-  artist: Kid Cudi, Skepta, Pop Smoke
+  album: Illinois
+  album_art: https://i.scdn.co/image/ab67616d00001e02712c76b4152918fb8d37c53d
+  artist: Sufjan Stevens
   is_playing: false
-  track: Show Out (with Skepta & Pop Smoke)
-  url: https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv
+  track: The Black Hawk War, Or, How to Demolish an Entire Civilization and Still
+    Feel Good About Yourself In the Morning, Or, We Apologize for the Inconvenience
+    But You're Going to Have to Leave Now, Or...
+  url: https://open.spotify.com/track/4LyO99BhEMAyVGe4J5genE
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +26,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-16 22:54 UTC
+updated_at: 2026-07-16 23:56 UTC
