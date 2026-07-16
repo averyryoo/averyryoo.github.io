@@ -1,10 +1,10 @@
 now_playing:
-  album: Speak Now (Taylor's Version)
-  album_art: https://i.scdn.co/image/ab67616d00001e020b04da4f224b51ff86e0a481
-  artist: Taylor Swift
+  album: 'Man On The Moon III: The Chosen'
+  album_art: https://i.scdn.co/image/ab67616d00001e026ff25c2481eeaf6e7284d461
+  artist: Kid Cudi, Skepta, Pop Smoke
   is_playing: false
-  track: Mine (Taylor's Version)
-  url: https://open.spotify.com/track/7G0gBu6nLdhFDPRLc0HdDG
+  track: Show Out (with Skepta & Pop Smoke)
+  url: https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-16 00:04 UTC
+updated_at: 2026-07-16 03:46 UTC
