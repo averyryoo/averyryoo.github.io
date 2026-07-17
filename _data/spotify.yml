@@ -1,10 +1,10 @@
 now_playing:
-  album: Zuma
-  album_art: https://i.scdn.co/image/ab67616d00001e02adc7646ec2dc90fc12477818
-  artist: Neil Young, Crazy Horse
+  album: Hail To the Thief
+  album_art: https://i.scdn.co/image/ab67616d00001e020da53e8f58e59f28a79c10c7
+  artist: Radiohead
   is_playing: false
-  track: Cortez the Killer - 2016 Remaster
-  url: https://open.spotify.com/track/3ZPLFD6mbw6hhu3g6S4EGl
+  track: Where I End and You Begin
+  url: https://open.spotify.com/track/2dDqsUr11Mv0qhXByNfbJx
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-17 22:13 UTC
+updated_at: 2026-07-17 23:22 UTC
