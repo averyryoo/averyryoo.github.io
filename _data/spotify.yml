@@ -1,10 +1,10 @@
 now_playing:
-  album: Sometimes
-  album_art: https://i.scdn.co/image/ab67616d00001e02c95c25c00914c09bb806b39e
-  artist: City and Colour
-  is_playing: true
-  track: Comin' Home
-  url: https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7
+  album: Zuma
+  album_art: https://i.scdn.co/image/ab67616d00001e02adc7646ec2dc90fc12477818
+  artist: Neil Young, Crazy Horse
+  is_playing: false
+  track: Cortez the Killer - 2016 Remaster
+  url: https://open.spotify.com/track/3ZPLFD6mbw6hhu3g6S4EGl
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-17 11:51 UTC
+updated_at: 2026-07-17 13:22 UTC
