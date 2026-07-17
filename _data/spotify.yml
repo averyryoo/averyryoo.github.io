@@ -1,10 +1,10 @@
 now_playing:
-  album: Hell Freezes Over
-  album_art: https://i.scdn.co/image/ab67616d00001e028df1d33ee36094a21589b9d0
-  artist: Eagles
-  is_playing: true
-  track: Love Will Keep Us Alive
-  url: https://open.spotify.com/track/6LI7SDQlOffI2LoTD6hYGS
+  album: Sometimes
+  album_art: https://i.scdn.co/image/ab67616d00001e02c95c25c00914c09bb806b39e
+  artist: City and Colour
+  is_playing: false
+  track: Comin' Home
+  url: https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-17 02:44 UTC
+updated_at: 2026-07-17 05:40 UTC
