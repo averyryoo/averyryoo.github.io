@@ -1,10 +1,10 @@
 now_playing:
-  album: Survive
-  album_art: https://i.scdn.co/image/ab67616d00001e02e6c69a4c4a69e0cdd5105f8e
-  artist: Lewis Capaldi
+  album: Vincent
+  album_art: https://i.scdn.co/image/ab67616d00001e02b87c69be74eeb63dee1f8fc2
+  artist: James Blake
   is_playing: false
-  track: Survive
-  url: https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV
+  track: Vincent
+  url: https://open.spotify.com/track/0hQkqM37pYkOuWDDoxk3Ce
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-18 18:59 UTC
+updated_at: 2026-07-18 20:06 UTC
