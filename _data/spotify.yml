@@ -1,10 +1,10 @@
 now_playing:
-  album: Divinely Uninspired To A Hellish Extent
-  album_art: https://i.scdn.co/image/ab67616d00001e02fc2101e6889d6ce9025f85f2
+  album: Survive
+  album_art: https://i.scdn.co/image/ab67616d00001e02e6c69a4c4a69e0cdd5105f8e
   artist: Lewis Capaldi
   is_playing: false
-  track: Forever
-  url: https://open.spotify.com/track/12OLyHDxt6dqlAybSPFBK3
+  track: Survive
+  url: https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-18 12:11 UTC
+updated_at: 2026-07-18 13:55 UTC
