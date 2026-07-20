@@ -1,10 +1,10 @@
 now_playing:
-  album: Vincent
-  album_art: https://i.scdn.co/image/ab67616d00001e02b87c69be74eeb63dee1f8fc2
-  artist: James Blake
+  album: How To Be A Human Being
+  album_art: https://i.scdn.co/image/ab67616d00001e02ec3d15eab5bd77027abc4b23
+  artist: Glass Animals
   is_playing: false
-  track: Vincent
-  url: https://open.spotify.com/track/0hQkqM37pYkOuWDDoxk3Ce
+  track: Youth
+  url: https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-20 01:05 UTC
+updated_at: 2026-07-20 05:03 UTC
