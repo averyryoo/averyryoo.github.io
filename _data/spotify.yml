@@ -1,10 +1,10 @@
 now_playing:
-  album: How To Be A Human Being
-  album_art: https://i.scdn.co/image/ab67616d00001e02ec3d15eab5bd77027abc4b23
-  artist: Glass Animals
+  album: Illadelph Halflife
+  album_art: https://i.scdn.co/image/ab67616d00001e020d8b1d7869e62f341e528e38
+  artist: The Roots
   is_playing: false
-  track: Youth
-  url: https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY
+  track: What They Do
+  url: https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-20 11:21 UTC
+updated_at: 2026-07-20 13:24 UTC
