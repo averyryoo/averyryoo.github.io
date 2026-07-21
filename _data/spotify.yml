@@ -1,4 +1,10 @@
-now_playing: null
+now_playing:
+  album: Live at Massey Hall 1971
+  album_art: https://i.scdn.co/image/ab67616d00001e02d515acc4155689a86646bd6d
+  artist: Neil Young
+  is_playing: false
+  track: A Man Needs a Maid / Heart of Gold (Suite) - Live at Massey Hall 1971
+  url: https://open.spotify.com/track/414dr7J4mTXmr34r4oEmWf
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -18,4 +24,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-21 16:53 UTC
+updated_at: 2026-07-21 18:14 UTC
