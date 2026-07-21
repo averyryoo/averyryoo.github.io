@@ -1,10 +1,4 @@
-now_playing:
-  album: Love Is a Four Letter Word (Deluxe Edition)
-  album_art: https://i.scdn.co/image/ab67616d00001e0246e379c721504777a62bd9b8
-  artist: Jason Mraz
-  is_playing: false
-  track: 93 Million Miles
-  url: https://open.spotify.com/track/1s8tP3jP4GZcyHDsjvw218
+now_playing: null
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +18,4 @@ top_tracks:
 - artist: Kendrick Lamar
   track: DNA.
   url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-21 15:01 UTC
+updated_at: 2026-07-21 16:53 UTC
