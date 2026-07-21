@@ -1,10 +1,10 @@
 now_playing:
-  album: Live at Massey Hall 1971
-  album_art: https://i.scdn.co/image/ab67616d00001e02d515acc4155689a86646bd6d
-  artist: Neil Young
+  album: DAMN.
+  album_art: https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699
+  artist: Kendrick Lamar
   is_playing: false
-  track: A Man Needs a Maid / Heart of Gold (Suite) - Live at Massey Hall 1971
-  url: https://open.spotify.com/track/414dr7J4mTXmr34r4oEmWf
+  track: DNA.
+  url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -12,6 +12,9 @@ top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
   url: https://open.spotify.com/track/7uVKvaDWDpss7Ldj9kypLX
+- artist: Kendrick Lamar
+  track: DNA.
+  url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
 - artist: Thee Sacred Souls
   track: Can I Call You Rose?
   url: https://open.spotify.com/track/6IAuH3hgTRpUUdmOGubXGS
@@ -21,7 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-- artist: Kendrick Lamar
-  track: DNA.
-  url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
-updated_at: 2026-07-21 18:14 UTC
+updated_at: 2026-07-21 19:58 UTC
