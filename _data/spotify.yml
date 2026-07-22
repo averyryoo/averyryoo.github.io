@@ -1,10 +1,10 @@
 now_playing:
-  album: 2014 Forest Hills Drive
-  album_art: https://i.scdn.co/image/ab67616d00001e02c6e0948bbb0681ff29cdbae8
-  artist: J. Cole
+  album: KIDS SEE GHOSTS
+  album_art: https://i.scdn.co/image/ab67616d00001e02013c00ee367dd85396f79c82
+  artist: KIDS SEE GHOSTS, Ty Dolla $ign
   is_playing: false
-  track: Wet Dreamz
-  url: https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd
+  track: Freeee (Ghost Town Pt. 2)
+  url: https://open.spotify.com/track/7GRTrWsP3yo2Fx8umJfA1X
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-22 11:48 UTC
+updated_at: 2026-07-22 13:45 UTC
