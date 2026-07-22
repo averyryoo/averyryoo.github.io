@@ -1,10 +1,10 @@
 now_playing:
-  album: KIDS SEE GHOSTS
-  album_art: https://i.scdn.co/image/ab67616d00001e02013c00ee367dd85396f79c82
-  artist: KIDS SEE GHOSTS, Ty Dolla $ign
-  is_playing: false
-  track: Freeee (Ghost Town Pt. 2)
-  url: https://open.spotify.com/track/7GRTrWsP3yo2Fx8umJfA1X
+  album: love (Deluxe Edition)
+  album_art: https://i.scdn.co/image/ab67616d00001e020e059105041a0b4fa80519e4
+  artist: Michael Bublé
+  is_playing: true
+  track: Love You Anymore
+  url: https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-22 13:45 UTC
+updated_at: 2026-07-22 15:38 UTC
