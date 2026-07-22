@@ -1,10 +1,10 @@
 now_playing:
-  album: Station to Station (2016 Remaster)
-  album_art: https://i.scdn.co/image/ab67616d00001e028f3cdfeac0678371b16f601d
-  artist: David Bowie
-  is_playing: false
-  track: Golden Years - 2016 Remaster
-  url: https://open.spotify.com/track/4JRem7xHp2l0kmUvt9zCKu
+  album: Abbey Road (Remastered)
+  album_art: https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25
+  artist: The Beatles
+  is_playing: true
+  track: Octopus's Garden - Remastered 2009
+  url: https://open.spotify.com/track/0suLngfo7rJoetk7Ub6N8l
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-22 18:39 UTC
+updated_at: 2026-07-22 20:09 UTC
