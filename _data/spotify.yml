@@ -1,10 +1,10 @@
 now_playing:
-  album: love (Deluxe Edition)
-  album_art: https://i.scdn.co/image/ab67616d00001e020e059105041a0b4fa80519e4
-  artist: Michael Bublé
-  is_playing: true
-  track: Love You Anymore
-  url: https://open.spotify.com/track/7JEUg9KqmpdIE5Nbb9ss66
+  album: Night Visions
+  album_art: https://i.scdn.co/image/ab67616d00001e02b2b2747c89d2157b0b29fb6a
+  artist: Imagine Dragons
+  is_playing: false
+  track: On Top Of The World
+  url: https://open.spotify.com/track/6Qj1WXW41Mn3Fh9V2sHphM
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-22 15:38 UTC
+updated_at: 2026-07-22 17:15 UTC
