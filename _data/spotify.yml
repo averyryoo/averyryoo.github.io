@@ -1,10 +1,10 @@
 now_playing:
-  album: DAMN.
-  album_art: https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699
-  artist: Kendrick Lamar
+  album: 2014 Forest Hills Drive
+  album_art: https://i.scdn.co/image/ab67616d00001e02c6e0948bbb0681ff29cdbae8
+  artist: J. Cole
   is_playing: false
-  track: DNA.
-  url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
+  track: Wet Dreamz
+  url: https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-22 00:56 UTC
+updated_at: 2026-07-22 04:16 UTC
