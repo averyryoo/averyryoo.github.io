@@ -1,10 +1,10 @@
 now_playing:
-  album: Abbey Road (Remastered)
-  album_art: https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25
-  artist: The Beatles
-  is_playing: false
-  track: I Want You (She's So Heavy) - Remastered 2009
-  url: https://open.spotify.com/track/3Z25k4ZF6QENy2d9YatsM5
+  album: IGOR
+  album_art: https://i.scdn.co/image/ab67616d00001e0230a635de2bb0caa4e26f6abb
+  artist: Tyler, The Creator
+  is_playing: true
+  track: EARFQUAKE
+  url: https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-22 21:35 UTC
+updated_at: 2026-07-22 22:59 UTC
