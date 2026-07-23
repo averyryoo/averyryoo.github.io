@@ -1,10 +1,10 @@
 now_playing:
-  album: Freudian
-  album_art: https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf
-  artist: Daniel Caesar, Kali Uchis
+  album: Abbey Road (Remastered)
+  album_art: https://i.scdn.co/image/ab67616d00001e02dc30583ba717007b00cceb25
+  artist: The Beatles
   is_playing: false
-  track: Get You (feat. Kali Uchis)
-  url: https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh
+  track: You Never Give Me Your Money - Remastered 2009
+  url: https://open.spotify.com/track/1jOLTO379yIu9aMnCkpMQl
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-23 19:54 UTC
+updated_at: 2026-07-23 21:00 UTC
