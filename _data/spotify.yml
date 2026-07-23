@@ -1,10 +1,10 @@
 now_playing:
-  album: IGOR
-  album_art: https://i.scdn.co/image/ab67616d00001e0230a635de2bb0caa4e26f6abb
-  artist: Tyler, The Creator
-  is_playing: true
-  track: EARFQUAKE
-  url: https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0
+  album: Freudian
+  album_art: https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf
+  artist: Daniel Caesar, Kali Uchis
+  is_playing: false
+  track: Get You (feat. Kali Uchis)
+  url: https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-22 22:59 UTC
+updated_at: 2026-07-23 00:08 UTC
