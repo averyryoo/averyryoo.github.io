@@ -1,10 +1,10 @@
 now_playing:
-  album: Blush
-  album_art: https://i.scdn.co/image/ab67616d00001e0255621590c8bd8ab74aaf7bde
-  artist: Kevin Abstract, SoGone SoFlexy, Ameer Vann, Love Spells
-  is_playing: true
-  track: H-Town
-  url: https://open.spotify.com/track/6UsYsmYnfzpIcTR0oqaQVw
+  album: Nicole
+  album_art: https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b
+  artist: NIKI
+  is_playing: false
+  track: High School in Jakarta
+  url: https://open.spotify.com/track/6fNQDsCq6LWfwTZnXl2Xsg
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-24 12:55 UTC
+updated_at: 2026-07-24 14:52 UTC
