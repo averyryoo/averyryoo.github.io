@@ -2,9 +2,9 @@ now_playing:
   album: Nicole
   album_art: https://i.scdn.co/image/ab67616d00001e0289aa3d00d339b8948374782b
   artist: NIKI
-  is_playing: true
-  track: The Apartment We Won't Share
-  url: https://open.spotify.com/track/5ocEOqIzIzUEG0WKocGOgJ
+  is_playing: false
+  track: Keeping Tabs
+  url: https://open.spotify.com/track/5nyVWaY7wfKMQh9l75iQ5r
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Michael Jackson
   track: Human Nature
   url: https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t
-updated_at: 2026-07-25 14:35 UTC
+updated_at: 2026-07-25 16:02 UTC
