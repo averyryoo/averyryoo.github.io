@@ -1,10 +1,10 @@
 now_playing:
-  album: Brat and it’s completely different but also still brat
-  album_art: https://i.scdn.co/image/ab67616d00001e028ac99f88ebc09b1f1637dc00
-  artist: Charli xcx, Billie Eilish
+  album: Culture II
+  album_art: https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890
+  artist: Migos, 21 Savage
   is_playing: false
-  track: Guess featuring billie eilish
-  url: https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx
+  track: BBO (Bad Bitches Only)
+  url: https://open.spotify.com/track/4BHzHISX21PYwGXiBEUQ70
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: David Bowie
   track: Station to Station - 2016 Remaster
   url: https://open.spotify.com/track/7cehkXeGO0t8HosgO42tHl
-updated_at: 2026-07-27 21:37 UTC
+updated_at: 2026-07-27 22:58 UTC
