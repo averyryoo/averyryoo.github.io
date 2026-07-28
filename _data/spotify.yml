@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e02a14b08b9a6616e121df5e8b0
   artist: Stevie Wonder
   is_playing: false
-  track: Superstition
-  url: https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ
+  track: Big Brother
+  url: https://open.spotify.com/track/5EQlqS41fwTJE40wtF1NGk
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-07-28 22:01 UTC
+updated_at: 2026-07-28 23:28 UTC
