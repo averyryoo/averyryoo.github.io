@@ -1,10 +1,10 @@
 now_playing:
-  album: The College Dropout
-  album_art: https://i.scdn.co/image/ab67616d00001e0225b055377757b3cdd6f26b78
-  artist: Kanye West
+  album: What's Going On
+  album_art: https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc
+  artist: Marvin Gaye
   is_playing: false
-  track: Jesus Walks
-  url: https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx
+  track: What's Happening Brother
+  url: https://open.spotify.com/track/4ihykcy9d9SSC5qxHIhPcf
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-07-28 14:00 UTC
+updated_at: 2026-07-28 16:08 UTC
