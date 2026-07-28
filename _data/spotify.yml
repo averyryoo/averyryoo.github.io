@@ -1,10 +1,10 @@
 now_playing:
-  album: What's Going On
-  album_art: https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc
-  artist: Marvin Gaye
+  album: I Was Made To Love Her
+  album_art: https://i.scdn.co/image/ab67616d00001e02090462f209270808d741111c
+  artist: Stevie Wonder
   is_playing: false
-  track: What's Happening Brother
-  url: https://open.spotify.com/track/4ihykcy9d9SSC5qxHIhPcf
+  track: I Was Made To Love Her
+  url: https://open.spotify.com/track/35Agv76BTtZGXlXutlfuYj
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-07-28 17:51 UTC
+updated_at: 2026-07-28 19:18 UTC
