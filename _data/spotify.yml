@@ -1,10 +1,10 @@
 now_playing:
-  album: vivitics
-  album_art: https://i.scdn.co/image/ab67616d00001e02c22b94951ff684fd15727c4d
-  artist: Jangma
+  album: The College Dropout
+  album_art: https://i.scdn.co/image/ab67616d00001e0225b055377757b3cdd6f26b78
+  artist: Kanye West
   is_playing: false
-  track: vivitics
-  url: https://open.spotify.com/track/5MzFVaCD2BTLYVTBq87Xtw
+  track: Jesus Walks
+  url: https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-07-28 11:34 UTC
+updated_at: 2026-07-28 14:00 UTC
