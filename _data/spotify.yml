@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e02ea8ab1a548312b79ac955266
   artist: Stevie Wonder
   is_playing: false
-  track: Living For The City
-  url: https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr
+  track: Visions
+  url: https://open.spotify.com/track/43LDXcy86qmEgfy6Wd2AZk
 top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-07-29 10:06 UTC
+updated_at: 2026-07-29 12:28 UTC
