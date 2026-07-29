@@ -1,14 +1,11 @@
 now_playing:
-  album: Innervisions
-  album_art: https://i.scdn.co/image/ab67616d00001e02ea8ab1a548312b79ac955266
-  artist: Stevie Wonder
+  album: Bookends
+  album_art: https://i.scdn.co/image/ab67616d00001e02e67cbc6061edcdaa6f0cf570
+  artist: Simon & Garfunkel
   is_playing: false
-  track: Visions
-  url: https://open.spotify.com/track/43LDXcy86qmEgfy6Wd2AZk
+  track: Mrs. Robinson - From "The Graduate" Soundtrack
+  url: https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC
 top_tracks:
-- artist: Lee Seung Chul
-  track: Jasmine
-  url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
   url: https://open.spotify.com/track/7uVKvaDWDpss7Ldj9kypLX
@@ -24,4 +21,7 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-07-29 12:28 UTC
+- artist: Lee Seung Chul
+  track: Jasmine
+  url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
+updated_at: 2026-07-29 14:51 UTC
