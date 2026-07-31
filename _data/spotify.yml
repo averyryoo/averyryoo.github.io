@@ -1,10 +1,10 @@
 now_playing:
-  album: Innervisions
-  album_art: https://i.scdn.co/image/ab67616d00001e02ea8ab1a548312b79ac955266
+  album: Fulfillingness' First Finale
+  album_art: https://i.scdn.co/image/ab67616d00001e02de0ccd19b3f72c1c4db92497
   artist: Stevie Wonder
   is_playing: false
-  track: Living For The City
-  url: https://open.spotify.com/track/3qvuhGBr6BSdGPQsdf2gLr
+  track: They Won't Go When I Go
+  url: https://open.spotify.com/track/1lIOMibFPfFYlJnjQaZluo
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
   url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
-updated_at: 2026-07-30 23:32 UTC
+updated_at: 2026-07-31 02:34 UTC
