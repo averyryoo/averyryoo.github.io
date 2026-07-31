@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e02de0ccd19b3f72c1c4db92497
   artist: Stevie Wonder
   is_playing: false
-  track: Bird Of Beauty
-  url: https://open.spotify.com/track/2IQE9PaIpiKmw2Xln7ghB1
+  track: Creepin'
+  url: https://open.spotify.com/track/0ZeIIH9cunWMWXPHfkZeMl
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -15,13 +15,13 @@ top_tracks:
 - artist: AZ
   track: Sugar Hill
   url: https://open.spotify.com/track/0lZWjBImx6kNe3WtOA09Xu
-- artist: Kendrick Lamar
-  track: DNA.
-  url: https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj
+- artist: Stevie Wonder
+  track: Boogie On Reggae Woman
+  url: https://open.spotify.com/track/7wOKVOhqghB6rCyaPWVegJ
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
 - artist: Lee Seung Chul
   track: Jasmine
   url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
-updated_at: 2026-07-31 11:37 UTC
+updated_at: 2026-07-31 13:59 UTC
