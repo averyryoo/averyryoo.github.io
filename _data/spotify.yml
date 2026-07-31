@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e02de0ccd19b3f72c1c4db92497
   artist: Stevie Wonder
   is_playing: false
-  track: They Won't Go When I Go
-  url: https://open.spotify.com/track/1lIOMibFPfFYlJnjQaZluo
+  track: Bird Of Beauty
+  url: https://open.spotify.com/track/2IQE9PaIpiKmw2Xln7ghB1
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
   url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
-updated_at: 2026-07-31 09:23 UTC
+updated_at: 2026-07-31 11:37 UTC
