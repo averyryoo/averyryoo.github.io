@@ -1,10 +1,10 @@
 now_playing:
-  album: Fulfillingness' First Finale
-  album_art: https://i.scdn.co/image/ab67616d00001e02de0ccd19b3f72c1c4db92497
+  album: The Definitive Collection (Deluxe Edition)
+  album_art: https://i.scdn.co/image/ab67616d00001e02835ed5fb9b70f46c3177ffde
   artist: Stevie Wonder
   is_playing: false
-  track: Creepin'
-  url: https://open.spotify.com/track/0ZeIIH9cunWMWXPHfkZeMl
+  track: Living For The City
+  url: https://open.spotify.com/track/1O1mCVN5hue4lOOqd5EysZ
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
   url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
-updated_at: 2026-08-01 17:59 UTC
+updated_at: 2026-08-01 19:21 UTC
