@@ -1,10 +1,10 @@
 now_playing:
-  album: Bon Iver, Bon Iver
-  album_art: https://i.scdn.co/image/ab67616d00001e024b6b1547455bbecb9f6bba64
-  artist: Bon Iver
-  is_playing: true
-  track: Holocene
-  url: https://open.spotify.com/track/35KiiILklye1JRRctaLUb4
+  album: Fulfillingness' First Finale
+  album_art: https://i.scdn.co/image/ab67616d00001e02de0ccd19b3f72c1c4db92497
+  artist: Stevie Wonder
+  is_playing: false
+  track: Smile Please
+  url: https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
   url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
-updated_at: 2026-08-02 21:25 UTC
+updated_at: 2026-08-02 22:26 UTC
