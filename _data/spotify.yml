@@ -1,10 +1,10 @@
 now_playing:
-  album: Bon Iver, Bon Iver
-  album_art: https://i.scdn.co/image/ab67616d00001e024b6b1547455bbecb9f6bba64
-  artist: Bon Iver
+  album: Revolver (Remastered)
+  album_art: https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a
+  artist: The Beatles
   is_playing: false
-  track: Holocene
-  url: https://open.spotify.com/track/35KiiILklye1JRRctaLUb4
+  track: Here, There And Everywhere - Remastered 2009
+  url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -12,16 +12,16 @@ top_tracks:
 - artist: Kevin Abstract, SoGone SoFlexy, Ameer Vann, Love Spells
   track: H-Town
   url: https://open.spotify.com/track/6UsYsmYnfzpIcTR0oqaQVw
-- artist: AZ
-  track: Sugar Hill
-  url: https://open.spotify.com/track/0lZWjBImx6kNe3WtOA09Xu
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
   url: https://open.spotify.com/track/7wOKVOhqghB6rCyaPWVegJ
+- artist: AZ
+  track: Sugar Hill
+  url: https://open.spotify.com/track/0lZWjBImx6kNe3WtOA09Xu
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
 - artist: Lee Seung Chul
   track: Jasmine
   url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
-updated_at: 2026-08-03 15:24 UTC
+updated_at: 2026-08-03 17:24 UTC
