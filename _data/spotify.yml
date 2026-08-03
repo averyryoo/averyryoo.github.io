@@ -1,10 +1,10 @@
 now_playing:
-  album: Revolver (Remastered)
-  album_art: https://i.scdn.co/image/ab67616d00001e0228b8b9b46428896e6491e97a
+  album: Sgt. Pepper's Lonely Hearts Club Band (Remastered)
+  album_art: https://i.scdn.co/image/ab67616d00001e0234ef8f7d06cf2fc2146f420a
   artist: The Beatles
   is_playing: false
-  track: Here, There And Everywhere - Remastered 2009
-  url: https://open.spotify.com/track/2B4Y9u4ERAFiMo13XPJyGP
+  track: Getting Better - Remastered 2009
+  url: https://open.spotify.com/track/3LtOmWpTXLhilL5odoKysR
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
   url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
-updated_at: 2026-08-03 17:24 UTC
+updated_at: 2026-08-03 19:05 UTC
