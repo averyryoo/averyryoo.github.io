@@ -1,10 +1,10 @@
 now_playing:
-  album: The Velvet Underground & Nico 45th Anniversary
-  album_art: https://i.scdn.co/image/ab67616d00001e0298260c528e6eec9dd431c1d7
-  artist: The Velvet Underground, Nico
+  album: Amnesiac
+  album_art: https://i.scdn.co/image/ab67616d00001e02863e0e305637100311c91aa7
+  artist: Radiohead
   is_playing: false
-  track: I'm Waiting For The Man
-  url: https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb
+  track: Packt Like Sardines In a Crushd Tin Box
+  url: https://open.spotify.com/track/0tDn82XkoueVV5q9G7OUAv
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-08-04 17:45 UTC
+updated_at: 2026-08-04 19:27 UTC
