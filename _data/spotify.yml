@@ -1,10 +1,10 @@
 now_playing:
-  album: Liquid Swords
-  album_art: https://i.scdn.co/image/ab67616d00001e0284b6abc19fb31fb382378bbc
-  artist: GZA, RZA, Ghostface Killah, Killah Priest
-  is_playing: false
-  track: 4th Chamber
-  url: https://open.spotify.com/track/4qfUlchVD7WM4JhA5xio6m
+  album: Electric Ladyland
+  album_art: https://i.scdn.co/image/ab67616d00001e02522088789d49e216d9818292
+  artist: Jimi Hendrix
+  is_playing: true
+  track: All Along the Watchtower
+  url: https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-08-04 11:02 UTC
+updated_at: 2026-08-04 13:14 UTC
