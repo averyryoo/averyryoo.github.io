@@ -1,10 +1,10 @@
 now_playing:
-  album: Electric Ladyland
-  album_art: https://i.scdn.co/image/ab67616d00001e02522088789d49e216d9818292
-  artist: Jimi Hendrix
-  is_playing: true
-  track: All Along the Watchtower
-  url: https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f
+  album: Songs In The Key Of Life
+  album_art: https://i.scdn.co/image/ab67616d00001e022fee61bfec596bb6f5447c50
+  artist: Stevie Wonder
+  is_playing: false
+  track: I Wish
+  url: https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-08-04 13:14 UTC
+updated_at: 2026-08-04 15:53 UTC
