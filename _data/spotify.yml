@@ -1,10 +1,10 @@
 now_playing:
-  album: Songs In The Key Of Life
-  album_art: https://i.scdn.co/image/ab67616d00001e022fee61bfec596bb6f5447c50
-  artist: Stevie Wonder
+  album: The Velvet Underground & Nico 45th Anniversary
+  album_art: https://i.scdn.co/image/ab67616d00001e0298260c528e6eec9dd431c1d7
+  artist: The Velvet Underground, Nico
   is_playing: false
-  track: I Wish
-  url: https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y
+  track: I'm Waiting For The Man
+  url: https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-08-04 15:53 UTC
+updated_at: 2026-08-04 17:45 UTC
