@@ -1,10 +1,10 @@
 now_playing:
-  album: Pure Comedy
-  album_art: https://i.scdn.co/image/ab67616d00001e022e74e5926952e461ea94f0e3
-  artist: Father John Misty
+  album: Grace
+  album_art: https://i.scdn.co/image/ab67616d00001e02afc2d1d2c8703a10aeded0af
+  artist: Jeff Buckley
   is_playing: false
-  track: Ballad of the Dying Man
-  url: https://open.spotify.com/track/0IFIJrJhp4UlMde4OYCPxb
+  track: Lover, You Should've Come Over
+  url: https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-08-03 23:34 UTC
+updated_at: 2026-08-04 02:13 UTC
