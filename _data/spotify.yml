@@ -3,8 +3,8 @@ now_playing:
   album_art: https://i.scdn.co/image/ab67616d00001e02863e0e305637100311c91aa7
   artist: Radiohead
   is_playing: false
-  track: Packt Like Sardines In a Crushd Tin Box
-  url: https://open.spotify.com/track/0tDn82XkoueVV5q9G7OUAv
+  track: Pulk/Pull Revolving Doors
+  url: https://open.spotify.com/track/6AIq6WIkWBoRUb6kTVY8yU
 top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-08-04 20:51 UTC
+updated_at: 2026-08-04 22:08 UTC
