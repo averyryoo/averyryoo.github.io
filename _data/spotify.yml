@@ -1,10 +1,10 @@
 now_playing:
   album: Freudian
   album_art: https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf
-  artist: Daniel Caesar, Kali Uchis
+  artist: Daniel Caesar
   is_playing: false
-  track: Get You (feat. Kali Uchis)
-  url: https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh
+  track: Blessed
+  url: https://open.spotify.com/track/2XjoHA58XD0t3qye8bYGU8
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Lee Seung Chul
   track: Jasmine
   url: https://open.spotify.com/track/7DTkq3BsVzztMPSsgiUnrv
-updated_at: 2026-08-05 20:43 UTC
+updated_at: 2026-08-05 22:10 UTC
