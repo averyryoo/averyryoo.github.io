@@ -1,10 +1,10 @@
 now_playing:
-  album: Freudian
-  album_art: https://i.scdn.co/image/ab67616d00001e027aa8783ad8def37cc548a9cf
+  album: NEVER ENOUGH
+  album_art: https://i.scdn.co/image/ab67616d00001e02e84f43fcd694182cfd25a3e3
   artist: Daniel Caesar
-  is_playing: false
-  track: Freudian
-  url: https://open.spotify.com/track/1WFgv04BZTx6gZWQNE6Sp7
+  is_playing: true
+  track: Let Me Go
+  url: https://open.spotify.com/track/0cE1CAG5yunIjnHWLAZNub
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Here Comes The Sun - Remastered 2009
   url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-08-06 10:08 UTC
+updated_at: 2026-08-06 12:25 UTC
