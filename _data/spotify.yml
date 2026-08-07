@@ -1,10 +1,10 @@
 now_playing:
-  album: O
-  album_art: https://i.scdn.co/image/ab67616d00001e025699ca5a7af862fa5a522016
-  artist: Damien Rice
+  album: CASE STUDY 01
+  album_art: https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947
+  artist: Daniel Caesar
   is_playing: false
-  track: Volcano
-  url: https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD
+  track: ENTROPY
+  url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -21,7 +21,7 @@ top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
   url: https://open.spotify.com/track/7uVKvaDWDpss7Ldj9kypLX
-- artist: The Beatles
-  track: Getting Better - 2017 Mix
-  url: https://open.spotify.com/track/3jR8Xw0qPyGGv8bvFtNmDw
-updated_at: 2026-08-07 12:56 UTC
+- artist: Damien Rice
+  track: Older Chests
+  url: https://open.spotify.com/track/2euZEspBxYfpKoZVN1E386
+updated_at: 2026-08-07 14:12 UTC
