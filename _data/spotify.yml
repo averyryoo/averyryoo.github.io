@@ -1,10 +1,10 @@
 now_playing:
   album: CASE STUDY 01
   album_art: https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947
-  artist: Daniel Caesar
+  artist: Daniel Caesar, Brandy
   is_playing: false
-  track: ENTROPY
-  url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
+  track: LOVE AGAIN
+  url: https://open.spotify.com/track/7AzVV4CtTbzLVMc5GDVWZj
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Damien Rice
   track: Older Chests
   url: https://open.spotify.com/track/2euZEspBxYfpKoZVN1E386
-updated_at: 2026-08-07 14:12 UTC
+updated_at: 2026-08-07 15:23 UTC
