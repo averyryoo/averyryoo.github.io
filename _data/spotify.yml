@@ -1,10 +1,10 @@
 now_playing:
-  album: NEVER ENOUGH
-  album_art: https://i.scdn.co/image/ab67616d00001e02e84f43fcd694182cfd25a3e3
-  artist: Daniel Caesar
+  album: O
+  album_art: https://i.scdn.co/image/ab67616d00001e025699ca5a7af862fa5a522016
+  artist: Damien Rice
   is_playing: false
-  track: Do You Like Me?
-  url: https://open.spotify.com/track/0dK28q5xe4s6Q6DKKMg1Nz
+  track: Volcano
+  url: https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -12,6 +12,9 @@ top_tracks:
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
   url: https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh
+- artist: Freddie Gibbs, Madlib
+  track: Uno
+  url: https://open.spotify.com/track/272JOgS6zKLtqzdPEcrnA6
 - artist: Kevin Abstract, SoGone SoFlexy, Ameer Vann, Love Spells
   track: H-Town
   url: https://open.spotify.com/track/6UsYsmYnfzpIcTR0oqaQVw
@@ -21,7 +24,4 @@ top_tracks:
 - artist: The Beatles
   track: Getting Better - 2017 Mix
   url: https://open.spotify.com/track/3jR8Xw0qPyGGv8bvFtNmDw
-- artist: The Beatles
-  track: Here Comes The Sun - Remastered 2009
-  url: https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2
-updated_at: 2026-08-06 14:52 UTC
+updated_at: 2026-08-07 00:22 UTC
