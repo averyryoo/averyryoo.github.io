@@ -1,10 +1,10 @@
 now_playing:
   album: NEVER ENOUGH (Bonus Version)
   album_art: https://i.scdn.co/image/ab67616d00001e02e242f18dafe885fcf425fe1f
-  artist: Daniel Caesar
-  is_playing: false
-  track: Vince Van Gogh
-  url: https://open.spotify.com/track/4d1e0D3cYqyx4tO129YYqH
+  artist: Daniel Caesar, Summer Walker
+  is_playing: true
+  track: Always (feat. Summer Walker) - Bonus
+  url: https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
   url: https://open.spotify.com/track/7uVKvaDWDpss7Ldj9kypLX
-updated_at: 2026-08-08 22:25 UTC
+updated_at: 2026-08-08 22:56 UTC
