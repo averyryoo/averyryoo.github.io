@@ -1,10 +1,10 @@
 now_playing:
   album: NEVER ENOUGH (Bonus Version)
   album_art: https://i.scdn.co/image/ab67616d00001e02e242f18dafe885fcf425fe1f
-  artist: Daniel Caesar
-  is_playing: true
-  track: Shot My Baby
-  url: https://open.spotify.com/track/6lrYBcuR6Q1YWtSGFmJ48H
+  artist: Daniel Caesar, Ty Dolla $ign
+  is_playing: false
+  track: Homiesexual (with Ty Dolla $ign)
+  url: https://open.spotify.com/track/0Z6nryp4FW5BFJbV5KDQr5
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
   url: https://open.spotify.com/track/7uVKvaDWDpss7Ldj9kypLX
-updated_at: 2026-08-08 15:36 UTC
+updated_at: 2026-08-08 16:29 UTC
