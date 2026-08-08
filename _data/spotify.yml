@@ -1,10 +1,10 @@
 now_playing:
-  album: CASE STUDY 01
-  album_art: https://i.scdn.co/image/ab67616d00001e02969c21ea34fe372a3e468947
+  album: NEVER ENOUGH
+  album_art: https://i.scdn.co/image/ab67616d00001e02e84f43fcd694182cfd25a3e3
   artist: Daniel Caesar
-  is_playing: false
-  track: ARE YOU OK?
-  url: https://open.spotify.com/track/5Ji2rXNyEQfTIGz1PEkLK9
+  is_playing: true
+  track: Always
+  url: https://open.spotify.com/track/2g5eyjDwIUDiA5mc3nSoVm
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-08 13:42 UTC
+updated_at: 2026-08-08 14:28 UTC
