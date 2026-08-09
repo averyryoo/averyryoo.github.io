@@ -1,10 +1,10 @@
 now_playing:
-  album: Please Do Not Lean
-  album_art: https://i.scdn.co/image/ab67616d00001e0267a8afb7c3e34748f5faf8d8
-  artist: Daniel Caesar, BADBADNOTGOOD
-  is_playing: false
-  track: Please Do Not Lean (feat. BADBADNOTGOOD)
-  url: https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3
+  album: The Album
+  album_art: https://i.scdn.co/image/ab67616d00001e02bbb61a9df94d673defb2b8fc
+  artist: Panjabi MC
+  is_playing: true
+  track: Mundian To Bach Ke
+  url: https://open.spotify.com/track/2LxAeJ9KUj1GRS9oeHgQ3i
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
   url: https://open.spotify.com/track/7uVKvaDWDpss7Ldj9kypLX
-updated_at: 2026-08-09 12:42 UTC
+updated_at: 2026-08-09 13:46 UTC
