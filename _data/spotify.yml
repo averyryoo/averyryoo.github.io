@@ -2,7 +2,7 @@ now_playing:
   album: The Album
   album_art: https://i.scdn.co/image/ab67616d00001e02bbb61a9df94d673defb2b8fc
   artist: Panjabi MC
-  is_playing: true
+  is_playing: false
   track: Mundian To Bach Ke
   url: https://open.spotify.com/track/2LxAeJ9KUj1GRS9oeHgQ3i
 top_tracks:
@@ -21,7 +21,7 @@ top_tracks:
 - artist: Kevin Abstract, SoGone SoFlexy, Ameer Vann, Love Spells
   track: H-Town
   url: https://open.spotify.com/track/6UsYsmYnfzpIcTR0oqaQVw
-- artist: Bruno Mars, R Kelly And Pharrell
-  track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
-  url: https://open.spotify.com/track/7uVKvaDWDpss7Ldj9kypLX
-updated_at: 2026-08-09 13:46 UTC
+- artist: Daniel Caesar
+  track: ENTROPY
+  url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
+updated_at: 2026-08-09 14:31 UTC
