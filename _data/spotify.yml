@@ -1,10 +1,10 @@
 now_playing:
-  album: NEVER ENOUGH (Bonus Version)
-  album_art: https://i.scdn.co/image/ab67616d00001e02e242f18dafe885fcf425fe1f
-  artist: Daniel Caesar, Rick Ross
-  is_playing: false
-  track: Valentina (feat. Rick Ross) - Bonus
-  url: https://open.spotify.com/track/7DthGkMhQH9REePi7nBUm4
+  album: Wheatus
+  album_art: https://i.scdn.co/image/ab67616d00001e020a3740efa638f10f14fabc46
+  artist: Wheatus
+  is_playing: true
+  track: Teenage Dirtbag
+  url: https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Bruno Mars, R Kelly And Pharrell
   track: Gorilla (feat. R. Kelly and Pharrell) - G-Mix
   url: https://open.spotify.com/track/7uVKvaDWDpss7Ldj9kypLX
-updated_at: 2026-08-08 23:30 UTC
+updated_at: 2026-08-09 01:26 UTC
