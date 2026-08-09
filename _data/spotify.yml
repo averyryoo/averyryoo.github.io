@@ -1,10 +1,10 @@
 now_playing:
-  album: The Album
-  album_art: https://i.scdn.co/image/ab67616d00001e02bbb61a9df94d673defb2b8fc
-  artist: Panjabi MC
+  album: What's Going On
+  album_art: https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc
+  artist: Marvin Gaye
   is_playing: false
-  track: Mundian To Bach Ke
-  url: https://open.spotify.com/track/2LxAeJ9KUj1GRS9oeHgQ3i
+  track: What's Going On
+  url: https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-09 14:31 UTC
+updated_at: 2026-08-09 15:27 UTC
