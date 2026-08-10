@@ -1,10 +1,10 @@
 now_playing:
-  album: Son Of Spergy
-  album_art: https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc
-  artist: Daniel Caesar, Bon Iver
+  album: So Much Fun
+  album_art: https://i.scdn.co/image/ab67616d00001e028da62aa4aa86bb58f67196e9
+  artist: Young Thug, J. Cole, Travis Scott
   is_playing: false
-  track: Sins Of The Father (Feat. Bon Iver)
-  url: https://open.spotify.com/track/79CUSO4qG6YPg26J9nhZnS
+  track: The London (feat. J. Cole & Travis Scott)
+  url: https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-10 18:53 UTC
+updated_at: 2026-08-10 19:53 UTC
