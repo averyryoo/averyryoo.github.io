@@ -1,10 +1,10 @@
 now_playing:
-  album: High Off Life
-  album_art: https://i.scdn.co/image/ab67616d00001e027459c852e9479c56eceae52a
-  artist: Future, Drake
+  album: Perfect Ten
+  album_art: https://i.scdn.co/image/ab67616d00001e0293b1e96fad758869d0974162
+  artist: Mustard, Migos
   is_playing: false
-  track: Life Is Good (feat. Drake)
-  url: https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3
+  track: Pure Water (with Migos)
+  url: https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-10 22:33 UTC
+updated_at: 2026-08-10 23:32 UTC
