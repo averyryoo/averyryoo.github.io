@@ -1,10 +1,10 @@
 now_playing:
-  album: So Much Fun
-  album_art: https://i.scdn.co/image/ab67616d00001e028da62aa4aa86bb58f67196e9
-  artist: Young Thug, J. Cole, Travis Scott
+  album: High Off Life
+  album_art: https://i.scdn.co/image/ab67616d00001e027459c852e9479c56eceae52a
+  artist: Future, Drake
   is_playing: false
-  track: The London (feat. J. Cole & Travis Scott)
-  url: https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n
+  track: Life Is Good (feat. Drake)
+  url: https://open.spotify.com/track/1K5KBOgreBi5fkEHvg5ap3
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-10 19:53 UTC
+updated_at: 2026-08-10 20:38 UTC
