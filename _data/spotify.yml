@@ -1,10 +1,10 @@
 now_playing:
-  album: What's Going On
-  album_art: https://i.scdn.co/image/ab67616d00001e02b36949bee43217351961ffbc
-  artist: Marvin Gaye
+  album: Son Of Spergy
+  album_art: https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc
+  artist: Daniel Caesar, Bon Iver
   is_playing: false
-  track: What's Going On
-  url: https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l
+  track: Sins Of The Father (Feat. Bon Iver)
+  url: https://open.spotify.com/track/79CUSO4qG6YPg26J9nhZnS
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-10 17:51 UTC
+updated_at: 2026-08-10 18:53 UTC
