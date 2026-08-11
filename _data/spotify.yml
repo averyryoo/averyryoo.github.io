@@ -1,10 +1,10 @@
 now_playing:
-  album: Culture II
-  album_art: https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890
-  artist: Migos, Nicki Minaj, Cardi B
+  album: Championships
+  album_art: https://i.scdn.co/image/ab67616d00001e02cd63c5962050729d260077d6
+  artist: Meek Mill, Drake
   is_playing: false
-  track: MotorSport
-  url: https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt
+  track: Going Bad (feat. Drake)
+  url: https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-11 11:41 UTC
+updated_at: 2026-08-11 12:57 UTC
