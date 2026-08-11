@@ -1,10 +1,10 @@
 now_playing:
   album: Culture II
   album_art: https://i.scdn.co/image/ab67616d00001e029c188c494d8bfaf895411890
-  artist: Migos, Drake
+  artist: Migos, Nicki Minaj, Cardi B
   is_playing: false
-  track: Walk It Talk It
-  url: https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP
+  track: MotorSport
+  url: https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-11 01:25 UTC
+updated_at: 2026-08-11 03:18 UTC
