@@ -1,10 +1,10 @@
 now_playing:
-  album: Championships
-  album_art: https://i.scdn.co/image/ab67616d00001e02cd63c5962050729d260077d6
-  artist: Meek Mill, Drake
+  album: JACKBOYS
+  album_art: https://i.scdn.co/image/ab67616d00001e02b920fc01c37be38130418a34
+  artist: JACKBOYS, Travis Scott, Young Thug
   is_playing: false
-  track: Going Bad (feat. Drake)
-  url: https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc
+  track: OUT WEST (feat. Young Thug)
+  url: https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-11 12:57 UTC
+updated_at: 2026-08-11 14:19 UTC
