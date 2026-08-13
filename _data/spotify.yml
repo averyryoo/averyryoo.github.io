@@ -1,10 +1,10 @@
 now_playing:
-  album: ASTROWORLD
-  album_art: https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32
-  artist: Travis Scott
-  is_playing: true
-  track: STARGAZING
-  url: https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m
+  album: DAMN.
+  album_art: https://i.scdn.co/image/ab67616d00001e028b52c6b9bc4e43d873869699
+  artist: Kendrick Lamar
+  is_playing: false
+  track: HUMBLE.
+  url: https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-13 11:53 UTC
+updated_at: 2026-08-13 13:03 UTC
