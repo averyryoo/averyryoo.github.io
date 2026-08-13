@@ -1,10 +1,10 @@
 now_playing:
-  album: JACKBOYS
-  album_art: https://i.scdn.co/image/ab67616d00001e02b920fc01c37be38130418a34
-  artist: JACKBOYS, Travis Scott, Young Thug
-  is_playing: false
-  track: OUT WEST (feat. Young Thug)
-  url: https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw
+  album: ASTROWORLD
+  album_art: https://i.scdn.co/image/ab67616d00001e02daec894c14c0ca42d76eeb32
+  artist: Travis Scott
+  is_playing: true
+  track: STARGAZING
+  url: https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: ENTROPY
   url: https://open.spotify.com/track/2Ng5xZRhvObLUiTzI0slN6
-updated_at: 2026-08-13 10:58 UTC
+updated_at: 2026-08-13 11:53 UTC
