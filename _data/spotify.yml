@@ -1,10 +1,10 @@
 now_playing:
-  album: Son Of Spergy
-  album_art: https://i.scdn.co/image/ab67616d00001e022bad6e56e77d5bef0aa3f2dc
-  artist: Daniel Caesar
-  is_playing: true
-  track: Root of all Evil
-  url: https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd
+  album: Thee Sacred Souls
+  album_art: https://i.scdn.co/image/ab67616d00001e024bc05e5b1e506a6acea17148
+  artist: Thee Sacred Souls
+  is_playing: false
+  track: Lady Love
+  url: https://open.spotify.com/track/5Uhr87fTMOrVBhc8gNU7Z8
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-15 21:17 UTC
+updated_at: 2026-08-15 21:44 UTC
