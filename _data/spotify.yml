@@ -1,10 +1,10 @@
 now_playing:
-  album: Thee Sacred Souls
-  album_art: https://i.scdn.co/image/ab67616d00001e024bc05e5b1e506a6acea17148
-  artist: Thee Sacred Souls
+  album: put it on hearts - A COLORS SHOW
+  album_art: https://i.scdn.co/image/ab67616d00001e02bf4ea97cc781b449a0f63382
+  artist: WHATMORE, COLORS
   is_playing: false
-  track: Lady Love
-  url: https://open.spotify.com/track/5Uhr87fTMOrVBhc8gNU7Z8
+  track: put it on hearts - A COLORS SHOW
+  url: https://open.spotify.com/track/1ic5fMbVH9lTciJafh8EKU
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -12,16 +12,16 @@ top_tracks:
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
   url: https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh
-- artist: Freddie Gibbs, Madlib
-  track: Uno
-  url: https://open.spotify.com/track/272JOgS6zKLtqzdPEcrnA6
 - artist: Daniel Caesar
   track: Let Me Go
   url: https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5
+- artist: Freddie Gibbs, Madlib
+  track: Uno
+  url: https://open.spotify.com/track/272JOgS6zKLtqzdPEcrnA6
 - artist: Kevin Abstract, SoGone SoFlexy, Ameer Vann, Love Spells
   track: H-Town
   url: https://open.spotify.com/track/6UsYsmYnfzpIcTR0oqaQVw
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-15 21:44 UTC
+updated_at: 2026-08-15 22:17 UTC
