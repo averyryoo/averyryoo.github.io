@@ -1,10 +1,10 @@
 now_playing:
-  album: put it on hearts - A COLORS SHOW
-  album_art: https://i.scdn.co/image/ab67616d00001e02bf4ea97cc781b449a0f63382
-  artist: WHATMORE, COLORS
+  album: WHATMORE
+  album_art: https://i.scdn.co/image/ab67616d00001e0242449dc8d72faa3e65b147d0
+  artist: WHATMORE
   is_playing: false
-  track: put it on hearts - A COLORS SHOW
-  url: https://open.spotify.com/track/1ic5fMbVH9lTciJafh8EKU
+  track: jackie chan
+  url: https://open.spotify.com/track/68gDXFss7XM5Rfcwb9F6s8
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-16 16:20 UTC
+updated_at: 2026-08-16 16:49 UTC
