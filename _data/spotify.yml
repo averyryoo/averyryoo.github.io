@@ -1,10 +1,10 @@
 now_playing:
-  album: Blonde
-  album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
-  artist: Frank Ocean
+  album: Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)
+  album_art: https://i.scdn.co/image/ab67616d00001e0207b38c781af896c260c5816f
+  artist: Free Nationals, Daniel Caesar, Unknown Mortal Orchestra
   is_playing: false
-  track: Nikes
-  url: https://open.spotify.com/track/19YKaevk2bce4odJkP5L22
+  track: Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)
+  url: https://open.spotify.com/track/4ej94zqr9xYLbWphCH3TcD
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-23 22:18 UTC
+updated_at: 2026-08-23 22:46 UTC
