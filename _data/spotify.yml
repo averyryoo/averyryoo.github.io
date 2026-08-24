@@ -1,10 +1,10 @@
 now_playing:
-  album: Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)
-  album_art: https://i.scdn.co/image/ab67616d00001e0207b38c781af896c260c5816f
-  artist: Free Nationals, Daniel Caesar, Unknown Mortal Orchestra
+  album: Scorpion
+  album_art: https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5
+  artist: Drake
   is_playing: false
-  track: Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)
-  url: https://open.spotify.com/track/4ej94zqr9xYLbWphCH3TcD
+  track: In My Feelings
+  url: https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar
   track: Root of all Evil
   url: https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd
-updated_at: 2026-08-24 12:42 UTC
+updated_at: 2026-08-24 13:58 UTC
