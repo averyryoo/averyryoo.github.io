@@ -1,10 +1,10 @@
 now_playing:
-  album: Scorpion
-  album_art: https://i.scdn.co/image/ab67616d00001e02f907de96b9a4fbc04accc0d5
-  artist: Drake
+  album: WHATMORE
+  album_art: https://i.scdn.co/image/ab67616d00001e0242449dc8d72faa3e65b147d0
+  artist: WHATMORE
   is_playing: false
-  track: In My Feelings
-  url: https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ
+  track: jenny's
+  url: https://open.spotify.com/track/4B8gJ30tZamoY1CjnG35qT
 top_tracks:
 - artist: Stevie Wonder
   track: Boogie On Reggae Woman
@@ -18,10 +18,10 @@ top_tracks:
 - artist: Freddie Gibbs, Madlib
   track: Uno
   url: https://open.spotify.com/track/272JOgS6zKLtqzdPEcrnA6
+- artist: WHATMORE
+  track: emptyy
+  url: https://open.spotify.com/track/4L9CEZqT2AbzZqaxSK5mIW
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-- artist: Daniel Caesar
-  track: Root of all Evil
-  url: https://open.spotify.com/track/2SeynaXh3RsTyun1DitBgd
-updated_at: 2026-08-26 01:07 UTC
+updated_at: 2026-08-26 02:45 UTC
