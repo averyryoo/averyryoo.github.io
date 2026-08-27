@@ -1,14 +1,11 @@
 now_playing:
-  album: Dark Magic
-  album_art: https://i.scdn.co/image/ab67616d00001e025c1ee4387d92c8a7fd653b23
-  artist: Quadeca
+  album: Boston
+  album_art: https://i.scdn.co/image/ab67616d00001e02e6cb19b02e38d18246ac334f
+  artist: STELLA LEFTY
   is_playing: false
-  track: Dark Magic
-  url: https://open.spotify.com/track/60hga4vu4erXRxcxEGDLMQ
+  track: Boston
+  url: https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN
 top_tracks:
-- artist: Stevie Wonder
-  track: Boogie On Reggae Woman
-  url: https://open.spotify.com/track/7wOKVOhqghB6rCyaPWVegJ
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
   url: https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh
@@ -21,7 +18,10 @@ top_tracks:
 - artist: WHATMORE
   track: emptyy
   url: https://open.spotify.com/track/4L9CEZqT2AbzZqaxSK5mIW
+- artist: Stevie Wonder
+  track: Boogie On Reggae Woman
+  url: https://open.spotify.com/track/7wOKVOhqghB6rCyaPWVegJ
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-27 00:26 UTC
+updated_at: 2026-08-27 10:07 UTC
