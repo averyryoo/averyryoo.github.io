@@ -1,10 +1,10 @@
 now_playing:
-  album: Greatest Hits
-  album_art: https://i.scdn.co/image/ab67616d00001e02d81a092eb373ded457d94eec
-  artist: 2Pac
+  album: Blonde
+  album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
+  artist: Frank Ocean
   is_playing: false
-  track: Hail Mary
-  url: https://open.spotify.com/track/2zoobJFEB9h15fjYjRd6oP
+  track: Seigfried
+  url: https://open.spotify.com/track/1BViPjTT585XAhkUUrkts0
 top_tracks:
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
@@ -15,13 +15,13 @@ top_tracks:
 - artist: Freddie Gibbs, Madlib
   track: Uno
   url: https://open.spotify.com/track/272JOgS6zKLtqzdPEcrnA6
+- artist: Frank Ocean
+  track: White Ferrari
+  url: https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV
 - artist: WHATMORE
   track: emptyy
   url: https://open.spotify.com/track/4L9CEZqT2AbzZqaxSK5mIW
-- artist: Stevie Wonder
-  track: Boogie On Reggae Woman
-  url: https://open.spotify.com/track/7wOKVOhqghB6rCyaPWVegJ
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-28 05:05 UTC
+updated_at: 2026-08-28 17:35 UTC
