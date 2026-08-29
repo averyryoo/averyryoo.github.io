@@ -1,10 +1,10 @@
 now_playing:
-  album: Blonde
-  album_art: https://i.scdn.co/image/ab67616d00001e02c5649add07ed3720be9d5526
-  artist: Frank Ocean
-  is_playing: false
-  track: Seigfried
-  url: https://open.spotify.com/track/1BViPjTT585XAhkUUrkts0
+  album: Bon Iver, Bon Iver
+  album_art: https://i.scdn.co/image/ab67616d00001e024b6b1547455bbecb9f6bba64
+  artist: Bon Iver
+  is_playing: true
+  track: Calgary
+  url: https://open.spotify.com/track/3rL3jc6CA4SS1eqzGwR877
 top_tracks:
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-28 17:35 UTC
+updated_at: 2026-08-29 01:26 UTC
