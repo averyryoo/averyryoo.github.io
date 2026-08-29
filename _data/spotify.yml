@@ -1,10 +1,10 @@
 now_playing:
-  album: Woodland
-  album_art: https://i.scdn.co/image/ab67616d00001e0255bd9d9e0f50d28ddc9c1308
-  artist: The Paper Kites
+  album: Pure Comedy
+  album_art: https://i.scdn.co/image/ab67616d00001e022e74e5926952e461ea94f0e3
+  artist: Father John Misty
   is_playing: false
-  track: Bloom - Bonus Track
-  url: https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D
+  track: So I'm Growing Old on Magic Mountain
+  url: https://open.spotify.com/track/6ZVUeBk7Y9EGG1l6OBplU1
 top_tracks:
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-29 17:30 UTC
+updated_at: 2026-08-29 20:23 UTC
