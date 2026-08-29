@@ -1,10 +1,10 @@
 now_playing:
-  album: Fleet Foxes
-  album_art: https://i.scdn.co/image/ab67616d00001e023818b4c636e2a7fdea3bf965
-  artist: Fleet Foxes
+  album: Woodland
+  album_art: https://i.scdn.co/image/ab67616d00001e0255bd9d9e0f50d28ddc9c1308
+  artist: The Paper Kites
   is_playing: false
-  track: Blue Ridge Mountains
-  url: https://open.spotify.com/track/7bzzC7QIfflM9eEj2aqaYX
+  track: Bloom - Bonus Track
+  url: https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D
 top_tracks:
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-29 13:55 UTC
+updated_at: 2026-08-29 17:30 UTC
