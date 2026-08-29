@@ -1,10 +1,10 @@
 now_playing:
-  album: Bon Iver, Bon Iver
-  album_art: https://i.scdn.co/image/ab67616d00001e024b6b1547455bbecb9f6bba64
-  artist: Bon Iver
-  is_playing: true
-  track: Calgary
-  url: https://open.spotify.com/track/3rL3jc6CA4SS1eqzGwR877
+  album: Fleet Foxes
+  album_art: https://i.scdn.co/image/ab67616d00001e023818b4c636e2a7fdea3bf965
+  artist: Fleet Foxes
+  is_playing: false
+  track: Blue Ridge Mountains
+  url: https://open.spotify.com/track/7bzzC7QIfflM9eEj2aqaYX
 top_tracks:
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
@@ -24,4 +24,4 @@ top_tracks:
 - artist: Daniel Caesar, Bon Iver
   track: Moon (Feat. Bon Iver)
   url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-29 01:26 UTC
+updated_at: 2026-08-29 08:09 UTC
