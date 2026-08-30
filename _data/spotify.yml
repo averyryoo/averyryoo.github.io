@@ -1,14 +1,17 @@
 now_playing:
-  album: Pure Comedy
-  album_art: https://i.scdn.co/image/ab67616d00001e022e74e5926952e461ea94f0e3
-  artist: Father John Misty
+  album: Live on Red Barn Radio I & II
+  album_art: https://i.scdn.co/image/ab67616d00001e029cbbbdd15ff65aaab9a611b0
+  artist: Tyler Childers
   is_playing: false
-  track: So I'm Growing Old on Magic Mountain
-  url: https://open.spotify.com/track/6ZVUeBk7Y9EGG1l6OBplU1
+  track: Shake the Frost (Live)
+  url: https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o
 top_tracks:
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
   url: https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh
+- artist: Father John Misty
+  track: Ballad of the Dying Man
+  url: https://open.spotify.com/track/0IFIJrJhp4UlMde4OYCPxb
 - artist: Daniel Caesar
   track: Let Me Go
   url: https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5
@@ -21,7 +24,4 @@ top_tracks:
 - artist: WHATMORE
   track: emptyy
   url: https://open.spotify.com/track/4L9CEZqT2AbzZqaxSK5mIW
-- artist: Daniel Caesar, Bon Iver
-  track: Moon (Feat. Bon Iver)
-  url: https://open.spotify.com/track/1lh5stJGmaVucEdExCqEVm
-updated_at: 2026-08-30 13:06 UTC
+updated_at: 2026-08-30 17:40 UTC
