@@ -1,10 +1,10 @@
 now_playing:
-  album: Crack-Up
-  album_art: https://i.scdn.co/image/ab67616d00001e0271b24e854cdd7633cb5baaa7
-  artist: Fleet Foxes
+  album: Bon Iver, Bon Iver
+  album_art: https://i.scdn.co/image/ab67616d00001e024b6b1547455bbecb9f6bba64
+  artist: Bon Iver
   is_playing: false
-  track: If You Need To, Keep Time on Me
-  url: https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ
+  track: Towers
+  url: https://open.spotify.com/track/7CIKMtUUz31yX6MNX2nGbB
 top_tracks:
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
@@ -24,4 +24,4 @@ top_tracks:
 - artist: WHATMORE
   track: emptyy
   url: https://open.spotify.com/track/4L9CEZqT2AbzZqaxSK5mIW
-updated_at: 2026-08-31 01:27 UTC
+updated_at: 2026-08-31 07:23 UTC
