@@ -1,10 +1,10 @@
 now_playing:
-  album: Live on Red Barn Radio I & II
-  album_art: https://i.scdn.co/image/ab67616d00001e029cbbbdd15ff65aaab9a611b0
-  artist: Tyler Childers
+  album: Crack-Up
+  album_art: https://i.scdn.co/image/ab67616d00001e0271b24e854cdd7633cb5baaa7
+  artist: Fleet Foxes
   is_playing: false
-  track: Shake the Frost (Live)
-  url: https://open.spotify.com/track/19MkwMrRjO7773zpuGss1o
+  track: If You Need To, Keep Time on Me
+  url: https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ
 top_tracks:
 - artist: Daniel Caesar, Kali Uchis
   track: Get You (feat. Kali Uchis)
@@ -24,4 +24,4 @@ top_tracks:
 - artist: WHATMORE
   track: emptyy
   url: https://open.spotify.com/track/4L9CEZqT2AbzZqaxSK5mIW
-updated_at: 2026-08-30 23:08 UTC
+updated_at: 2026-08-31 01:27 UTC
